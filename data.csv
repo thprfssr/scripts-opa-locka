@@ -1,39 +1,34 @@
 Fund,Balance,Category,Type
-001,583662,Cash,1. Asset
-001,-1145,Cash,1. Asset
-001,223172,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,700,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,200,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,0,Cash,1. Asset
-001,979,Cash,1. Asset
-001,500,Cash,1. Asset
-001,0,Cash,1. Asset
+001,583661.57,Unrestricted Cash,1. Asset
+001,-1144.66,Unrestricted Cash,1. Asset
+001,223172.24,Restricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,700,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,200,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,979.48,Unrestricted Cash,1. Asset
+001,500,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
 001,0,AR Net,1. Asset
 001,0,AR Net,1. Asset
 001,0,AR Net,1. Asset
 001,0,AR Net,1. Asset
-001,174,AR Net,1. Asset
-001,147248,AR Net,1. Asset
+001,173.67,AR Net,1. Asset
+001,147247.76,AR Net,1. Asset
 001,0,AR Net,1. Asset
-001,46693,AR Net,1. Asset
-001,0,AR Net,1. Asset
-001,0,AR Net,1. Asset
-001,0,AR Net,1. Asset
-001,0,AR Net,1. Asset
-001,0,AR Net,1. Asset
+001,46693.43,AR Net,1. Asset
 001,0,AR Net,1. Asset
 001,0,AR Net,1. Asset
 001,0,AR Net,1. Asset
@@ -43,28 +38,33 @@ Fund,Balance,Category,Type
 001,0,AR Net,1. Asset
 001,0,AR Net,1. Asset
 001,0,AR Net,1. Asset
-001,3775871,Interfund Balances R,1. Asset
-001,814760,Interfund Balances R,1. Asset
-001,-8024,Interfund Balances R,1.1 Asset  - Interfund
+001,0,AR Net,1. Asset
+001,0,AR Net,1. Asset
+001,0,AR Net,1. Asset
+001,0,AR Net,1. Asset
+001,0,AR Net,1. Asset
+001,3775870.57,Interfund Balances R,1.1 Asset  - Interfund
+001,814759.96,Interfund Balances R,1.1 Asset  - Interfund
+001,-23.73,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
-001,2100813,Interfund Balances R,1.1 Asset  - Interfund
+001,2100812.82,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
-001,45583,Interfund Balances R,1.1 Asset  - Interfund
+001,72924.24,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
-001,3443311,Interfund Balances R,1.1 Asset  - Interfund
+001,3443310.98,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Interfund Balances R,1.1 Asset  - Interfund
-001,2477527,Interfund Balances R,1.1 Asset  - Interfund
-001,417630,Interfund Balances R,1.1 Asset  - Interfund
-001,2541282,Interfund Balances R,1.1 Asset  - Interfund
-001,1173085,Interfund Balances R,1.1 Asset  - Interfund
-001,1859340,Interfund Balances R,1.1 Asset  - Interfund
+001,2477527.26,Interfund Balances R,1.1 Asset  - Interfund
+001,417629.62,Interfund Balances R,1.1 Asset  - Interfund
+001,2541281.98,Interfund Balances R,1.1 Asset  - Interfund
+001,1173085.4,Interfund Balances R,1.1 Asset  - Interfund
+001,1859339.81,Interfund Balances R,1.1 Asset  - Interfund
 001,0,Intergovernmental Rec,1. Asset
 001,0,Intergovernmental Rec,1. Asset
 001,0,Intergovernmental Rec,1. Asset
@@ -84,7 +84,7 @@ Fund,Balance,Category,Type
 001,0,Prepaids and Other,1. Asset
 001,0,Prepaids and Other,1. Asset
 001,0,Prepaids and Other,1. Asset
-001,39748,Prepaids and Other,1. Asset
+001,39748.24,Prepaids and Other,1. Asset
 001,0,Prepaids and Other,1. Asset
 001,0,LAND,1. Asset
 001,0,LAND,1. Asset
@@ -118,7 +118,7 @@ Fund,Balance,Category,Type
 001,0,Furniture and Equipment,1. Asset
 001,0,Infrastructure Net,1. Asset
 001,0,Furniture and Equipment,1. Asset
-001,-264025,Accounts Payable,2. Liability
+001,-264024.86,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
@@ -136,59 +136,59 @@ Fund,Balance,Category,Type
 001,0,Accounts Payable,2. Liability
 001,0,Current Debt,2. Liability
 001,0,Interfund Balances P,2.1 Interfund Payable
-001,-447877,Interfund Balances P,2.1 Interfund Payable
-001,-249763,Interfund Balances P,2.1 Interfund Payable
-001,-402529,Interfund Balances P,2.1 Interfund Payable
+001,-447876.94,Interfund Balances P,2.1 Interfund Payable
+001,-249763.02,Interfund Balances P,2.1 Interfund Payable
+001,-410528.82,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
-001,-2044661,Interfund Balances P,2.1 Interfund Payable
+001,-2044660.89,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
-001,-499112,Interfund Balances P,2.1 Interfund Payable
-001,-6724167,Interfund Balances P,2.1 Interfund Payable
+001,-499112.32,Interfund Balances P,2.1 Interfund Payable
+001,-6724167.36,Interfund Balances P,2.1 Interfund Payable
 001,0,Interfund Balances P,2.1 Interfund Payable
-001,-891486,Interfund Balances P,2.1 Interfund Payable
-001,-1647572,Interfund Balances P,2.1 Interfund Payable
-001,-3615318,Interfund Balances P,2.1 Interfund Payable
-001,-12723,Interfund Balances P,2.1 Interfund Payable
-001,-479510,Interfund Balances P,2.1 Interfund Payable
+001,-891486.25,Interfund Balances P,2.1 Interfund Payable
+001,-1647571.63,Interfund Balances P,2.1 Interfund Payable
+001,-3615318.22,Interfund Balances P,2.1 Interfund Payable
+001,-12723.12,Interfund Balances P,2.1 Interfund Payable
+001,-479509.75,Interfund Balances P,2.1 Interfund Payable
 001,0,Intergovernmental Payables,2. Liability
 001,0,Intergovernmental Payables,2. Liability
+001,-0.48,Intergovernmental Payables,2. Liability
 001,0,Intergovernmental Payables,2. Liability
-001,0,Intergovernmental Payables,2. Liability
-001,-2946497,Intergovernmental Payables,2. Liability
+001,-2946497.29,Intergovernmental Payables,2. Liability
 001,0,Compensated Absences,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,-260592,Accrued Expenses and Other Payables,2. Liability
-001,-17657,Accrued Expenses and Other Payables,2. Liability
+001,-260591.6,Accrued Expenses and Other Payables,2. Liability
+001,-17656.5,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,-125,Accrued Expenses and Other Payables,2. Liability
-001,-12961,Accrued Expenses and Other Payables,2. Liability
-001,-84484,Accrued Expenses and Other Payables,2. Liability
+001,-12960.76,Accrued Expenses and Other Payables,2. Liability
+001,-84484.23,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,-3663,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,-3714,Accrued Expenses and Other Payables,2. Liability
-001,-206107,Accrued Expenses and Other Payables,2. Liability
-001,18819,Accrued Expenses and Other Payables,2. Liability
-001,72650,Accrued Expenses and Other Payables,2. Liability
-001,-107312,Accrued Expenses and Other Payables,2. Liability
-001,74053,Accrued Expenses and Other Payables,2. Liability
+001,-3713.78,Accrued Expenses and Other Payables,2. Liability
+001,-206106.65,Accrued Expenses and Other Payables,2. Liability
+001,18819.29,Accrued Expenses and Other Payables,2. Liability
+001,72649.89,Accrued Expenses and Other Payables,2. Liability
+001,-107311.71,Accrued Expenses and Other Payables,2. Liability
+001,74052.87,Accrued Expenses and Other Payables,2. Liability
 001,-80,Accrued Expenses and Other Payables,2. Liability
-001,316,Accrued Expenses and Other Payables,2. Liability
-001,35589,Accrued Expenses and Other Payables,2. Liability
+001,315.56,Accrued Expenses and Other Payables,2. Liability
+001,35589.02,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,-11049,Accrued Expenses and Other Payables,2. Liability
+001,-11048.5,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,-32416,Accrued Expenses and Other Payables,2. Liability
-001,-1855,Accrued Expenses and Other Payables,2. Liability
+001,-32416.44,Accrued Expenses and Other Payables,2. Liability
+001,-1854.71,Accrued Expenses and Other Payables,2. Liability
 001,0,Deposits,2. Liability
 001,0,Deposits,2. Liability
 001,0,Deposits,2. Liability
@@ -201,28 +201,28 @@ Fund,Balance,Category,Type
 001,0,Long Term Debt,2. Liability
 001,0,Long Term Debt,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,568,Accrued Expenses and Other Payables,2. Liability
-001,-15835748,Beg Fund Balances,3.1 Equity Budget
-001,15835748,Beg Fund Balances,3.1 Equity Budget
-001,527183,Beg Fund Balances,3.2 Equity Encumbance
+001,567.5,Accrued Expenses and Other Payables,2. Liability
+001,-15835747.61,Beg Fund Balances,3.1 Equity Budget
+001,15835747.61,Beg Fund Balances,3.1 Equity Budget
+001,527183.34,Beg Fund Balances,3.2 Equity Encumbance
 001,0,Beg Fund Balances,3.2 Equity Encumbance
 001,-48709,Beg Fund Balances,2. Liability
-001,-527183,Beg Fund Balances,3.2 Equity Encumbance
+001,-527183.34,Beg Fund Balances,3.2 Equity Encumbance
 001,0,Beg Fund Balances,3.2 Equity Encumbance
 001,0,Beg Fund Balances,3. Equity
-001,580835,Beg Fund Balances,3. Equity
-001,3718114,Beg Fund Balances,3. Equity
+001,580834.89,Beg Fund Balances,3. Equity
+001,3787374.65,Beg Fund Balances,3. Equity
 001,0,Beg Fund Balances,2. Liability
-001,48703,Beg Fund Balances,3.1 Equity Budget
-001,-839771,Beg Fund Balances,3. Equity
-001,-7881384,Property taxes,4. Revenue
+001,48702.7,Beg Fund Balances,3.1 Equity Budget
+001,-839770.89,Beg Fund Balances,3. Equity
+001,-7881383.99,Property taxes,4. Revenue
 001,0,"Local option, use and fuel taxes",4. Revenue
 001,0,"Local option, use and fuel taxes",4. Revenue
 001,0,"Local option, use and fuel taxes",4. Revenue
-001,-1230478,Franchise fees,4. Revenue
+001,-1230477.91,Franchise fees,4. Revenue
 001,0,Franchise fees,4. Revenue
-001,-192404,Franchise fees,4. Revenue
-001,-522369,Franchise fees,4. Revenue
+001,-192404.22,Franchise fees,4. Revenue
+001,-522369.08,Franchise fees,4. Revenue
 001,0,Franchise fees,4. Revenue
 001,0,Franchise fees,4. Revenue
 001,0,Franchise fees,4. Revenue
@@ -230,21 +230,21 @@ Fund,Balance,Category,Type
 001,0,Franchise fees,4. Revenue
 001,0,Utility taxes,4. Revenue
 001,0,Utility taxes,4. Revenue
-001,1307,Utility taxes,4. Revenue
+001,-1879.09,Utility taxes,4. Revenue
 001,0,Utility taxes,4. Revenue
-001,-75596,Utility taxes,4. Revenue
-001,-269642,Local business taxes,4. Revenue
+001,-75596.28,Utility taxes,4. Revenue
+001,-269642.41,Local business taxes,4. Revenue
 001,-3931,Local business taxes,4. Revenue
-001,-11270,Local business taxes,4. Revenue
-001,-354341,Permits and fees,4. Revenue
+001,-11270.12,Local business taxes,4. Revenue
+001,-354340.89,Permits and fees,4. Revenue
 001,0,Permits and fees,4. Revenue
-001,-26582,Permits and fees,4. Revenue
-001,-17034,Permits and fees,4. Revenue
-001,-15044,Permits and fees,4. Revenue
+001,-26582.43,Permits and fees,4. Revenue
+001,-17034.26,Permits and fees,4. Revenue
+001,-15043.63,Permits and fees,4. Revenue
 001,-500,Permits and fees,4. Revenue
 001,-5455,Permits and fees,4. Revenue
-001,-211617,Permits and fees,4. Revenue
-001,-60741,Permits and fees,4. Revenue
+001,-211617.37,Permits and fees,4. Revenue
+001,-60740.55,Permits and fees,4. Revenue
 001,-2400,Permits and fees,4. Revenue
 001,0,Permits and fees,4. Revenue
 001,0,Intergovernmental,4. Revenue
@@ -252,7 +252,7 @@ Fund,Balance,Category,Type
 001,0,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
-001,-167180,Intergovernmental,4. Revenue
+001,-167180.18,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
@@ -277,25 +277,25 @@ Fund,Balance,Category,Type
 001,0,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
-001,-6240,Intergovernmental,4. Revenue
+001,-6240.36,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
 001,0,Intergovernmental,4. Revenue
 001,-70176,Intergovernmental,4. Revenue
-001,-41294,Charges for Services,4. Revenue
-001,-24562,Charges for Services,4. Revenue
+001,-41294.23,Charges for Services,4. Revenue
+001,-24562.41,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,-49700,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
-001,-5459,Charges for Services,4. Revenue
-001,-173,Charges for Services,4. Revenue
-001,-20090,Charges for Services,4. Revenue
+001,-5458.97,Charges for Services,4. Revenue
+001,-173.1,Charges for Services,4. Revenue
+001,-20090.27,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,-65645,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,-96,Charges for Services,4. Revenue
-001,1501,Charges for Services,4. Revenue
+001,1500.75,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
@@ -309,27 +309,27 @@ Fund,Balance,Category,Type
 001,-207,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
 001,0,Charges for Services,4. Revenue
-001,-288505,Fines and Forfeitures,4. Revenue
-001,-12646,Fines and Forfeitures,4. Revenue
+001,-288504.74,Fines and Forfeitures,4. Revenue
+001,-12645.82,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
 001,-4929,Fines and Forfeitures,4. Revenue
 001,-4933,Fines and Forfeitures,4. Revenue
-001,-2339,Fines and Forfeitures,4. Revenue
+001,-2339.16,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
 001,-25,Fines and Forfeitures,4. Revenue
 001,-875,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
-001,-2418,Fines and Forfeitures,4. Revenue
+001,-2418.4,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
-001,-1611430,Fines and Forfeitures,4. Revenue
+001,-1611429.78,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
 001,-100,Fines and Forfeitures,4. Revenue
 001,0,Interest,4. Revenue
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
 001,-10145,Other,4. Revenue
-001,-43882,Other,4. Revenue
+001,-43881.99,Other,4. Revenue
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
@@ -351,7 +351,7 @@ Fund,Balance,Category,Type
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
-001,-8770,Other,4. Revenue
+001,-8770.07,Other,4. Revenue
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
 001,-550,Other,4. Revenue
@@ -362,16 +362,16 @@ Fund,Balance,Category,Type
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
-001,-27590,Other,4. Revenue
+001,-27589.64,Other,4. Revenue
 001,-164,Other,4. Revenue
-001,-53611,Other,4. Revenue
+001,-53610.98,Other,4. Revenue
 001,0,Other,4. Revenue
 001,0,Other,4. Revenue
 001,0,Transfer In,6. Transfers In
 001,0,Transfer In,6. Transfers In
 001,0,Transfer In,6. Transfers In
 001,0,Transfer In,6. Transfers In
-001,-654957,Transfer In,6. Transfers In
+001,-654956.84,Transfer In,6. Transfers In
 001,0,Transfer In,6. Transfers In
 001,0,Transfer In,6. Transfers In
 001,0,Transfer In,6. Transfers In
@@ -389,12 +389,12 @@ Fund,Balance,Category,Type
 001,0,Other,4. Revenue
 001,35750,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,2735,Expenditures - Dept 51 - General Gov,5. Expense
-001,11463,Expenditures - Dept 51 - General Gov,5. Expense
-001,40396,Expenditures - Dept 51 - General Gov,5. Expense
+001,2734.56,Expenditures - Dept 51 - General Gov,5. Expense
+001,11462.51,Expenditures - Dept 51 - General Gov,5. Expense
+001,40396.12,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,15650,Expenditures - Dept 51 - General Gov,5. Expense
+001,15650.06,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
@@ -405,49 +405,49 @@ Fund,Balance,Category,Type
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,500,Expenditures - Dept 51 - General Gov,5. Expense
 001,39,Expenditures - Dept 51 - General Gov,5. Expense
-001,5076,Expenditures - Dept 51 - General Gov,5. Expense
+001,5075.84,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,2000,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,198114,Expenditures - Dept 51 - General Gov,5. Expense
-001,102361,Expenditures - Dept 51 - General Gov,5. Expense
+001,198113.6,Expenditures - Dept 51 - General Gov,5. Expense
+001,102360.7,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,21722,Expenditures - Dept 51 - General Gov,5. Expense
-001,25043,Expenditures - Dept 51 - General Gov,5. Expense
-001,29188,Expenditures - Dept 51 - General Gov,5. Expense
+001,21722.16,Expenditures - Dept 51 - General Gov,5. Expense
+001,25043.2,Expenditures - Dept 51 - General Gov,5. Expense
+001,29187.64,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,804,Expenditures - Dept 51 - General Gov,5. Expense
-001,393,Expenditures - Dept 51 - General Gov,5. Expense
-001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,1662,Expenditures - Dept 51 - General Gov,5. Expense
-001,2592,Expenditures - Dept 51 - General Gov,5. Expense
+001,804.16,Expenditures - Dept 51 - General Gov,5. Expense
+001,392.84,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,69300,Expenditures - Dept 51 - General Gov,5. Expense
-001,57394,Expenditures - Dept 51 - General Gov,5. Expense
-001,19,Expenditures - Dept 51 - General Gov,5. Expense
-001,9369,Expenditures - Dept 51 - General Gov,5. Expense
-001,8610,Expenditures - Dept 51 - General Gov,5. Expense
-001,14224,Expenditures - Dept 51 - General Gov,5. Expense
-001,13198,Expenditures - Dept 51 - General Gov,5. Expense
+001,1661.52,Expenditures - Dept 51 - General Gov,5. Expense
+001,2591.73,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,74941,Expenditures - Dept 51 - General Gov,5. Expense
+001,0,Expenditures - Dept 51 - General Gov,5. Expense
+001,0,Expenditures - Dept 51 - General Gov,5. Expense
+001,0,Expenditures - Dept 51 - General Gov,5. Expense
+001,69300.05,Expenditures - Dept 51 - General Gov,5. Expense
+001,57393.86,Expenditures - Dept 51 - General Gov,5. Expense
+001,18.68,Expenditures - Dept 51 - General Gov,5. Expense
+001,9369.35,Expenditures - Dept 51 - General Gov,5. Expense
+001,8610.27,Expenditures - Dept 51 - General Gov,5. Expense
+001,14223.79,Expenditures - Dept 51 - General Gov,5. Expense
+001,13197.69,Expenditures - Dept 51 - General Gov,5. Expense
+001,0,Expenditures - Dept 51 - General Gov,5. Expense
+001,74940.67,Expenditures - Dept 51 - General Gov,5. Expense
 001,150,Expenditures - Dept 51 - General Gov,5. Expense
-001,258,Expenditures - Dept 51 - General Gov,5. Expense
-001,11581,Expenditures - Dept 51 - General Gov,5. Expense
+001,258.29,Expenditures - Dept 51 - General Gov,5. Expense
+001,11580.74,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,1391,Expenditures - Dept 51 - General Gov,5. Expense
-001,38,Expenditures - Dept 51 - General Gov,5. Expense
+001,1391.31,Expenditures - Dept 51 - General Gov,5. Expense
+001,37.95,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,2250,Expenditures - Dept 51 - General Gov,5. Expense
 001,1950,Expenditures - Dept 51 - General Gov,5. Expense
@@ -462,17 +462,17 @@ Fund,Balance,Category,Type
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,76500,Expenditures - Dept 51 - General Gov,5. Expense
-001,106202,Expenditures - Dept 51 - General Gov,5. Expense
+001,76500.07,Expenditures - Dept 51 - General Gov,5. Expense
+001,106202.36,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,13630,Expenditures - Dept 51 - General Gov,5. Expense
-001,38675,Expenditures - Dept 51 - General Gov,5. Expense
-001,20540,Expenditures - Dept 51 - General Gov,5. Expense
-001,7544,Expenditures - Dept 51 - General Gov,5. Expense
+001,13630.02,Expenditures - Dept 51 - General Gov,5. Expense
+001,38675.26,Expenditures - Dept 51 - General Gov,5. Expense
+001,20539.81,Expenditures - Dept 51 - General Gov,5. Expense
+001,7544.26,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,523,Expenditures - Dept 51 - General Gov,5. Expense
-001,8390,Expenditures - Dept 51 - General Gov,5. Expense
+001,523.23,Expenditures - Dept 51 - General Gov,5. Expense
+001,8390.21,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
@@ -480,67 +480,67 @@ Fund,Balance,Category,Type
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,39330,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,3013,Expenditures - Dept 51 - General Gov,5. Expense
+001,3013.02,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,15020,Expenditures - Dept 51 - General Gov,5. Expense
-001,426,Expenditures - Dept 51 - General Gov,5. Expense
+001,15020.4,Expenditures - Dept 51 - General Gov,5. Expense
+001,425.54,Expenditures - Dept 51 - General Gov,5. Expense
 001,387,Expenditures - Dept 51 - General Gov,5. Expense
-001,962,Expenditures - Dept 51 - General Gov,5. Expense
-001,47095,Expenditures - Dept 51 - General Gov,5. Expense
-001,288003,Expenditures - Dept 51 - General Gov,5. Expense
+001,961.78,Expenditures - Dept 51 - General Gov,5. Expense
+001,47095.08,Expenditures - Dept 51 - General Gov,5. Expense
+001,288002.51,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,25038,Expenditures - Dept 51 - General Gov,5. Expense
-001,28126,Expenditures - Dept 51 - General Gov,5. Expense
-001,31570,Expenditures - Dept 51 - General Gov,5. Expense
+001,25037.99,Expenditures - Dept 51 - General Gov,5. Expense
+001,28126.46,Expenditures - Dept 51 - General Gov,5. Expense
+001,31569.76,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,40242,Expenditures - Dept 51 - General Gov,5. Expense
-001,222878,Expenditures - Dept 51 - General Gov,5. Expense
-001,1362,Expenditures - Dept 51 - General Gov,5. Expense
-001,16472,Expenditures - Dept 51 - General Gov,5. Expense
+001,37741.5,Expenditures - Dept 51 - General Gov,5. Expense
+001,222877.56,Expenditures - Dept 51 - General Gov,5. Expense
+001,1362.3,Expenditures - Dept 51 - General Gov,5. Expense
+001,16472.48,Expenditures - Dept 51 - General Gov,5. Expense
 001,80,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,4170,Expenditures - Dept 51 - General Gov,5. Expense
-001,1594,Expenditures - Dept 51 - General Gov,5. Expense
+001,4170.11,Expenditures - Dept 51 - General Gov,5. Expense
+001,1594.47,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,9109,Expenditures - Dept 51 - General Gov,5. Expense
-001,43842,Expenditures - Dept 51 - General Gov,5. Expense
+001,9109.19,Expenditures - Dept 51 - General Gov,5. Expense
+001,43841.84,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,259571,Expenditures - Dept 51 - General Gov,5. Expense
-001,42166,Expenditures - Dept 51 - General Gov,5. Expense
+001,259571.42,Expenditures - Dept 51 - General Gov,5. Expense
+001,42165.83,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,2169,Expenditures - Dept 51 - General Gov,5. Expense
+001,2168.94,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,4354,Expenditures - Dept 51 - General Gov,5. Expense
 001,375,Expenditures - Dept 51 - General Gov,5. Expense
-001,361,Expenditures - Dept 51 - General Gov,5. Expense
+001,360.99,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,67994,Expenditures - Dept 51 - General Gov,5. Expense
-001,140171,Expenditures - Dept 51 - General Gov,5. Expense
+001,67993.75,Expenditures - Dept 51 - General Gov,5. Expense
+001,140170.71,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,2538,Expenditures - Dept 51 - General Gov,5. Expense
-001,304657,Expenditures - Dept 52 - Public Safety,5. Expense
-001,12258,Expenditures - Dept 52 - Public Safety,5. Expense
+001,2537.68,Expenditures - Dept 51 - General Gov,5. Expense
+001,304656.57,Expenditures - Dept 52 - Public Safety,5. Expense
+001,12257.85,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,25019,Expenditures - Dept 52 - Public Safety,5. Expense
-001,82210,Expenditures - Dept 52 - Public Safety,5. Expense
-001,33895,Expenditures - Dept 52 - Public Safety,5. Expense
+001,25018.6,Expenditures - Dept 52 - Public Safety,5. Expense
+001,82210.26,Expenditures - Dept 52 - Public Safety,5. Expense
+001,33894.58,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
@@ -553,12 +553,12 @@ Fund,Balance,Category,Type
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,2463906,Expenditures - Dept 52 - Public Safety,5. Expense
-001,60081,Expenditures - Dept 52 - Public Safety,5. Expense
+001,2463905.56,Expenditures - Dept 52 - Public Safety,5. Expense
+001,60080.74,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,188867,Expenditures - Dept 52 - Public Safety,5. Expense
-001,569980,Expenditures - Dept 52 - Public Safety,5. Expense
-001,244436,Expenditures - Dept 52 - Public Safety,5. Expense
+001,188867.41,Expenditures - Dept 52 - Public Safety,5. Expense
+001,569980.42,Expenditures - Dept 52 - Public Safety,5. Expense
+001,244436.13,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
@@ -568,46 +568,46 @@ Fund,Balance,Category,Type
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,368,Expenditures - Dept 52 - Public Safety,5. Expense
-001,16603,Expenditures - Dept 52 - Public Safety,5. Expense
+001,16603.08,Expenditures - Dept 52 - Public Safety,5. Expense
 001,755,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,50904,Expenditures - Dept 52 - Public Safety,5. Expense
+001,50904.17,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,53011,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,6706,Expenditures - Dept 52 - Public Safety,5. Expense
-001,241969,Expenditures - Dept 52 - Public Safety,5. Expense
-001,1251,Expenditures - Dept 52 - Public Safety,5. Expense
-001,18111,Expenditures - Dept 52 - Public Safety,5. Expense
-001,17214,Expenditures - Dept 52 - Public Safety,5. Expense
-001,34706,Expenditures - Dept 52 - Public Safety,5. Expense
+001,53011.46,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,7855,Expenditures - Dept 52 - Public Safety,5. Expense
+001,6706.13,Expenditures - Dept 52 - Public Safety,5. Expense
+001,241968.65,Expenditures - Dept 52 - Public Safety,5. Expense
+001,1251.05,Expenditures - Dept 52 - Public Safety,5. Expense
+001,18110.8,Expenditures - Dept 52 - Public Safety,5. Expense
+001,17214.33,Expenditures - Dept 52 - Public Safety,5. Expense
+001,34705.74,Expenditures - Dept 52 - Public Safety,5. Expense
+001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,7855.31,Expenditures - Dept 52 - Public Safety,5. Expense
+001,-1.81899E-12,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,2571.43,Expenditures - Dept 52 - Public Safety,5. Expense
+001,983.5,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,2571,Expenditures - Dept 52 - Public Safety,5. Expense
-001,984,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,2614,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,2613.82,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,84650,Expenditures - Dept 52 - Public Safety,5. Expense
-001,160940,Expenditures - Dept 52 - Public Safety,5. Expense
-001,46340,Expenditures - Dept 52 - Public Safety,5. Expense
-001,13964,Expenditures - Dept 52 - Public Safety,5. Expense
-001,3850,Expenditures - Dept 52 - Public Safety,5. Expense
-001,15109,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,84650.15,Expenditures - Dept 52 - Public Safety,5. Expense
+001,160940.16,Expenditures - Dept 52 - Public Safety,5. Expense
+001,46339.58,Expenditures - Dept 52 - Public Safety,5. Expense
+001,13964.29,Expenditures - Dept 52 - Public Safety,5. Expense
+001,3850.16,Expenditures - Dept 52 - Public Safety,5. Expense
+001,15108.61,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,1.93268E-12,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
@@ -616,182 +616,182 @@ Fund,Balance,Category,Type
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,266481,Expenditures - Dept 51 - General Gov,5. Expense
-001,428798,Expenditures - Dept 51 - General Gov,5. Expense
+001,266480.74,Expenditures - Dept 51 - General Gov,5. Expense
+001,428798.15,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,113712,Expenditures - Dept 52 - Public Safety,5. Expense
-001,70503,Expenditures - Dept 52 - Public Safety,5. Expense
-001,63232,Expenditures - Dept 52 - Public Safety,5. Expense
+001,113711.59,Expenditures - Dept 52 - Public Safety,5. Expense
+001,70502.86,Expenditures - Dept 52 - Public Safety,5. Expense
+001,63231.78,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,17082,Expenditures - Dept 52 - Public Safety,5. Expense
-001,22689,Expenditures - Dept 52 - Public Safety,5. Expense
-001,28281,Expenditures - Dept 52 - Public Safety,5. Expense
+001,17082.24,Expenditures - Dept 52 - Public Safety,5. Expense
+001,22688.81,Expenditures - Dept 52 - Public Safety,5. Expense
+001,28280.64,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,2539,Expenditures - Dept 52 - Public Safety,5. Expense
-001,14592,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,2539.22,Expenditures - Dept 52 - Public Safety,5. Expense
+001,14592.22,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,1601,Expenditures - Dept 52 - Public Safety,5. Expense
-001,1952,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,4156,Expenditures - Dept 52 - Public Safety,5. Expense
-001,4781,Expenditures - Dept 52 - Public Safety,5. Expense
-001,108000,Expenditures - Dept 54 - Transportation,5. Expense
-001,71043,Expenditures - Dept 54 - Transportation,5. Expense
+001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,1601.28,Expenditures - Dept 52 - Public Safety,5. Expense
+001,1951.77,Expenditures - Dept 52 - Public Safety,5. Expense
+001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,4155.5,Expenditures - Dept 52 - Public Safety,5. Expense
+001,4780.56,Expenditures - Dept 52 - Public Safety,5. Expense
+001,108000.06,Expenditures - Dept 54 - Transportation,5. Expense
+001,71042.61,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,15027,Expenditures - Dept 54 - Transportation,5. Expense
-001,12892,Expenditures - Dept 54 - Transportation,5. Expense
-001,19740,Expenditures - Dept 54 - Transportation,5. Expense
+001,15026.65,Expenditures - Dept 54 - Transportation,5. Expense
+001,12892.44,Expenditures - Dept 54 - Transportation,5. Expense
+001,19739.92,Expenditures - Dept 54 - Transportation,5. Expense
 001,57,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,865,Expenditures - Dept 54 - Transportation,5. Expense
+001,864.54,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,74,Expenditures - Dept 54 - Transportation,5. Expense
-001,1595,Expenditures - Dept 54 - Transportation,5. Expense
+001,73.66,Expenditures - Dept 54 - Transportation,5. Expense
+001,1595.46,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,4356,Expenditures - Dept 54 - Transportation,5. Expense
-001,124030,Expenditures - Dept 52 - Public Safety,5. Expense
-001,102359,Expenditures - Dept 52 - Public Safety,5. Expense
-001,10251,Expenditures - Dept 52 - Public Safety,5. Expense
-001,17759,Expenditures - Dept 52 - Public Safety,5. Expense
-001,36755,Expenditures - Dept 52 - Public Safety,5. Expense
-001,19985,Expenditures - Dept 52 - Public Safety,5. Expense
+001,4355.57,Expenditures - Dept 54 - Transportation,5. Expense
+001,124030.38,Expenditures - Dept 52 - Public Safety,5. Expense
+001,102359.31,Expenditures - Dept 52 - Public Safety,5. Expense
+001,10251.17,Expenditures - Dept 52 - Public Safety,5. Expense
+001,17759.34,Expenditures - Dept 52 - Public Safety,5. Expense
+001,36754.94,Expenditures - Dept 52 - Public Safety,5. Expense
+001,19984.89,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,2359,Expenditures - Dept 52 - Public Safety,5. Expense
+001,2359.3,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,9983,Expenditures - Dept 52 - Public Safety,5. Expense
-001,9225,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,9982.54,Expenditures - Dept 52 - Public Safety,5. Expense
+001,9225.26,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,6476,Expenditures - Dept 52 - Public Safety,5. Expense
-001,1200,Expenditures - Dept 52 - Public Safety,5. Expense
+001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,0,Expenditures - Dept 52 - Public Safety,5. Expense
+001,6475.79,Expenditures - Dept 52 - Public Safety,5. Expense
+001,1199.7,Expenditures - Dept 52 - Public Safety,5. Expense
 001,600,Expenditures - Dept 52 - Public Safety,5. Expense
-001,65805,Expenditures - Dept 52 - Public Safety,5. Expense
+001,65804.93,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,185130,Expenditures - Dept 52 - Public Safety,5. Expense
+001,185130.15,Expenditures - Dept 52 - Public Safety,5. Expense
 001,0,Expenditures - Dept 52 - Public Safety,5. Expense
-001,145327,Expenditures - Dept 51 - General Gov,5. Expense
-001,136706,Expenditures - Dept 51 - General Gov,5. Expense
-001,155,Expenditures - Dept 51 - General Gov,5. Expense
-001,12551,Expenditures - Dept 51 - General Gov,5. Expense
-001,15488,Expenditures - Dept 51 - General Gov,5. Expense
-001,33012,Expenditures - Dept 51 - General Gov,5. Expense
+001,70701.94,Expenditures - Dept 51 - General Gov,5. Expense
+001,123718.17,Expenditures - Dept 51 - General Gov,5. Expense
+001,154.55,Expenditures - Dept 51 - General Gov,5. Expense
+001,11011.52,Expenditures - Dept 51 - General Gov,5. Expense
+001,13723.07,Expenditures - Dept 51 - General Gov,5. Expense
+001,33012.23,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,5361,Expenditures - Dept 51 - General Gov,5. Expense
-001,0,Expenditures - Dept 51 - General Gov,5. Expense
+001,5361.36,Expenditures - Dept 51 - General Gov,5. Expense
+001,2.72848E-12,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,57,Expenditures - Dept 51 - General Gov,5. Expense
-001,878,Expenditures - Dept 51 - General Gov,5. Expense
+001,878.15,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
 001,0,Expenditures - Dept 51 - General Gov,5. Expense
-001,2684,Expenditures - Dept 51 - General Gov,5. Expense
-001,4158,Expenditures - Dept 51 - General Gov,5. Expense
-001,200455,Expenditures - Dept 54 - Transportation,5. Expense
-001,161998,Expenditures - Dept 54 - Transportation,5. Expense
-001,2015,Expenditures - Dept 54 - Transportation,5. Expense
-001,12016,Expenditures - Dept 54 - Transportation,5. Expense
-001,20268,Expenditures - Dept 54 - Transportation,5. Expense
-001,24576,Expenditures - Dept 54 - Transportation,5. Expense
+001,2684.04,Expenditures - Dept 51 - General Gov,5. Expense
+001,4158.15,Expenditures - Dept 51 - General Gov,5. Expense
+001,200455.3,Expenditures - Dept 54 - Transportation,5. Expense
+001,161997.69,Expenditures - Dept 54 - Transportation,5. Expense
+001,2014.97,Expenditures - Dept 54 - Transportation,5. Expense
+001,12015.84,Expenditures - Dept 54 - Transportation,5. Expense
+001,20267.65,Expenditures - Dept 54 - Transportation,5. Expense
+001,24576.06,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,231,Expenditures - Dept 54 - Transportation,5. Expense
-001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,89233,Expenditures - Dept 54 - Transportation,5. Expense
-001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,19761,Expenditures - Dept 54 - Transportation,5. Expense
+001,231.32,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,190675,Expenditures - Dept 54 - Transportation,5. Expense
-001,5629,Expenditures - Dept 54 - Transportation,5. Expense
-001,14604,Expenditures - Dept 54 - Transportation,5. Expense
-001,17478,Expenditures - Dept 54 - Transportation,5. Expense
-001,23293,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,186185,Expenditures - Dept 54 - Transportation,5. Expense
-001,875,Expenditures - Dept 54 - Transportation,5. Expense
+001,89233.46,Expenditures - Dept 54 - Transportation,5. Expense
+001,0,Expenditures - Dept 54 - Transportation,5. Expense
+001,0,Expenditures - Dept 54 - Transportation,5. Expense
+001,19760.72,Expenditures - Dept 54 - Transportation,5. Expense
+001,0,Expenditures - Dept 54 - Transportation,5. Expense
+001,0,Expenditures - Dept 54 - Transportation,5. Expense
+001,0,Expenditures - Dept 54 - Transportation,5. Expense
+001,190674.53,Expenditures - Dept 54 - Transportation,5. Expense
+001,5628.64,Expenditures - Dept 54 - Transportation,5. Expense
+001,14604.17,Expenditures - Dept 54 - Transportation,5. Expense
+001,17478.34,Expenditures - Dept 54 - Transportation,5. Expense
+001,23292.54,Expenditures - Dept 54 - Transportation,5. Expense
+001,0,Expenditures - Dept 54 - Transportation,5. Expense
+001,186184.72,Expenditures - Dept 54 - Transportation,5. Expense
+001,875.14,Expenditures - Dept 54 - Transportation,5. Expense
 001,19974,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,1680,Expenditures - Dept 54 - Transportation,5. Expense
-001,2646,Expenditures - Dept 54 - Transportation,5. Expense
-001,742,Expenditures - Dept 54 - Transportation,5. Expense
+001,1679.69,Expenditures - Dept 54 - Transportation,5. Expense
+001,2646.07,Expenditures - Dept 54 - Transportation,5. Expense
+001,742.14,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,6507,Expenditures - Dept 54 - Transportation,5. Expense
-001,6970,Expenditures - Dept 54 - Transportation,5. Expense
-001,48162,Expenditures - Dept 54 - Transportation,5. Expense
+001,6506.76,Expenditures - Dept 54 - Transportation,5. Expense
+001,6970.36,Expenditures - Dept 54 - Transportation,5. Expense
+001,48161.94,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,140282,Expenditures - Dept 54 - Transportation,5. Expense
+001,140281.68,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,10579,Expenditures - Dept 54 - Transportation,5. Expense
-001,11655,Expenditures - Dept 54 - Transportation,5. Expense
-001,14781,Expenditures - Dept 54 - Transportation,5. Expense
-001,49752,Expenditures - Dept 54 - Transportation,5. Expense
-001,725,Expenditures - Dept 54 - Transportation,5. Expense
-001,589,Expenditures - Dept 54 - Transportation,5. Expense
+001,10578.82,Expenditures - Dept 54 - Transportation,5. Expense
+001,11655.13,Expenditures - Dept 54 - Transportation,5. Expense
+001,14780.85,Expenditures - Dept 54 - Transportation,5. Expense
+001,49751.54,Expenditures - Dept 54 - Transportation,5. Expense
+001,725.45,Expenditures - Dept 54 - Transportation,5. Expense
+001,588.93,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
 001,0,Expenditures - Dept 54 - Transportation,5. Expense
-001,363095,Expenditures - Dept 54 - Transportation,5. Expense
-001,411,Expenditures - Dept 54 - Transportation,5. Expense
-001,239,Expenditures - Dept 54 - Transportation,5. Expense
-001,80264,Expenditures - Dept 54 - Transportation,5. Expense
-001,26809,Expenditures - Dept 54 - Transportation,5. Expense
-001,1397,Expenditures - Dept 54 - Transportation,5. Expense
-001,1755,Expenditures - Dept 54 - Transportation,5. Expense
-001,127977,Expenditures - Dept 53 -  Utilities,5. Expense
+001,363094.54,Expenditures - Dept 54 - Transportation,5. Expense
+001,410.95,Expenditures - Dept 54 - Transportation,5. Expense
+001,239.49,Expenditures - Dept 54 - Transportation,5. Expense
+001,80263.83,Expenditures - Dept 54 - Transportation,5. Expense
+001,26808.96,Expenditures - Dept 54 - Transportation,5. Expense
+001,1397.38,Expenditures - Dept 54 - Transportation,5. Expense
+001,1754.96,Expenditures - Dept 54 - Transportation,5. Expense
+001,127976.55,Expenditures - Dept 53 -  Utilities,5. Expense
 001,70304,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,196002,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,9943,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,196001.61,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,9942.6,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,20023,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,23007,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,46029,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,20022.85,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,23007.17,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,46029.42,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,8171,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,5176,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,8170.53,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,5175.83,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,250,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,20024,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,4322,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,11803,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,11813,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,1105,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,3835,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,20023.6,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,4322.49,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,11802.85,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,11812.87,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,1105.26,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,3835.15,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,6251,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,3837,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,6250.93,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,3836.85,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,5850,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-001,4347,Expenditures - Dept 57 - Culture & Rec,5. Expense
+001,4346.5,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Transfers out,6.1 Transfers Out
@@ -800,90 +800,90 @@ Fund,Balance,Category,Type
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 001,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-118,0,Cash,1. Asset
-118,447877,Interfund Balances R,1.1 Asset  - Interfund
-118,0,Interfund Balances R,1. Asset
-118,25056,Interfund Balances R,1.1 Asset  - Interfund
-118,794144,Interfund Balances R,1.1 Asset  - Interfund
-118,50112,Interfund Balances R,1.1 Asset  - Interfund
-118,25056,Interfund Balances R,1.1 Asset  - Interfund
-118,195101,Prepaids and Other,1. Asset
+118,0,Unrestricted Cash,1. Asset
+118,447876.94,Interfund Balances R,1.1 Asset  - Interfund
+118,0.28,Interfund Balances R,1.1 Asset  - Interfund
+118,25055.8,Interfund Balances R,1.1 Asset  - Interfund
+118,794143.98,Interfund Balances R,1.1 Asset  - Interfund
+118,50111.84,Interfund Balances R,1.1 Asset  - Interfund
+118,25055.92,Interfund Balances R,1.1 Asset  - Interfund
+118,195101.42,Prepaids and Other,1. Asset
 118,-6842,Accounts Payable,2. Liability
 118,0,Accounts Payable,2. Liability
-118,-3775871,Interfund Balances P,2.1 Interfund Payable
+118,-3775870.57,Interfund Balances P,2.1 Interfund Payable
 118,0,Interfund Balances P,2.1 Interfund Payable
+118,-0.04,Interfund Balances P,2.1 Interfund Payable
 118,0,Interfund Balances P,2.1 Interfund Payable
-118,0,Interfund Balances P,2.1 Interfund Payable
-118,-2331042,Beg Fund Balances,3.1 Equity Budget
-118,2331042,Beg Fund Balances,3.1 Equity Budget
-118,1081,Beg Fund Balances,3.2 Equity Encumbance
+118,-2331041.96,Beg Fund Balances,3.1 Equity Budget
+118,2331041.96,Beg Fund Balances,3.1 Equity Budget
+118,1081.28,Beg Fund Balances,3.2 Equity Encumbance
 118,0,Beg Fund Balances,3.2 Equity Encumbance
-118,-1081,Beg Fund Balances,3.2 Equity Encumbance
-118,-68058,Beg Fund Balances,3. Equity
+118,-1081.28,Beg Fund Balances,3.2 Equity Encumbance
+118,-68058.15,Beg Fund Balances,3. Equity
 118,0,Beg Fund Balances,3.1 Equity Budget
-118,-24918,Beg Fund Balances,3. Equity
+118,-24918.17,Beg Fund Balances,3. Equity
 118,0,Debt proceeds,4. Revenue
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
-118,1097,Expenditures - Dept 51 - General Gov,5. Expense
+118,1096.59,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
-118,24143,Expenditures - Dept 51 - General Gov,5. Expense
+118,24143.26,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
-118,6369,Expenditures - Dept 51 - General Gov,5. Expense
+118,6368.8,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
-118,10544,Expenditures - Dept 51 - General Gov,5. Expense
+118,10543.76,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
 118,100000,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
 118,0,Expenditures - Dept 51 - General Gov,5. Expense
-118,2115844,Expenditures - Dept 51 - General Gov,5. Expense
-118,80347,Expenditures - Dept 51 - General Gov,5. Expense
-119,0,Cash,1. Asset
-119,249763,Interfund Balances R,1.1 Asset  - Interfund
-119,0,Interfund Balances R,1. Asset
-119,13739,Interfund Balances R,1.1 Asset  - Interfund
-119,69513,Interfund Balances R,1.1 Asset  - Interfund
-119,13875,Interfund Balances R,1.1 Asset  - Interfund
-119,13875,Interfund Balances R,1.1 Asset  - Interfund
-119,830,Prepaids and Other,1. Asset
-119,-18097,Accounts Payable,2. Liability
-119,-814760,Interfund Balances P,2.1 Interfund Payable
+118,2115843.79,Expenditures - Dept 51 - General Gov,5. Expense
+118,80346.55,Expenditures - Dept 51 - General Gov,5. Expense
+119,0,Unrestricted Cash,1. Asset
+119,249763.16,Interfund Balances R,1.1 Asset  - Interfund
+119,0.04,Interfund Balances R,1.1 Asset  - Interfund
+119,13739.23,Interfund Balances R,1.1 Asset  - Interfund
+119,69513.41,Interfund Balances R,1.1 Asset  - Interfund
+119,13875.42,Interfund Balances R,1.1 Asset  - Interfund
+119,13875.42,Interfund Balances R,1.1 Asset  - Interfund
+119,829.6,Prepaids and Other,1. Asset
+119,-18097.07,Accounts Payable,2. Liability
+119,-814760.38,Interfund Balances P,2.1 Interfund Payable
+119,-0.04,Interfund Balances P,2.1 Interfund Payable
 119,0,Interfund Balances P,2.1 Interfund Payable
 119,0,Interfund Balances P,2.1 Interfund Payable
-119,0,Interfund Balances P,2.1 Interfund Payable
-119,-502057,Beg Fund Balances,3.1 Equity Budget
-119,502057,Beg Fund Balances,3.1 Equity Budget
-119,13269,Beg Fund Balances,3.2 Equity Encumbance
+119,-502057.2,Beg Fund Balances,3.1 Equity Budget
+119,502057.2,Beg Fund Balances,3.1 Equity Budget
+119,13268.99,Beg Fund Balances,3.2 Equity Encumbance
 119,0,Beg Fund Balances,3.2 Equity Encumbance
-119,-13269,Beg Fund Balances,3.2 Equity Encumbance
-119,511595,Beg Fund Balances,3. Equity
+119,-13268.99,Beg Fund Balances,3.2 Equity Encumbance
+119,150828.62,Beg Fund Balances,3. Equity
 119,0,Beg Fund Balances,3.1 Equity Budget
-119,-130448,Beg Fund Balances,3. Equity
+119,-130448.49,Beg Fund Balances,3. Equity
 119,0,Transfers In,4. Revenue
-119,7192,Expenditures - Dept 51 - General Gov,5. Expense
-119,15466,Expenditures - Dept 51 - General Gov,5. Expense
-119,2830,Expenditures - Dept 51 - General Gov,5. Expense
-119,452,Expenditures - Dept 51 - General Gov,5. Expense
-119,2093,Expenditures - Dept 51 - General Gov,5. Expense
+119,80750.01,Expenditures - Dept 51 - General Gov,5. Expense
+119,65706.13,Expenditures - Dept 51 - General Gov,5. Expense
+119,9631.36,Expenditures - Dept 51 - General Gov,5. Expense
+119,11025.33,Expenditures - Dept 51 - General Gov,5. Expense
+119,19654.08,Expenditures - Dept 51 - General Gov,5. Expense
 119,12818,Expenditures - Dept 51 - General Gov,5. Expense
-119,18700,Expenditures - Dept 51 - General Gov,5. Expense
-119,-2125,Expenditures - Dept 51 - General Gov,5. Expense
+119,96723.07,Expenditures - Dept 51 - General Gov,5. Expense
+119,17668.77,Expenditures - Dept 51 - General Gov,5. Expense
 119,0,Expenditures - Dept 51 - General Gov,5. Expense
 119,0,Expenditures - Dept 51 - General Gov,5. Expense
 119,0,Expenditures - Dept 51 - General Gov,5. Expense
-119,189,Expenditures - Dept 51 - General Gov,5. Expense
-119,3850,Expenditures - Dept 51 - General Gov,5. Expense
-119,36570,Expenditures - Dept 51 - General Gov,5. Expense
-119,-7989,Expenditures - Dept 51 - General Gov,5. Expense
-119,70,Expenditures - Dept 51 - General Gov,5. Expense
+119,226.34,Expenditures - Dept 51 - General Gov,5. Expense
+119,3849.71,Expenditures - Dept 51 - General Gov,5. Expense
+119,103165.39,Expenditures - Dept 51 - General Gov,5. Expense
+119,23106.34,Expenditures - Dept 51 - General Gov,5. Expense
+119,6556.55,Expenditures - Dept 51 - General Gov,5. Expense
 119,0,Expenditures - Dept 51 - General Gov,5. Expense
-165,264734,Cash,1. Asset
-165,0,Cash,1. Asset
-165,0,Cash,1. Asset
-165,0,Cash,1. Asset
-165,0,Cash,1. Asset
-165,402529,Interfund Balances R,1.1 Asset  - Interfund
+165,264733.97,Unrestricted Cash,1. Asset
+165,0,Unrestricted Cash,1. Asset
+165,0,Unrestricted Cash,1. Asset
+165,0,Unrestricted Cash,1. Asset
+165,0,Unrestricted Cash,1. Asset
+165,410528.82,Interfund Balances R,1.1 Asset  - Interfund
 165,0,Interfund Balances R,1.1 Asset  - Interfund
 165,0,Interfund Balances R,1.1 Asset  - Interfund
 165,0,Interfund Balances R,1.1 Asset  - Interfund
@@ -891,23 +891,23 @@ Fund,Balance,Category,Type
 165,0,Prepaids and Other,1. Asset
 165,0,Accounts Payable,2. Liability
 165,0,Accounts Payable,2. Liability
-165,8024,Interfund Balances P,2.1 Interfund Payable
+165,23.73,Interfund Balances P,2.1 Interfund Payable
 165,0,Interfund Balances P,2.1 Interfund Payable
 165,0,Interfund Balances P,2.1 Interfund Payable
 165,-150,Interfund Balances P,2.1 Interfund Payable
 165,0,Interfund Balances P,2.1 Interfund Payable
-165,-11705,Beg Fund Balances,3.1 Equity Budget
-165,11705,Beg Fund Balances,3.1 Equity Budget
+165,-11704.54,Beg Fund Balances,3.1 Equity Budget
+165,11704.54,Beg Fund Balances,3.1 Equity Budget
 165,1500,Beg Fund Balances,3.2 Equity Encumbance
 165,-1500,Beg Fund Balances,3.2 Equity Encumbance
-165,-155546,Beg Fund Balances,3. Equity
+165,-153923.45,Beg Fund Balances,3. Equity
 165,0,Beg Fund Balances,3.1 Equity Budget
-165,-513915,Beg Fund Balances,3. Equity
-165,-2395,Intergovernmental,4. Revenue
+165,-513914.53,Beg Fund Balances,3. Equity
+165,-2394.54,Intergovernmental,4. Revenue
 165,-9310,Charges for Services,4. Revenue
 165,0,Interest,4. Revenue
 165,0,Other,4. Revenue
-165,1622,Other,4. Revenue
+165,0,Other,4. Revenue
 165,0,Transfer In,6. Transfers In
 165,0,Transfers In,4. Revenue
 165,4406,Expenditures - Dept 52 - Public Safety,5. Expense
@@ -915,7 +915,7 @@ Fund,Balance,Category,Type
 165,0,Expenditures - Dept 52 - Public Safety,5. Expense
 165,0,Expenditures - Dept 52 - Public Safety,5. Expense
 165,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-167,0,Cash,1. Asset
+167,0,Unrestricted Cash,1. Asset
 167,0,Interfund Balances R,1.1 Asset  - Interfund
 167,0,Interfund Balances R,1.1 Asset  - Interfund
 167,0,Prepaids and Other,1. Asset
@@ -932,8 +932,8 @@ Fund,Balance,Category,Type
 167,0,Interest,4. Revenue
 167,0,Other,4. Revenue
 167,0,Transfers In,4. Revenue
-169,0,Cash,1. Asset
-169,0,Cash,1. Asset
+169,0,Unrestricted Cash,1. Asset
+169,0,Unrestricted Cash,1. Asset
 169,0,Interfund Balances R,1.1 Asset  - Interfund
 169,0,Interfund Balances R,1.1 Asset  - Interfund
 169,0,Interfund Balances R,1.1 Asset  - Interfund
@@ -958,7 +958,7 @@ Fund,Balance,Category,Type
 169,0,Other,4. Revenue
 169,0,Transfer In,6. Transfers In
 169,0,Transfers In,4. Revenue
-171,0,Cash,1. Asset
+171,0,Unrestricted Cash,1. Asset
 171,0,Interfund Balances R,1.1 Asset  - Interfund
 171,0,Interfund Balances R,1.1 Asset  - Interfund
 171,0,Intergovernmental Rec,1. Asset
@@ -981,7 +981,7 @@ Fund,Balance,Category,Type
 171,0,Intergovernmental,4. Revenue
 171,0,Other,4. Revenue
 171,0,Transfers In,4. Revenue
-172,0,Cash,1. Asset
+172,0,Unrestricted Cash,1. Asset
 172,0,Interfund Balances R,1.1 Asset  - Interfund
 172,0,Interfund Balances R,1.1 Asset  - Interfund
 172,0,Intergovernmental Rec,1. Asset
@@ -1000,9 +1000,9 @@ Fund,Balance,Category,Type
 172,0,Beg Fund Balances,3.1 Equity Budget
 172,0,Beg Fund Balances,3.2 Equity Encumbance
 172,0,Beg Fund Balances,3.2 Equity Encumbance
-172,-61,Beg Fund Balances,3. Equity
+172,-61.39,Beg Fund Balances,3. Equity
 172,0,Beg Fund Balances,3.1 Equity Budget
-172,61,Beg Fund Balances,3. Equity
+172,61.39,Beg Fund Balances,3. Equity
 172,0,Intergovernmental,4. Revenue
 172,0,Intergovernmental,4. Revenue
 172,0,Intergovernmental,4. Revenue
@@ -1011,7 +1011,7 @@ Fund,Balance,Category,Type
 172,0,Transfer In,6. Transfers In
 172,0,Transfer In,6. Transfers In
 172,0,Transfers In,4. Revenue
-173,0,Cash,1. Asset
+173,0,Unrestricted Cash,1. Asset
 173,0,Interfund Balances R,1.1 Asset  - Interfund
 173,0,Accounts Payable,2. Liability
 173,0,Interfund Balances P,2.1 Interfund Payable
@@ -1023,7 +1023,7 @@ Fund,Balance,Category,Type
 173,0,Beg Fund Balances,3.1 Equity Budget
 173,0,Beg Fund Balances,3. Equity
 173,0,Transfer In,6. Transfers In
-174,0,Cash,1. Asset
+174,0,Unrestricted Cash,1. Asset
 174,0,Interfund Balances R,1.1 Asset  - Interfund
 174,0,Interfund Balances R,1.1 Asset  - Interfund
 174,0,Intergovernmental Rec,1. Asset
@@ -1039,50 +1039,50 @@ Fund,Balance,Category,Type
 174,0,Beg Fund Balances,3. Equity
 174,0,Intergovernmental,4. Revenue
 174,0,Transfer In,6. Transfers In
-176,105100,Cash,1. Asset
-176,2003577,Interfund Balances R,1.1 Asset  - Interfund
+176,105100,Unrestricted Cash,1. Asset
+176,2003576.85,Interfund Balances R,1.1 Asset  - Interfund
 176,0,Interfund Balances R,1.1 Asset  - Interfund
 176,0,Interfund Balances R,1.1 Asset  - Interfund
-176,34517,Interfund Balances R,1.1 Asset  - Interfund
+176,34516.78,Interfund Balances R,1.1 Asset  - Interfund
 176,0,Interfund Balances R,1.1 Asset  - Interfund
 176,0,Interfund Balances R,1.1 Asset  - Interfund
 176,0,Intergovernmental Rec,1. Asset
-176,1995720,Intergovernmental Rec,1. Asset
-176,974,Intergovernmental Rec,1. Asset
-176,-16461,Accounts Payable,2. Liability
+176,1995719.91,Intergovernmental Rec,1. Asset
+176,974.15,Intergovernmental Rec,1. Asset
+176,-16460.82,Accounts Payable,2. Liability
 176,0,Accounts Payable,2. Liability
 176,0,Accounts Payable,2. Liability
-176,-2059729,Interfund Balances P,2.1 Interfund Payable
+176,-2059728.79,Interfund Balances P,2.1 Interfund Payable
 176,0,Interfund Balances P,2.1 Interfund Payable
 176,-72006,Interfund Balances P,2.1 Interfund Payable
-176,-532894,Interfund Balances P,2.1 Interfund Payable
-176,-285337,Interfund Balances P,2.1 Interfund Payable
+176,-532893.66,Interfund Balances P,2.1 Interfund Payable
+176,-285336.51,Interfund Balances P,2.1 Interfund Payable
 176,-117551,Interfund Balances P,2.1 Interfund Payable
-176,-229,Accrued Expenses and Other Payables,2. Liability
-176,-210388,Beg Fund Balances,3.1 Equity Budget
-176,210388,Beg Fund Balances,3.1 Equity Budget
+176,-229.05,Accrued Expenses and Other Payables,2. Liability
+176,-210387.78,Beg Fund Balances,3.1 Equity Budget
+176,210387.78,Beg Fund Balances,3.1 Equity Budget
 176,0,Beg Fund Balances,3.2 Equity Encumbance
 176,0,Beg Fund Balances,3.2 Equity Encumbance
-176,352577,Beg Fund Balances,3. Equity
+176,352577.05,Beg Fund Balances,3. Equity
 176,0,Beg Fund Balances,3.1 Equity Budget
-176,-1393847,Beg Fund Balances,3. Equity
+176,-1393847.25,Beg Fund Balances,3. Equity
 176,0,Property taxes,4. Revenue
 176,0,Property taxes,4. Revenue
 176,0,"Local option, use and fuel taxes",4. Revenue
 176,0,"Local option, use and fuel taxes",4. Revenue
 176,0,Intergovernmental,4. Revenue
-176,-1012246,Intergovernmental,4. Revenue
+176,-1012246.42,Intergovernmental,4. Revenue
 176,0,Intergovernmental,4. Revenue
 176,0,Other,4. Revenue
 176,0,Transfer In,6. Transfers In
 176,0,Expenditures - Dept 54 - Transportation,5. Expense
-176,953,Expenditures - Dept 54 - Transportation,5. Expense
-176,801859,Expenditures - Dept 54 - Transportation,5. Expense
-176,195023,Expenditures - Dept 54 - Transportation,5. Expense
+176,952.54,Expenditures - Dept 54 - Transportation,5. Expense
+176,801859.14,Expenditures - Dept 54 - Transportation,5. Expense
+176,195023.08,Expenditures - Dept 54 - Transportation,5. Expense
 176,0,Expenditures - Dept 54 - Transportation,5. Expense
 176,0,Expenditures - Dept 54 - Transportation,5. Expense
 176,0,Expenditures - Dept 54 - Transportation,5. Expense
-177,0,Cash,1. Asset
+177,0,Unrestricted Cash,1. Asset
 177,0,Interfund Balances R,1.1 Asset  - Interfund
 177,0,Interfund Balances R,1.1 Asset  - Interfund
 177,0,Interfund Balances R,1.1 Asset  - Interfund
@@ -1104,7 +1104,7 @@ Fund,Balance,Category,Type
 177,0,Intergovernmental,4. Revenue
 177,0,Other,4. Revenue
 177,0,Transfer In,6. Transfers In
-178,0,Cash,1. Asset
+178,0,Unrestricted Cash,1. Asset
 178,0,Interfund Balances R,1.1 Asset  - Interfund
 178,0,Interfund Balances R,1.1 Asset  - Interfund
 178,0,Interfund Balances R,1.1 Asset  - Interfund
@@ -1125,7 +1125,7 @@ Fund,Balance,Category,Type
 178,0,Intergovernmental,4. Revenue
 178,0,Interest,4. Revenue
 178,0,Transfer In,6. Transfers In
-179,0,Cash,1. Asset
+179,0,Unrestricted Cash,1. Asset
 179,0,Interfund Balances R,1.1 Asset  - Interfund
 179,0,Intergovernmental Rec,1. Asset
 179,0,Accounts Payable,2. Liability
@@ -1141,15 +1141,15 @@ Fund,Balance,Category,Type
 179,0,Intergovernmental,4. Revenue
 179,0,Interest,4. Revenue
 179,0,Transfer In,6. Transfers In
-180,628608,Cash,1. Asset
-180,499112,Interfund Balances R,1.1 Asset  - Interfund
+180,628607.57,Unrestricted Cash,1. Asset
+180,499112.32,Interfund Balances R,1.1 Asset  - Interfund
 180,72006,Interfund Balances R,1.1 Asset  - Interfund
 180,0,Interfund Balances R,1.1 Asset  - Interfund
 180,-2000,Accounts Payable,2. Liability
 180,0,Accounts Payable,2. Liability
-180,-45583,Interfund Balances P,2.1 Interfund Payable
-180,-25056,Interfund Balances P,2.1 Interfund Payable
-180,-13739,Interfund Balances P,2.1 Interfund Payable
+180,-72924.24,Interfund Balances P,2.1 Interfund Payable
+180,-25055.69,Interfund Balances P,2.1 Interfund Payable
+180,-13739.09,Interfund Balances P,2.1 Interfund Payable
 180,0,Interfund Balances P,2.1 Interfund Payable
 180,-5000,Interfund Balances P,2.1 Interfund Payable
 180,-740,Accrued Expenses and Other Payables,2. Liability
@@ -1157,21 +1157,21 @@ Fund,Balance,Category,Type
 180,527613,Beg Fund Balances,3.1 Equity Budget
 180,175,Beg Fund Balances,3.2 Equity Encumbance
 180,-175,Beg Fund Balances,3.2 Equity Encumbance
-180,-230381,Beg Fund Balances,3. Equity
+180,-129111.33,Beg Fund Balances,3. Equity
 180,0,Beg Fund Balances,3.1 Equity Budget
-180,-229625,Beg Fund Balances,3. Equity
-180,-503434,Property taxes,4. Revenue
-180,-101896,Property taxes,4. Revenue
+180,-229624.61,Beg Fund Balances,3. Equity
+180,-610013.67,Property taxes,4. Revenue
+180,-173890,Property taxes,4. Revenue
 180,0,Intergovernmental,4. Revenue
 180,0,Intergovernmental,4. Revenue
 180,0,Transfer In,6. Transfers In
 180,0,Transfer In,6. Transfers In
-180,-59827,Expenditures - Dept 51 - General Gov,5. Expense
-180,-5341,Expenditures - Dept 51 - General Gov,5. Expense
-180,2974,Expenditures - Dept 51 - General Gov,5. Expense
-180,2245,Expenditures - Dept 51 - General Gov,5. Expense
+180,14798.09,Expenditures - Dept 51 - General Gov,5. Expense
+180,22516.81,Expenditures - Dept 51 - General Gov,5. Expense
+180,2724.43,Expenditures - Dept 51 - General Gov,5. Expense
+180,2158.41,Expenditures - Dept 51 - General Gov,5. Expense
 180,0,Expenditures - Dept 51 - General Gov,5. Expense
-180,0,Expenditures - Dept 51 - General Gov,5. Expense
+180,2500,Expenditures - Dept 51 - General Gov,5. Expense
 180,0,Expenditures - Dept 51 - General Gov,5. Expense
 180,17500,Expenditures - Dept 51 - General Gov,5. Expense
 180,175,Expenditures - Dept 51 - General Gov,5. Expense
@@ -1185,10 +1185,10 @@ Fund,Balance,Category,Type
 180,0,Expenditures - Dept 51 - General Gov,5. Expense
 180,0,Expenditures - Dept 51 - General Gov,5. Expense
 180,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-220,0,Cash,1. Asset
-220,0,Cash,1. Asset
-220,0,Cash,1. Asset
-220,0,Cash,1. Asset
+220,0,Unrestricted Cash,1. Asset
+220,0,Unrestricted Cash,1. Asset
+220,0,Unrestricted Cash,1. Asset
+220,0,Unrestricted Cash,1. Asset
 220,0,AR Net,1. Asset
 220,0,AR Net,1. Asset
 220,0,Interfund Balances R,1.1 Asset  - Interfund
@@ -1203,65 +1203,65 @@ Fund,Balance,Category,Type
 220,0,Beg Fund Balances,3. Equity
 220,0,Beg Fund Balances,3.1 Equity Budget
 220,0,Beg Fund Balances,3. Equity
-230,0,Cash,1. Asset
-230,0,Cash,1. Asset
-230,0,Cash,1. Asset
-230,0,Cash,1. Asset
-230,0,Cash,1. Asset
-230,0,Cash,1. Asset
-230,0,Cash,1. Asset
-230,215561,Cash,1. Asset
-230,177050,Cash,1. Asset
-230,0,Cash,1. Asset
-230,43601,Cash,1. Asset
-230,0,Cash,1. Asset
-230,4009292,Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,215560.86,Restricted Cash,1. Asset
+230,177049.62,Restricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,43601.47,Restricted Cash,1. Asset
+230,0,Unrestricted Cash,1. Asset
+230,4009292.24,Restricted Cash,1. Asset
 230,0,AR Net,1. Asset
-230,108372,AR Net,1. Asset
-230,6724167,Interfund Balances R,1.1 Asset  - Interfund
+230,108372.06,AR Net,1. Asset
+230,6724167.25,Interfund Balances R,1.1 Asset  - Interfund
 230,0,Interfund Balances R,1.1 Asset  - Interfund
 230,0,Interfund Balances R,1.1 Asset  - Interfund
-230,246488,Interfund Balances R,1.1 Asset  - Interfund
+230,246488.11,Interfund Balances R,1.1 Asset  - Interfund
 230,0,Intergovernmental Rec,1. Asset
 230,0,Prepaids and Other,1. Asset
 230,0,Accounts Payable,2. Liability
 230,0,Accounts Payable,2. Liability
-230,-3443311,Interfund Balances P,2.1 Interfund Payable
+230,-3443310.98,Interfund Balances P,2.1 Interfund Payable
 230,0,Interfund Balances P,2.1 Interfund Payable
-230,-8007,Interfund Balances P,2.1 Interfund Payable
-230,-31066,Accrued Expenses and Other Payables,2. Liability
+230,-8007.27,Interfund Balances P,2.1 Interfund Payable
+230,-31065.82,Accrued Expenses and Other Payables,2. Liability
 230,0,Long Term Debt,2. Liability
 230,0,Long Term Debt,2. Liability
-230,-4299252,Beg Fund Balances,3.1 Equity Budget
-230,4299252,Beg Fund Balances,3.1 Equity Budget
+230,-4299252.11,Beg Fund Balances,3.1 Equity Budget
+230,4299252.11,Beg Fund Balances,3.1 Equity Budget
 230,0,Beg Fund Balances,3.2 Equity Encumbance
 230,0,Beg Fund Balances,3.2 Equity Encumbance
-230,-316613,Beg Fund Balances,3. Equity
-230,934560,Beg Fund Balances,3. Equity
-230,297203,Beg Fund Balances,3.1 Equity Budget
-230,-7644074,Beg Fund Balances,3. Equity
-230,-1463590,Utility taxes,4. Revenue
-230,-399446,Utility taxes,4. Revenue
-230,-620432,Intergovernmental,4. Revenue
-230,-702856,Intergovernmental,4. Revenue
-230,-38,Interest,4. Revenue
+230,-316613.02,Beg Fund Balances,3. Equity
+230,934559.61,Beg Fund Balances,3. Equity
+230,297202.69,Beg Fund Balances,3.1 Equity Budget
+230,-7644074.28,Beg Fund Balances,3. Equity
+230,-1463589.95,Utility taxes,4. Revenue
+230,-399445.79,Utility taxes,4. Revenue
+230,-620432.07,Intergovernmental,4. Revenue
+230,-702855.99,Intergovernmental,4. Revenue
+230,-32.52,Interest,4. Revenue
 230,0,Transfer In,6. Transfers In
 230,0,Debt proceeds,4. Revenue
 230,0,Debt proceeds,4. Revenue
 230,0,Transfer In,6. Transfers In
 230,0,Transfer In,6. Transfers In
 230,527000,Expenditures - Dept 51 - General Gov,5. Expense
-230,243390,Expenditures - Dept 51 - General Gov,5. Expense
-230,159957,Expenditures - Dept 51 - General Gov,5. Expense
-230,279823,Expenditures - Dept 51 - General Gov,5. Expense
+230,243389.94,Expenditures - Dept 51 - General Gov,5. Expense
+230,159956.84,Expenditures - Dept 51 - General Gov,5. Expense
+230,279822.89,Expenditures - Dept 51 - General Gov,5. Expense
 230,0,Expenditures - Dept 51 - General Gov,5. Expense
-230,654957,Transfers out,6.1 Transfers Out
-230,6902,Expenditures - Dept 51 - General Gov,5. Expense
-230,1105,Expenditures - Dept 51 - General Gov,5. Expense
+230,654956.84,Transfers out,6.1 Transfers Out
+230,6901.83,Expenditures - Dept 51 - General Gov,5. Expense
+230,1105.44,Expenditures - Dept 51 - General Gov,5. Expense
 230,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
 230,0,Expenditures - Dept 57 - Culture & Rec,5. Expense
-310,0,Cash,1. Asset
-310,0,Cash,1. Asset
+310,0,Unrestricted Cash,1. Asset
+310,0,Unrestricted Cash,1. Asset
 310,0,Interfund Balances R,1.1 Asset  - Interfund
 310,0,Interfund Balances R,1.1 Asset  - Interfund
 310,0,Prepaids and Other,1. Asset
@@ -1286,37 +1286,37 @@ Fund,Balance,Category,Type
 310,0,Interest,4. Revenue
 310,0,Other,4. Revenue
 310,0,Transfers In,4. Revenue
-320,147937,Cash,1. Asset
-320,69104,Cash,1. Asset
-320,891486,Interfund Balances R,1.1 Asset  - Interfund
+320,147936.74,Unrestricted Cash,1. Asset
+320,69104.28,Restricted Cash,1. Asset
+320,891486.25,Interfund Balances R,1.1 Asset  - Interfund
 320,0,Interfund Balances R,1.1 Asset  - Interfund
-320,532894,Interfund Balances R,1.1 Asset  - Interfund
+320,532893.66,Interfund Balances R,1.1 Asset  - Interfund
 320,0,Interfund Balances R,1.1 Asset  - Interfund
 320,0,Interfund Balances R,1.1 Asset  - Interfund
-320,645406,Interfund Balances R,1.1 Asset  - Interfund
-320,536182,Interfund Balances R,1.1 Asset  - Interfund
+320,645405.9,Interfund Balances R,1.1 Asset  - Interfund
+320,536181.92,Interfund Balances R,1.1 Asset  - Interfund
 320,0,Intergovernmental Rec,1. Asset
 320,100000,Intergovernmental Rec,1. Asset
 320,0,Intergovernmental Rec,1. Asset
 320,0,Infrastructure Net,1. Asset
 320,0,Accounts Payable,2. Liability
 320,0,Accounts Payable,2. Liability
-320,-221287,Accounts Payable,2. Liability
-320,-2477527,Interfund Balances P,2.1 Interfund Payable
-320,-34517,Interfund Balances P,2.1 Interfund Payable
+320,-221287.3,Accounts Payable,2. Liability
+320,-2477527.26,Interfund Balances P,2.1 Interfund Payable
+320,-34516.78,Interfund Balances P,2.1 Interfund Payable
 320,0,Interfund Balances P,2.1 Interfund Payable
 320,0,Interfund Balances P,2.1 Interfund Payable
-320,-1005,Deferred Revenue,2. Liability
-320,-457145,Beg Fund Balances,3.1 Equity Budget
-320,457145,Beg Fund Balances,3.1 Equity Budget
-320,57808,Beg Fund Balances,3.2 Equity Encumbance
-320,-57808,Beg Fund Balances,3.2 Equity Encumbance
-320,-138019,Beg Fund Balances,3. Equity
-320,-645037,Beg Fund Balances,3. Equity
-320,-1,Beg Fund Balances,3.1 Equity Budget
-320,867619,Beg Fund Balances,3. Equity
-320,-236983,"Local option, use and fuel taxes",4. Revenue
-320,-79938,"Local option, use and fuel taxes",4. Revenue
+320,-1005.04,Deferred Revenue,2. Liability
+320,-457145.12,Beg Fund Balances,3.1 Equity Budget
+320,457145.12,Beg Fund Balances,3.1 Equity Budget
+320,57807.56,Beg Fund Balances,3.2 Equity Encumbance
+320,-57807.56,Beg Fund Balances,3.2 Equity Encumbance
+320,-138018.56,Beg Fund Balances,3. Equity
+320,-645037.32,Beg Fund Balances,3. Equity
+320,-1.04,Beg Fund Balances,3.1 Equity Budget
+320,867619.14,Beg Fund Balances,3. Equity
+320,-236982.89,"Local option, use and fuel taxes",4. Revenue
+320,-79937.97,"Local option, use and fuel taxes",4. Revenue
 320,0,Intergovernmental,4. Revenue
 320,0,Intergovernmental,4. Revenue
 320,0,Intergovernmental,4. Revenue
@@ -1341,60 +1341,60 @@ Fund,Balance,Category,Type
 320,0,Debt proceeds,4. Revenue
 320,0,Expenditures - Dept 54 - Transportation,5. Expense
 320,0,Expenditures - Dept 54 - Transportation,5. Expense
-320,43686,Expenditures - Dept 54 - Transportation,5. Expense
+320,43686.27,Expenditures - Dept 54 - Transportation,5. Expense
 320,0,Expenditures - Dept 54 - Transportation,5. Expense
 320,0,Expenditures - Dept 54 - Transportation,5. Expense
 320,0,Expenditures - Dept 54 - Transportation,5. Expense
 320,0,Expenditures - Dept 54 - Transportation,5. Expense
 320,0,Expenditures - Dept 54 - Transportation,5. Expense
-410,-727,Cash,1. Asset
-410,0,Cash,1. Asset
+410,0,Unrestricted Cash,1. Asset
+410,0,Unrestricted Cash,1. Asset
 410,0,AR Net,1. Asset
 410,0,AR Net,1. Asset
 410,0,AR Net,1. Asset
-410,1647572,Interfund Balances R,1.1 Asset  - Interfund
+410,1647571.63,Interfund Balances R,1.1 Asset  - Interfund
 410,150,Interfund Balances R,1.1 Asset  - Interfund
 410,0,Interfund Balances R,1.1 Asset  - Interfund
 410,0,Interfund Balances R,1.1 Asset  - Interfund
 410,0,Interfund Balances R,1.1 Asset  - Interfund
-410,43269,Interfund Balances R,1.1 Asset  - Interfund
+410,43996.01,Interfund Balances R,1.1 Asset  - Interfund
 410,0,Interfund Balances R,1.1 Asset  - Interfund
 410,0,Intergovernmental Rec,1. Asset
-410,-122778,Furniture and Equipment,1. Asset
-410,-343688,Furniture and Equipment,1. Asset
-410,122779,Furniture and Equipment,1. Asset
-410,343687,Furniture and Equipment,1. Asset
+410,-122778.1,Furniture and Equipment,1. Asset
+410,-343688.28,Furniture and Equipment,1. Asset
+410,122778.66,Furniture and Equipment,1. Asset
+410,343687.2,Furniture and Equipment,1. Asset
 410,0,Furniture and Equipment,1. Asset
 410,0,Furniture and Equipment,1. Asset
 410,0,Accounts Payable,2. Liability
 410,0,Accounts Payable,2. Liability
-410,-417630,Interfund Balances P,2.1 Interfund Payable
+410,-417629.62,Interfund Balances P,2.1 Interfund Payable
 410,0,Interfund Balances P,2.1 Interfund Payable
-410,-1231437,Interfund Balances P,2.1 Interfund Payable
+410,-1231436.79,Interfund Balances P,2.1 Interfund Payable
 410,0,Intergovernmental Payables,2. Liability
 410,0,Compensated Absences,2. Liability
 410,0,Accrued Expenses and Other Payables,2. Liability
 410,0,Accrued Expenses and Other Payables,2. Liability
-410,6384,Accrued Expenses and Other Payables,2. Liability
 410,0,Accrued Expenses and Other Payables,2. Liability
-410,12100,Deposits,2. Liability
-410,-76244,Deposits,2. Liability
+410,0,Accrued Expenses and Other Payables,2. Liability
+410,12099.88,Deposits,2. Liability
+410,-76243.5,Deposits,2. Liability
 410,0,Deposits,2. Liability
 410,0,Long Term Debt,2. Liability
 410,0,Long Term Debt,2. Liability
 410,0,Long Term Debt,2. Liability
 410,0,Beg Fund Balances,3.1 Equity Budget
 410,0,Beg Fund Balances,3.1 Equity Budget
-410,0,Beg Fund Balances,3.2 Equity Encumbance
+410,6383.88,Beg Fund Balances,3.2 Equity Encumbance
 410,0,Beg Fund Balances,3.2 Equity Encumbance
 410,0,Beg Fund Balances,3.2 Equity Encumbance
 410,0,Beg Fund Balances,3.2 Equity Encumbance
 410,-121669,Beg Fund Balances,3. Equity
 410,100,Beg Fund Balances,3. Equity
-410,-1187193,Beg Fund Balances,3. Equity
-410,239357,Beg Fund Balances,3.1 Equity Budget
-410,1338197,Beg Fund Balances,3. Equity
-410,-252229,Beg Fund Balances,3. Equity
+410,-1187193.34,Beg Fund Balances,3. Equity
+410,239357.04,Beg Fund Balances,3.1 Equity Budget
+410,1338197.05,Beg Fund Balances,3. Equity
+410,-252228.72,Beg Fund Balances,3. Equity
 410,0,Franchise fees,4. Revenue
 410,0,Intergovernmental,4. Revenue
 410,0,Charges for Services,4. Revenue
@@ -1404,45 +1404,45 @@ Fund,Balance,Category,Type
 410,0,Transfer In,6. Transfers In
 410,0,Expenditures - Dept 53 -  Utilities,5. Expense
 410,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,-137887,Cash,1. Asset
-440,0,Cash,1. Asset
-440,1241985,Cash,1. Asset
-440,0,Cash,1. Asset
-440,0,Cash,1. Asset
-440,0,Cash,1. Asset
-440,79033,Cash,1. Asset
-440,0,Cash,1. Asset
-440,16267,Cash,1. Asset
+440,-138614.14,Unrestricted Cash,1. Asset
+440,0,Unrestricted Cash,1. Asset
+440,1241984.55,Restricted Cash,1. Asset
+440,0,Unrestricted Cash,1. Asset
+440,0,Unrestricted Cash,1. Asset
+440,0,Unrestricted Cash,1. Asset
+440,79032.75,Restricted Cash,1. Asset
+440,0,Unrestricted Cash,1. Asset
+440,16267.46,Restricted Cash,1. Asset
 440,0,AR Net,1. Asset
-440,24418,AR Net,1. Asset
-440,9420329,AR Net,1. Asset
+440,24418.06,AR Net,1. Asset
+440,9420328.96,AR Net,1. Asset
+440,0.01,AR Net,1. Asset
+440,-5602236.98,AR Net,1. Asset
 440,0,AR Net,1. Asset
-440,-5602237,AR Net,1. Asset
-440,0,AR Net,1. Asset
-440,3615318,Interfund Balances R,1.1 Asset  - Interfund
+440,3615318.45,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
-440,285337,Interfund Balances R,1.1 Asset  - Interfund
+440,285336.51,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
 440,5000,Interfund Balances R,1.1 Asset  - Interfund
-440,8007,Interfund Balances R,1.1 Asset  - Interfund
+440,8007.27,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
-440,1231437,Interfund Balances R,1.1 Asset  - Interfund
+440,1231436.79,Interfund Balances R,1.1 Asset  - Interfund
 440,0,Interfund Balances R,1.1 Asset  - Interfund
-440,65254,Interfund Balances R,1.1 Asset  - Interfund
-440,37262,Intergovernmental Rec,1. Asset
+440,65254.46,Interfund Balances R,1.1 Asset  - Interfund
+440,37261.8,Intergovernmental Rec,1. Asset
 440,0,Intergovernmental Rec,1. Asset
-440,214788,Intergovernmental Rec,1. Asset
+440,214788.28,Intergovernmental Rec,1. Asset
 440,0,Prepaids and Other,1. Asset
 440,0,Inventory,1. Asset
 440,0,Prepaids and Other,1. Asset
 440,0,Prepaids and Other,1. Asset
-440,29149,Prepaids and Other,1. Asset
+440,29149.13,Prepaids and Other,1. Asset
 440,0,Prepaids and Other,1. Asset
 440,0,Prepaids and Other,1. Asset
 440,0,Prepaids and Other,1. Asset
@@ -1452,36 +1452,34 @@ Fund,Balance,Category,Type
 440,0,Infrastructure Net,1. Asset
 440,0,Infrastructure Net,1. Asset
 440,0,Infrastructure Net,1. Asset
-440,0,Infrastructure Net,1. Asset
+440,-0.03,Infrastructure Net,1. Asset
 440,0,Infrastructure Net,1. Asset
 440,0,Infrastructure Net,1. Asset
 440,0,Buildings Net,1. Asset
 440,0,Buildings Net,1. Asset
 440,0,Buildings Net,1. Asset
-440,-467010,Furniture and Equipment,1. Asset
-440,-5785067,Furniture and Equipment,1. Asset
-440,-512,Furniture and Equipment,1. Asset
-440,-4710465,Furniture and Equipment,1. Asset
-440,-691651,Furniture and Equipment,1. Asset
-440,-193528,Furniture and Equipment,1. Asset
+440,-467009.58,Furniture and Equipment,1. Asset
+440,-5785067.25,Furniture and Equipment,1. Asset
+440,-512.32,Furniture and Equipment,1. Asset
+440,-4710464.58,Furniture and Equipment,1. Asset
+440,-691651.23,Furniture and Equipment,1. Asset
+440,-193528.22,Furniture and Equipment,1. Asset
 440,-23937,Furniture and Equipment,1. Asset
-440,-128342,Furniture and Equipment,1. Asset
-440,-42622,Furniture and Equipment,1. Asset
-440,-2116262,Furniture and Equipment,1. Asset
-440,-5954886,Furniture and Equipment,1. Asset
-440,-864021,Furniture and Equipment,1. Asset
-440,-35805,Furniture and Equipment,1. Asset
+440,-128342.13,Furniture and Equipment,1. Asset
+440,-42621.54,Furniture and Equipment,1. Asset
+440,-2116261.532,Furniture and Equipment,1. Asset
+440,-5954886.37,Furniture and Equipment,1. Asset
+440,-864021.09,Furniture and Equipment,1. Asset
+440,-35805.26,Furniture and Equipment,1. Asset
 440,-62171,Furniture and Equipment,1. Asset
 440,0,Furniture and Equipment,1. Asset
-440,3145228,Furniture and Equipment,1. Asset
-440,1486945,Furniture and Equipment,1. Asset
-440,95799,Furniture and Equipment,1. Asset
-440,165572,Furniture and Equipment,1. Asset
+440,3145227.56,Furniture and Equipment,1. Asset
+440,1486945.36,Furniture and Equipment,1. Asset
+440,95799.11,Furniture and Equipment,1. Asset
+440,165572.28,Furniture and Equipment,1. Asset
 440,0,Furniture and Equipment,1. Asset
-440,716315,Furniture and Equipment,1. Asset
-440,120154,Furniture and Equipment,1. Asset
-440,0,Furniture and Equipment,1. Asset
-440,0,Furniture and Equipment,1. Asset
+440,716315.17,Furniture and Equipment,1. Asset
+440,120153.65,Furniture and Equipment,1. Asset
 440,0,Furniture and Equipment,1. Asset
 440,0,Furniture and Equipment,1. Asset
 440,0,Furniture and Equipment,1. Asset
@@ -1489,14 +1487,16 @@ Fund,Balance,Category,Type
 440,0,Furniture and Equipment,1. Asset
 440,0,Furniture and Equipment,1. Asset
 440,0,Furniture and Equipment,1. Asset
-440,4501187,Construction in Progress,1. Asset
-440,5955322,Infrastructure Net,1. Asset
-440,427684,Infrastructure Net,1. Asset
-440,10380724,Infrastructure Net,1. Asset
-440,5055026,Infrastructure Net,1. Asset
-440,135938,Furniture and Equipment,1. Asset
-440,1170801,DEFERRED OUTFLOW OF RESOURCES,1.2 Deferred Asset
-440,-460078,Accounts Payable,2. Liability
+440,0,Furniture and Equipment,1. Asset
+440,0,Furniture and Equipment,1. Asset
+440,4501187.49,Construction in Progress,1. Asset
+440,5955321.86,Infrastructure Net,1. Asset
+440,427683.88,Infrastructure Net,1. Asset
+440,10380723.68,Infrastructure Net,1. Asset
+440,5055026.38,Infrastructure Net,1. Asset
+440,135938.24,Furniture and Equipment,1. Asset
+440,1170801.32,DEFERRED OUTFLOW OF RESOURCES,1.2 Deferred Asset
+440,-460077.88,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
 440,0,Current Debt,2. Liability
@@ -1508,10 +1508,10 @@ Fund,Balance,Category,Type
 440,-23839,Current Debt,2. Liability
 440,-10561,Current Debt,2. Liability
 440,-41991,Current Debt,2. Liability
-440,-176583,Accounts Payable,2. Liability
-440,-2541282,Interfund Balances P,2.1 Interfund Payable
-440,-794144,Interfund Balances P,2.1 Interfund Payable
-440,-69513,Interfund Balances P,2.1 Interfund Payable
+440,-176582.59,Accounts Payable,2. Liability
+440,-2541281.77,Interfund Balances P,2.1 Interfund Payable
+440,-794143.98,Interfund Balances P,2.1 Interfund Payable
+440,-69513.41,Interfund Balances P,2.1 Interfund Payable
 440,0,Interfund Balances P,2.1 Interfund Payable
 440,0,Interfund Balances P,2.1 Interfund Payable
 440,0,Interfund Balances P,2.1 Interfund Payable
@@ -1519,82 +1519,82 @@ Fund,Balance,Category,Type
 440,0,Interfund Balances P,2.1 Interfund Payable
 440,0,Interfund Balances P,2.1 Interfund Payable
 440,0,Interfund Balances P,2.1 Interfund Payable
-440,-246488,Interfund Balances P,2.1 Interfund Payable
-440,-645406,Interfund Balances P,2.1 Interfund Payable
-440,-43269,Interfund Balances P,2.1 Interfund Payable
-440,-575671,Interfund Balances P,2.1 Interfund Payable
+440,-246488.11,Interfund Balances P,2.1 Interfund Payable
+440,-645405.9,Interfund Balances P,2.1 Interfund Payable
+440,-43996.01,Interfund Balances P,2.1 Interfund Payable
+440,-575671.06,Interfund Balances P,2.1 Interfund Payable
 440,0,Interfund Balances P,2.1 Interfund Payable
 440,0,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
-440,-33168,Intergovernmental Payables,2. Liability
+440,-33168.06,Intergovernmental Payables,2. Liability
+440,-0.25,Intergovernmental Payables,2. Liability
+440,-342249.19,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
-440,-342249,Intergovernmental Payables,2. Liability
-440,0,Intergovernmental Payables,2. Liability
-440,-71917,Compensated Absences,2. Liability
-440,-2477,Accrued Expenses and Other Payables,2. Liability
-440,-8086,Accrued Expenses and Other Payables,2. Liability
+440,-71916.74,Compensated Absences,2. Liability
+440,-2476.62,Accrued Expenses and Other Payables,2. Liability
+440,-8085.52,Accrued Expenses and Other Payables,2. Liability
 440,0,Accrued Expenses and Other Payables,2. Liability
 440,0,Accrued Expenses and Other Payables,2. Liability
 440,0,Accrued Expenses and Other Payables,2. Liability
-440,-41942,Accrued Expenses and Other Payables,2. Liability
-440,-3170335,Deposits,2. Liability
-440,-2665,Deposits,2. Liability
-440,-1199,Deposits,2. Liability
-440,519856,Deposits,2. Liability
+440,-41941.67,Accrued Expenses and Other Payables,2. Liability
+440,-3170334.92,Deposits,2. Liability
+440,-2664.63,Deposits,2. Liability
+440,-1199.1,Deposits,2. Liability
+440,519855.52,Deposits,2. Liability
 440,0,Long Term Debt,2. Liability
 440,0,Long Term Debt,2. Liability
 440,0,Long Term Debt,2. Liability
 440,-1070000,Accrued Expenses and Other Payables,2. Liability
 440,0,Long Term Debt,2. Liability
 440,0,Long Term Debt,2. Liability
-440,-254509,Long Term Debt,2. Liability
-440,-920970,Long Term Debt,2. Liability
+440,-254508.5,Long Term Debt,2. Liability
+440,-920969.6,Long Term Debt,2. Liability
 440,-2469528,Long Term Debt,2. Liability
-440,-145883,Long Term Debt,2. Liability
-440,-409536,Long Term Debt,2. Liability
-440,-61262,Long Term Debt,2. Liability
+440,-145883.42,Long Term Debt,2. Liability
+440,-409535.96,Long Term Debt,2. Liability
+440,-61262.08,Long Term Debt,2. Liability
+440,-0.4,Long Term Debt,2. Liability
+440,-4659445.67,Long Term Debt,2. Liability
 440,0,Long Term Debt,2. Liability
-440,-4659446,Long Term Debt,2. Liability
-440,0,Long Term Debt,2. Liability
-440,-1219292,Long Term Debt,2. Liability
-440,-10420588,Beg Fund Balances,3.1 Equity Budget
-440,10420588,Beg Fund Balances,3.1 Equity Budget
-440,754298,Beg Fund Balances,3.2 Equity Encumbance
+440,-1219291.63,Long Term Debt,2. Liability
+440,-10420588.16,Beg Fund Balances,3.1 Equity Budget
+440,10420588.16,Beg Fund Balances,3.1 Equity Budget
+440,754298.38,Beg Fund Balances,3.2 Equity Encumbance
 440,0,Beg Fund Balances,3.2 Equity Encumbance
-440,-754298,Beg Fund Balances,3.2 Equity Encumbance
+440,-754298.38,Beg Fund Balances,3.2 Equity Encumbance
 440,0,Beg Fund Balances,3.2 Equity Encumbance
-440,-57420,Beg Fund Balances,3. Equity
+440,-57419.66,Beg Fund Balances,3. Equity
 440,-100000,Beg Fund Balances,3. Equity
-440,-33567,Beg Fund Balances,3. Equity
+440,-33566.52,Beg Fund Balances,3. Equity
 440,0,Beg Fund Balances,3. Equity
-440,-371568,Beg Fund Balances,3. Equity
+440,-371568.04,Beg Fund Balances,3. Equity
 440,0,Beg Fund Balances,3. Equity
 440,0,Beg Fund Balances,3. Equity
 440,-47173,Beg Fund Balances,3. Equity
 440,-68275,Beg Fund Balances,3. Equity
-440,-2222125,Beg Fund Balances,3. Equity
+440,-2222125.05,Beg Fund Balances,3. Equity
 440,-80000,Beg Fund Balances,3. Equity
-440,-1609431,Beg Fund Balances,3. Equity
-440,-2142980,Beg Fund Balances,3. Equity
-440,-43496,Beg Fund Balances,3. Equity
-440,-977008,Beg Fund Balances,3. Equity
-440,330719,Beg Fund Balances,3. Equity
-440,-383319,Beg Fund Balances,3. Equity
-440,4967122,Beg Fund Balances,3. Equity
+440,-1609430.58,Beg Fund Balances,3. Equity
+440,-2142980.3,Beg Fund Balances,3. Equity
+440,-43496.05,Beg Fund Balances,3. Equity
+440,-977008.2,Beg Fund Balances,3. Equity
+440,330718.86,Beg Fund Balances,3. Equity
+440,-383319.38,Beg Fund Balances,3. Equity
+440,4967121.75,Beg Fund Balances,3. Equity
 440,60,Beg Fund Balances,3.1 Equity Budget
-440,-3599945,Beg Fund Balances,3. Equity
-440,4638647,Beg Fund Balances,3. Equity
-440,-331075,DEFERRED INFLOW OF RESOURCES,2.2 Deferred Liability
-440,-65901,Intergovernmental,4. Revenue
-440,-15751,Intergovernmental,4. Revenue
+440,-3599945.31,Beg Fund Balances,3. Equity
+440,4638647.02,Beg Fund Balances,3. Equity
+440,-331074.92,DEFERRED INFLOW OF RESOURCES,2.2 Deferred Liability
+440,-65901.12,Intergovernmental,4. Revenue
+440,-15750.57,Intergovernmental,4. Revenue
 440,0,Intergovernmental,4. Revenue
-440,-5594909,Charges for Services,4. Revenue
+440,-5594908.76,Charges for Services,4. Revenue
 440,0,Charges for Services,4. Revenue
-440,-611,Charges for Services,4. Revenue
-440,-42315,Charges for Services,4. Revenue
-440,-12434,Charges for Services,4. Revenue
-440,-1123,Charges for Services,4. Revenue
+440,-610.64,Charges for Services,4. Revenue
+440,-42314.74,Charges for Services,4. Revenue
+440,-12433.93,Charges for Services,4. Revenue
+440,-1123.1,Charges for Services,4. Revenue
 440,-75,Charges for Services,4. Revenue
 440,-80,Charges for Services,4. Revenue
 440,0,Charges for Services,4. Revenue
@@ -1604,16 +1604,16 @@ Fund,Balance,Category,Type
 440,-2800,Charges for Services,4. Revenue
 440,-14784,Charges for Services,4. Revenue
 440,0,Charges for Services,4. Revenue
-440,-6095349,Charges for Services,4. Revenue
+440,-6095348.84,Charges for Services,4. Revenue
 440,0,Interest,4. Revenue
 440,0,Interest,4. Revenue
-440,-24,Interest,4. Revenue
-440,161631,Other,4. Revenue
-440,-718914,Other,4. Revenue
-440,-17396,Other,4. Revenue
+440,-23.84,Interest,4. Revenue
+440,161631.26,Other,4. Revenue
+440,-718914.23,Other,4. Revenue
+440,-17395.67,Other,4. Revenue
 440,0,Other,4. Revenue
 440,-295,Other,4. Revenue
-440,-1934,Other,4. Revenue
+440,-1933.86,Other,4. Revenue
 440,0,Transfer In,6. Transfers In
 440,0,Transfers In,4. Revenue
 440,0,Transfer In,6. Transfers In
@@ -1622,121 +1622,121 @@ Fund,Balance,Category,Type
 440,0,Other,4. Revenue
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
 440,65000,Expenditures - Dept 53 -  Utilities,5. Expense
-440,71306,Expenditures - Dept 53 -  Utilities,5. Expense
-440,9980,Expenditures - Dept 53 -  Utilities,5. Expense
-440,10397,Expenditures - Dept 53 -  Utilities,5. Expense
-440,20683,Expenditures - Dept 53 -  Utilities,5. Expense
-440,21380,Expenditures - Dept 53 -  Utilities,5. Expense
+440,71305.78,Expenditures - Dept 53 -  Utilities,5. Expense
+440,9980.16,Expenditures - Dept 53 -  Utilities,5. Expense
+440,10397.26,Expenditures - Dept 53 -  Utilities,5. Expense
+440,20682.52,Expenditures - Dept 53 -  Utilities,5. Expense
+440,21380.48,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,6105,Expenditures - Dept 53 -  Utilities,5. Expense
-440,495870,Expenditures - Dept 53 -  Utilities,5. Expense
-440,177,Expenditures - Dept 53 -  Utilities,5. Expense
-440,84662,Expenditures - Dept 53 -  Utilities,5. Expense
-440,2413902,Expenditures - Dept 53 -  Utilities,5. Expense
-440,18210,Expenditures - Dept 53 -  Utilities,5. Expense
-440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,5520,Expenditures - Dept 53 -  Utilities,5. Expense
-440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,167644,Expenditures - Dept 53 -  Utilities,5. Expense
-440,2522,Expenditures - Dept 53 -  Utilities,5. Expense
-440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,13,Expenditures - Dept 53 -  Utilities,5. Expense
-440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,115401,Expenditures - Dept 53 -  Utilities,5. Expense
+440,6104.5,Expenditures - Dept 53 -  Utilities,5. Expense
+440,495869.98,Expenditures - Dept 53 -  Utilities,5. Expense
+440,176.69,Expenditures - Dept 53 -  Utilities,5. Expense
+440,84661.54,Expenditures - Dept 53 -  Utilities,5. Expense
+440,2413902.12,Expenditures - Dept 53 -  Utilities,5. Expense
+440,18210.34,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,-4806,Expenditures - Dept 53 -  Utilities,5. Expense
+440,5519.95,Expenditures - Dept 53 -  Utilities,5. Expense
+440,0,Expenditures - Dept 53 -  Utilities,5. Expense
+440,0,Expenditures - Dept 53 -  Utilities,5. Expense
+440,167644.43,Expenditures - Dept 53 -  Utilities,5. Expense
+440,2521.6,Expenditures - Dept 53 -  Utilities,5. Expense
+440,0,Expenditures - Dept 53 -  Utilities,5. Expense
+440,12.6,Expenditures - Dept 53 -  Utilities,5. Expense
+440,0,Expenditures - Dept 53 -  Utilities,5. Expense
+440,115400.53,Expenditures - Dept 53 -  Utilities,5. Expense
+440,0,Expenditures - Dept 53 -  Utilities,5. Expense
+440,0,Expenditures - Dept 53 -  Utilities,5. Expense
+440,0,Expenditures - Dept 53 -  Utilities,5. Expense
+440,-4805.94,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
-440,235519,Expenditures - Dept 51 - General Gov,5. Expense
+440,235519.42,Expenditures - Dept 51 - General Gov,5. Expense
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
-440,1933,Expenditures - Dept 51 - General Gov,5. Expense
-440,17457,Expenditures - Dept 51 - General Gov,5. Expense
-440,133970,Expenditures - Dept 51 - General Gov,5. Expense
-440,33916,Expenditures - Dept 51 - General Gov,5. Expense
-440,40242,Expenditures - Dept 51 - General Gov,5. Expense
-440,306236,Expenditures - Dept 51 - General Gov,5. Expense
-440,106840,Expenditures - Dept 51 - General Gov,5. Expense
-440,24098,Expenditures - Dept 51 - General Gov,5. Expense
-440,0,Expenditures - Dept 51 - General Gov,5. Expense
-440,0,Expenditures - Dept 51 - General Gov,5. Expense
+440,1932.6,Expenditures - Dept 51 - General Gov,5. Expense
+440,17456.93,Expenditures - Dept 51 - General Gov,5. Expense
+440,133970.08,Expenditures - Dept 51 - General Gov,5. Expense
+440,33915.54,Expenditures - Dept 51 - General Gov,5. Expense
+440,40241.5,Expenditures - Dept 51 - General Gov,5. Expense
+440,306236.1,Expenditures - Dept 51 - General Gov,5. Expense
+440,106840.04,Expenditures - Dept 51 - General Gov,5. Expense
+440,24098.26,Expenditures - Dept 51 - General Gov,5. Expense
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
-440,35009,Expenditures - Dept 51 - General Gov,5. Expense
-440,1601,Expenditures - Dept 51 - General Gov,5. Expense
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
-440,531900,Expenditures - Dept 51 - General Gov,5. Expense
-440,3935624,Expenditures - Dept 51 - General Gov,5. Expense
-440,488694,Expenditures - Dept 51 - General Gov,5. Expense
+440,35008.86,Expenditures - Dept 51 - General Gov,5. Expense
+440,1601.25,Expenditures - Dept 51 - General Gov,5. Expense
 440,0,Expenditures - Dept 51 - General Gov,5. Expense
-440,5069,Expenditures - Dept 51 - General Gov,5. Expense
+440,0,Expenditures - Dept 51 - General Gov,5. Expense
+440,531900.49,Expenditures - Dept 51 - General Gov,5. Expense
+440,3935623.64,Expenditures - Dept 51 - General Gov,5. Expense
+440,488693.81,Expenditures - Dept 51 - General Gov,5. Expense
+440,0,Expenditures - Dept 51 - General Gov,5. Expense
+440,5068.5,Expenditures - Dept 51 - General Gov,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,61595,Expenditures - Dept 54 - Transportation,5. Expense
+440,61594.78,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,108307,Expenditures - Dept 54 - Transportation,5. Expense
-440,135,Expenditures - Dept 54 - Transportation,5. Expense
-440,7784,Expenditures - Dept 54 - Transportation,5. Expense
-440,11758,Expenditures - Dept 54 - Transportation,5. Expense
-440,36487,Expenditures - Dept 54 - Transportation,5. Expense
-440,326,Expenditures - Dept 54 - Transportation,5. Expense
+440,108307.01,Expenditures - Dept 54 - Transportation,5. Expense
+440,135.14,Expenditures - Dept 54 - Transportation,5. Expense
+440,7784.01,Expenditures - Dept 54 - Transportation,5. Expense
+440,11758.22,Expenditures - Dept 54 - Transportation,5. Expense
+440,36487.2,Expenditures - Dept 54 - Transportation,5. Expense
+440,326.06,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,8649,Expenditures - Dept 54 - Transportation,5. Expense
+440,8648.64,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,12,Expenditures - Dept 54 - Transportation,5. Expense
-440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,-3871,Expenditures - Dept 54 - Transportation,5. Expense
-440,3660,Expenditures - Dept 53 -  Utilities,5. Expense
+440,11.99,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,7903,Expenditures - Dept 54 - Transportation,5. Expense
-440,10319,Expenditures - Dept 54 - Transportation,5. Expense
-440,-74213,Expenditures - Dept 54 - Transportation,5. Expense
-440,53770,Expenditures - Dept 54 - Transportation,5. Expense
-440,168431,Expenditures - Dept 54 - Transportation,5. Expense
-440,307,Expenditures - Dept 54 - Transportation,5. Expense
-440,1418526,Expenditures - Dept 54 - Transportation,5. Expense
-440,2969,Expenditures - Dept 54 - Transportation,5. Expense
+440,-3871.15,Expenditures - Dept 54 - Transportation,5. Expense
+440,3660.25,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,11881,Expenditures - Dept 54 - Transportation,5. Expense
-440,3325,Expenditures - Dept 54 - Transportation,5. Expense
-440,12,Expenditures - Dept 54 - Transportation,5. Expense
+440,7902.52,Expenditures - Dept 54 - Transportation,5. Expense
+440,10318.54,Expenditures - Dept 54 - Transportation,5. Expense
+440,-74213.15,Expenditures - Dept 54 - Transportation,5. Expense
+440,53769.99,Expenditures - Dept 54 - Transportation,5. Expense
+440,168431.01,Expenditures - Dept 54 - Transportation,5. Expense
+440,306.78,Expenditures - Dept 54 - Transportation,5. Expense
+440,1418526.15,Expenditures - Dept 54 - Transportation,5. Expense
+440,2969.06,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,98,Expenditures - Dept 54 - Transportation,5. Expense
-440,309,Expenditures - Dept 54 - Transportation,5. Expense
-440,709,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,67446,Expenditures - Dept 54 - Transportation,5. Expense
+440,0,Expenditures - Dept 54 - Transportation,5. Expense
+440,11880.9,Expenditures - Dept 54 - Transportation,5. Expense
+440,3325.13,Expenditures - Dept 54 - Transportation,5. Expense
+440,11.97,Expenditures - Dept 54 - Transportation,5. Expense
+440,0,Expenditures - Dept 54 - Transportation,5. Expense
+440,97.95,Expenditures - Dept 54 - Transportation,5. Expense
+440,309.07,Expenditures - Dept 54 - Transportation,5. Expense
+440,708.58,Expenditures - Dept 54 - Transportation,5. Expense
+440,0,Expenditures - Dept 54 - Transportation,5. Expense
+440,67446.07,Expenditures - Dept 54 - Transportation,5. Expense
 440,10965,Expenditures - Dept 54 - Transportation,5. Expense
 440,0,Expenditures - Dept 54 - Transportation,5. Expense
-440,23767,Expenditures - Dept 54 - Transportation,5. Expense
-440,691411,Expenditures - Dept 54 - Transportation,5. Expense
-440,104981,Expenditures - Dept 53 -  Utilities,5. Expense
-440,45000,Expenditures - Dept 53 -  Utilities,5. Expense
-440,10217,Expenditures - Dept 53 -  Utilities,5. Expense
-440,2419,Expenditures - Dept 53 -  Utilities,5. Expense
-440,7755,Expenditures - Dept 53 -  Utilities,5. Expense
+440,23767.02,Expenditures - Dept 54 - Transportation,5. Expense
+440,691410.8218,Expenditures - Dept 54 - Transportation,5. Expense
+440,104980.74,Expenditures - Dept 53 -  Utilities,5. Expense
+440,45000.01,Expenditures - Dept 53 -  Utilities,5. Expense
+440,10216.79,Expenditures - Dept 53 -  Utilities,5. Expense
+440,2418.82,Expenditures - Dept 53 -  Utilities,5. Expense
+440,7755.19,Expenditures - Dept 53 -  Utilities,5. Expense
 440,-49072,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-440,125184,Expenditures - Dept 53 -  Utilities,5. Expense
+440,125183.69,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
@@ -1745,95 +1745,95 @@ Fund,Balance,Category,Type
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
 440,850,Expenditures - Dept 53 -  Utilities,5. Expense
 440,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,1940931,Cash,1. Asset
-450,0,Cash,1. Asset
-450,110000,Cash,1. Asset
+450,1940930.97,Unrestricted Cash,1. Asset
+450,0,Unrestricted Cash,1. Asset
+450,110000,Restricted Cash,1. Asset
 450,0,AR Net,1. Asset
-450,1047069,AR Net,1. Asset
-450,9958,AR Net,1. Asset
+450,1047068.93,AR Net,1. Asset
+450,9958.48,AR Net,1. Asset
 450,0,AR Net,1. Asset
-450,-17264,AR Net,1. Asset
-450,12723,Interfund Balances R,1.1 Asset  - Interfund
+450,-17263.64,AR Net,1. Asset
+450,12723.12,Interfund Balances R,1.1 Asset  - Interfund
 450,117551,Interfund Balances R,1.1 Asset  - Interfund
 450,0,Interfund Balances R,1.1 Asset  - Interfund
-450,575671,Interfund Balances R,1.1 Asset  - Interfund
-450,38514,Intergovernmental Rec,1. Asset
+450,575671.06,Interfund Balances R,1.1 Asset  - Interfund
+450,38513.75,Intergovernmental Rec,1. Asset
 450,0,Prepaids and Other,1. Asset
 450,0,Buildings Net,1. Asset
-450,-80871,Furniture and Equipment,1. Asset
-450,-704747,Furniture and Equipment,1. Asset
+450,-80870.59,Furniture and Equipment,1. Asset
+450,-704747.42,Furniture and Equipment,1. Asset
 450,167995,Furniture and Equipment,1. Asset
-450,349705,Furniture and Equipment,1. Asset
+450,349705.03,Furniture and Equipment,1. Asset
 450,0,Furniture and Equipment,1. Asset
 450,0,Furniture and Equipment,1. Asset
-450,289056,Construction in Progress,1. Asset
-450,80983,Infrastructure Net,1. Asset
+450,289056.11,Construction in Progress,1. Asset
+450,80983.03,Infrastructure Net,1. Asset
 450,218925,Furniture and Equipment,1. Asset
-450,-143809,Accounts Payable,2. Liability
+450,-143809.44,Accounts Payable,2. Liability
 450,0,Accounts Payable,2. Liability
-450,-38514,Accounts Payable,2. Liability
-450,-1173085,Interfund Balances P,2.1 Interfund Payable
-450,-50112,Interfund Balances P,2.1 Interfund Payable
-450,-13875,Interfund Balances P,2.1 Interfund Payable
+450,-38513.74,Accounts Payable,2. Liability
+450,-1173085.4,Interfund Balances P,2.1 Interfund Payable
+450,-50111.84,Interfund Balances P,2.1 Interfund Payable
+450,-13875.42,Interfund Balances P,2.1 Interfund Payable
 450,0,Interfund Balances P,2.1 Interfund Payable
 450,0,Interfund Balances P,2.1 Interfund Payable
-450,-65254,Interfund Balances P,2.1 Interfund Payable
-450,-28311,Compensated Absences,2. Liability
-450,-881,Accrued Expenses and Other Payables,2. Liability
+450,-65254.45,Interfund Balances P,2.1 Interfund Payable
+450,-28310.88,Compensated Absences,2. Liability
+450,-881.11,Accrued Expenses and Other Payables,2. Liability
 450,0,Accrued Expenses and Other Payables,2. Liability
 450,0,Accrued Expenses and Other Payables,2. Liability
-450,-3996,Accrued Expenses and Other Payables,2. Liability
-450,-1,Deposits,2. Liability
+450,-3995.68,Accrued Expenses and Other Payables,2. Liability
+450,-0.89,Deposits,2. Liability
 450,0,Long Term Debt,2. Liability
 450,0,Long Term Debt,2. Liability
-450,-530972,Long Term Debt,2. Liability
-450,-973984,Beg Fund Balances,3.1 Equity Budget
-450,973984,Beg Fund Balances,3.1 Equity Budget
-450,85469,Beg Fund Balances,3.2 Equity Encumbance
+450,-530971.64,Long Term Debt,2. Liability
+450,-973983.77,Beg Fund Balances,3.1 Equity Budget
+450,973983.77,Beg Fund Balances,3.1 Equity Budget
+450,85468.79,Beg Fund Balances,3.2 Equity Encumbance
 450,0,Beg Fund Balances,3.2 Equity Encumbance
-450,-85469,Beg Fund Balances,3.2 Equity Encumbance
+450,-85468.79,Beg Fund Balances,3.2 Equity Encumbance
 450,0,Beg Fund Balances,3.2 Equity Encumbance
 450,0,Beg Fund Balances,3. Equity
-450,-88209,Beg Fund Balances,3. Equity
-450,288280,Beg Fund Balances,3. Equity
-450,56581,Beg Fund Balances,3.1 Equity Budget
-450,37885,Beg Fund Balances,3. Equity
-450,-1501884,Beg Fund Balances,3. Equity
+450,-88208.78,Beg Fund Balances,3. Equity
+450,288279.65,Beg Fund Balances,3. Equity
+450,56581.45,Beg Fund Balances,3.1 Equity Budget
+450,37885.03,Beg Fund Balances,3. Equity
+450,-1501883.5,Beg Fund Balances,3. Equity
 450,0,Intergovernmental,4. Revenue
-450,-1535691,Charges for Services,4. Revenue
+450,-1535691.01,Charges for Services,4. Revenue
 450,0,Interest,4. Revenue
 450,0,Other,4. Revenue
 450,0,Transfer In,6. Transfers In
 450,0,Debt proceeds,4. Revenue
-450,2764,Expenditures - Dept 54 - Transportation,5. Expense
-450,63676,Expenditures - Dept 53 -  Utilities,5. Expense
+450,2763.6,Expenditures - Dept 54 - Transportation,5. Expense
+450,63676.47,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,5607,Expenditures - Dept 53 -  Utilities,5. Expense
-450,5974,Expenditures - Dept 53 -  Utilities,5. Expense
-450,10095,Expenditures - Dept 53 -  Utilities,5. Expense
+450,5606.58,Expenditures - Dept 53 -  Utilities,5. Expense
+450,5973.89,Expenditures - Dept 53 -  Utilities,5. Expense
+450,10094.89,Expenditures - Dept 53 -  Utilities,5. Expense
 450,380,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,474518,Expenditures - Dept 53 -  Utilities,5. Expense
-450,119,Expenditures - Dept 53 -  Utilities,5. Expense
+450,474518.13,Expenditures - Dept 53 -  Utilities,5. Expense
+450,119.13,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,68938,Expenditures - Dept 53 -  Utilities,5. Expense
-450,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,617,Expenditures - Dept 53 -  Utilities,5. Expense
+450,68938.08,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
+450,616.99,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
-450,2627,Expenditures - Dept 53 -  Utilities,5. Expense
+450,0,Expenditures - Dept 53 -  Utilities,5. Expense
+450,0,Expenditures - Dept 53 -  Utilities,5. Expense
+450,0,Expenditures - Dept 53 -  Utilities,5. Expense
+450,2627.31,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Transfers out,6.1 Transfers Out
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 53 -  Utilities,5. Expense
 450,0,Expenditures - Dept 54 - Transportation,5. Expense
-450,333,Expenditures - Dept 53 -  Utilities,5. Expense
-480,0,Cash,1. Asset
+450,332.75,Expenditures - Dept 53 -  Utilities,5. Expense
+480,0,Unrestricted Cash,1. Asset
 480,0,Accounts Payable,2. Liability
 480,0,Beg Fund Balances,3.1 Equity Budget
 480,0,Beg Fund Balances,3.1 Equity Budget
@@ -1844,52 +1844,52 @@ Fund,Balance,Category,Type
 480,0,Beg Fund Balances,3.1 Equity Budget
 480,0,Beg Fund Balances,3. Equity
 480,0,Other,4. Revenue
-490,773407,Cash,1. Asset
-490,0,Cash,1. Asset
-490,0,Cash,1. Asset
-490,0,Cash,1. Asset
-490,536182,Cash,1. Asset
+490,773406.86,Unrestricted Cash,1. Asset
+490,0,Unrestricted Cash,1. Asset
+490,0,Unrestricted Cash,1. Asset
+490,0,Unrestricted Cash,1. Asset
+490,536181.92,Restricted Cash,1. Asset
 490,0,AR Net,1. Asset
-490,59549,AR Net,1. Asset
-490,194689,AR Net,1. Asset
-490,-254238,AR Net,1. Asset
-490,479510,Interfund Balances R,1.1 Asset  - Interfund
-490,0,Interfund Balances R,1. Asset
+490,59548.53,AR Net,1. Asset
+490,194689.04,AR Net,1. Asset
+490,-254237.57,AR Net,1. Asset
+490,479509.75,Interfund Balances R,1.1 Asset  - Interfund
+490,0,Interfund Balances R,1.1 Asset  - Interfund
 490,0,Interfund Balances R,1.1 Asset  - Interfund
 490,0,Interfund Balances R,1.1 Asset  - Interfund
 490,0,Prepaids and Other,1. Asset
 490,0,Prepaids and Other,1. Asset
-490,156078,Prepaids and Other,1. Asset
+490,156077.67,Prepaids and Other,1. Asset
 490,0,Prepaids and Other,1. Asset
 490,0,Buildings Net,1. Asset
-490,-7634,Accounts Payable,2. Liability
+490,-7633.93,Accounts Payable,2. Liability
 490,0,Accounts Payable,2. Liability
-490,-1859340,Interfund Balances P,2.1 Interfund Payable
-490,-25056,Interfund Balances P,2.1 Interfund Payable
-490,-13875,Interfund Balances P,2.1 Interfund Payable
-490,-536182,Interfund Balances P,2.1 Interfund Payable
+490,-1859339.81,Interfund Balances P,2.1 Interfund Payable
+490,-25055.92,Interfund Balances P,2.1 Interfund Payable
+490,-13875.42,Interfund Balances P,2.1 Interfund Payable
+490,-536181.92,Interfund Balances P,2.1 Interfund Payable
 490,0,Interfund Balances P,2.1 Interfund Payable
-490,-177,Intergovernmental Payables,2. Liability
+490,-176.8,Intergovernmental Payables,2. Liability
 490,0,Intergovernmental Payables,2. Liability
 490,0,Intergovernmental Payables,2. Liability
 490,0,Accrued Expenses and Other Payables,2. Liability
 490,0,Accrued Expenses and Other Payables,2. Liability
-490,-12616,Deposits,2. Liability
+490,-12616.04,Deposits,2. Liability
 490,0,Long Term Debt,2. Liability
 490,0,Long Term Debt,2. Liability
 490,0,Long Term Debt,2. Liability
 490,0,Long Term Debt,2. Liability
 490,0,Long Term Debt,2. Liability
-490,-1555782,Beg Fund Balances,3.1 Equity Budget
-490,1555782,Beg Fund Balances,3.1 Equity Budget
-490,9720,Beg Fund Balances,3.2 Equity Encumbance
+490,-1555782.21,Beg Fund Balances,3.1 Equity Budget
+490,1555782.21,Beg Fund Balances,3.1 Equity Budget
+490,9720.36,Beg Fund Balances,3.2 Equity Encumbance
 490,0,Beg Fund Balances,3.2 Equity Encumbance
-490,-9720,Beg Fund Balances,3.2 Equity Encumbance
+490,-9720.36,Beg Fund Balances,3.2 Equity Encumbance
 490,0,Beg Fund Balances,3.2 Equity Encumbance
-490,-147672,Beg Fund Balances,3. Equity
-490,315990,Beg Fund Balances,3. Equity
+490,-147672.4,Beg Fund Balances,3. Equity
+490,315990.12,Beg Fund Balances,3. Equity
 490,0,Beg Fund Balances,3.1 Equity Budget
-490,-14309,Beg Fund Balances,3. Equity
+490,-14308.64,Beg Fund Balances,3. Equity
 490,0,Beg Fund Balances,3. Equity
 490,0,"Local option, use and fuel taxes",4. Revenue
 490,0,"Local option, use and fuel taxes",4. Revenue
@@ -1907,84 +1907,84 @@ Fund,Balance,Category,Type
 490,0,Other,4. Revenue
 490,0,Other,4. Revenue
 490,0,Other,4. Revenue
-490,-83236,Other,4. Revenue
-490,-34375,Other,4. Revenue
+490,-83235.95,Other,4. Revenue
+490,-34375.44,Other,4. Revenue
 490,0,Transfer In,6. Transfers In
 490,0,Transfers In,4. Revenue
 490,0,Transfers In,4. Revenue
 490,0,Debt proceeds,4. Revenue
-490,1133,Expenditures - Dept 51 - General Gov,5. Expense
+490,1132.74,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
-490,12297,Expenditures - Dept 51 - General Gov,5. Expense
-490,66,Expenditures - Dept 51 - General Gov,5. Expense
-490,936,Expenditures - Dept 51 - General Gov,5. Expense
+490,12296.9,Expenditures - Dept 51 - General Gov,5. Expense
+490,66.36,Expenditures - Dept 51 - General Gov,5. Expense
+490,935.67,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
-490,-18,Expenditures - Dept 51 - General Gov,5. Expense
+490,-17.92,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
-490,175267,Expenditures - Dept 51 - General Gov,5. Expense
-490,71487,Expenditures - Dept 51 - General Gov,5. Expense
+490,175266.83,Expenditures - Dept 51 - General Gov,5. Expense
+490,71486.67,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
-490,-1133,Expenditures - Dept 51 - General Gov,5. Expense
+490,-1132.74,Expenditures - Dept 51 - General Gov,5. Expense
 490,213227,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
-490,44,Expenditures - Dept 51 - General Gov,5. Expense
+490,44.44,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Expenditures - Dept 51 - General Gov,5. Expense
 490,0,Transfers out,6.1 Transfers Out
 640,0,Prepaids and Other,1. Asset
 640,0,Long Term Debt,2. Liability
-901,2980457,LAND,1. Asset
-901,11405374,Buildings Net,1. Asset
-901,7872004,Buildings Net,1. Asset
-901,-4664643,Infrastructure Net,1. Asset
-901,-17175783,Infrastructure Net,1. Asset
+901,2980457.08,LAND,1. Asset
+901,11405373.83,Buildings Net,1. Asset
+901,7872003.79,Buildings Net,1. Asset
+901,-4664642.96,Infrastructure Net,1. Asset
+901,-17175782.56,Infrastructure Net,1. Asset
 901,0,Buildings Net,1. Asset
-901,221581,Buildings Net,1. Asset
-901,657339,Furniture and Equipment,1. Asset
-901,306320,Furniture and Equipment,1. Asset
-901,0,Furniture and Equipment,1. Asset
-901,145558,Furniture and Equipment,1. Asset
-901,15745,Furniture and Equipment,1. Asset
-901,2925,Furniture and Equipment,1. Asset
-901,94186,Furniture and Equipment,1. Asset
-901,156720,Furniture and Equipment,1. Asset
-901,1825160,Furniture and Equipment,1. Asset
-901,10256,Furniture and Equipment,1. Asset
-901,338485,Furniture and Equipment,1. Asset
-901,61828,Furniture and Equipment,1. Asset
-901,8367,Furniture and Equipment,1. Asset
-901,16210,Furniture and Equipment,1. Asset
-901,41093,Furniture and Equipment,1. Asset
-901,21052,Furniture and Equipment,1. Asset
-901,344790,Furniture and Equipment,1. Asset
-901,70384,Furniture and Equipment,1. Asset
-901,65494,Furniture and Equipment,1. Asset
-901,50695,Furniture and Equipment,1. Asset
-901,70750,Furniture and Equipment,1. Asset
-901,-4749810,Furniture and Equipment,1. Asset
-901,2114944,Construction in Progress,1. Asset
-901,21648028,Infrastructure Net,1. Asset
-901,482672,Furniture and Equipment,1. Asset
-901,-24438183,Ending GFAAG and GLTD Fund Balances,2. Liability
+901,221581.21,Buildings Net,1. Asset
+901,657338.86,Furniture and Equipment,1. Asset
+901,306319.92,Furniture and Equipment,1. Asset
+901,-0.08,Furniture and Equipment,1. Asset
+901,145557.78,Furniture and Equipment,1. Asset
+901,15744.93,Furniture and Equipment,1. Asset
+901,2925.48,Furniture and Equipment,1. Asset
+901,94186.13,Furniture and Equipment,1. Asset
+901,156720.18,Furniture and Equipment,1. Asset
+901,1825160.13,Furniture and Equipment,1. Asset
+901,10256.11,Furniture and Equipment,1. Asset
+901,338484.74,Furniture and Equipment,1. Asset
+901,61828.05,Furniture and Equipment,1. Asset
+901,8367.19,Furniture and Equipment,1. Asset
+901,16210.49,Furniture and Equipment,1. Asset
+901,41093.44,Furniture and Equipment,1. Asset
+901,21052.12,Furniture and Equipment,1. Asset
+901,344790.29,Furniture and Equipment,1. Asset
+901,70383.92,Furniture and Equipment,1. Asset
+901,65494.38,Furniture and Equipment,1. Asset
+901,50694.55,Furniture and Equipment,1. Asset
+901,70749.54,Furniture and Equipment,1. Asset
+901,-4749810.08,Furniture and Equipment,1. Asset
+901,2114944.43,Construction in Progress,1. Asset
+901,21648027.52,Infrastructure Net,1. Asset
+901,482672.1,Furniture and Equipment,1. Asset
+901,-24438182.51,Ending GFAAG and GLTD Fund Balances,2. Liability
 951,0,Buildings Net,1. Asset
-951,-58511,Ending GFAAG and GLTD Fund Balances,1. Asset
-951,24274394,Ending GFAAG and GLTD Fund Balances,1. Asset
-951,6514320,DEFERRED OUTFLOW OF RESOURCES,1.2 Deferred Asset
-951,-1779211,Compensated Absences,2. Liability
-951,-331170,Accrued Expenses and Other Payables,2. Liability
+951,-58510.67,Ending GFAAG and GLTD Fund Balances,1. Asset
+951,24274393.82,Ending GFAAG and GLTD Fund Balances,1. Asset
+951,6514319.77,DEFERRED OUTFLOW OF RESOURCES,1.2 Deferred Asset
+951,-1779210.95,Compensated Absences,2. Liability
+951,-331169.65,Accrued Expenses and Other Payables,2. Liability
 951,-2340491,Contingencies,2. Liability
-951,-5463,Long Term Debt,2. Liability
-951,0,Long Term Debt,2. Liability
+951,-5463.2,Long Term Debt,2. Liability
+951,-0.06,Long Term Debt,2. Liability
 951,-545000,Long Term Debt,2. Liability
 951,-3689000,Long Term Debt,2. Liability
 951,0,Long Term Debt,2. Liability
-951,-2805656,Long Term Debt,2. Liability
-951,-4565863,Long Term Debt,2. Liability
-951,-245223,Long Term Debt,2. Liability
-951,-6202,Long Term Debt,2. Liability
-951,-207334,Long Term Debt,2. Liability
-951,-9076099,Long Term Debt,2. Liability
-951,-112059,Beg Fund Balances,3. Equity
-951,-5021432,DEFERRED INFLOW OF RESOURCES,2.2 Deferred Liability
+951,-2805656.07,Long Term Debt,2. Liability
+951,-4565863.26,Long Term Debt,2. Liability
+951,-245223.42,Long Term Debt,2. Liability
+951,-6201.68,Long Term Debt,2. Liability
+951,-207334.17,Long Term Debt,2. Liability
+951,-9076098.54,Long Term Debt,2. Liability
+951,-112059.4,Beg Fund Balances,3. Equity
+951,-5021431.52,DEFERRED INFLOW OF RESOURCES,2.2 Deferred Liability
