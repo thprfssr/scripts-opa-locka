@@ -206,13 +206,13 @@ Fund,Balance,Category,Type
 001,15835747.61,Beg Fund Balances,3.1 Equity Budget
 001,527183.34,Beg Fund Balances,3.2 Equity Encumbance
 001,0,Beg Fund Balances,3.2 Equity Encumbance
-001,-48709,Beg Fund Balances,2. Liability
+001,-48709,Beg Fund Balances,3. Equity
 001,-527183.34,Beg Fund Balances,3.2 Equity Encumbance
 001,0,Beg Fund Balances,3.2 Equity Encumbance
 001,0,Beg Fund Balances,3. Equity
 001,580834.89,Beg Fund Balances,3. Equity
 001,3787374.65,Beg Fund Balances,3. Equity
-001,0,Beg Fund Balances,2. Liability
+001,0,Beg Fund Balances,3. Equity
 001,48702.7,Beg Fund Balances,3.1 Equity Budget
 001,-839770.89,Beg Fund Balances,3. Equity
 001,-7881383.99,Property taxes,4. Revenue
@@ -1967,10 +1967,10 @@ Fund,Balance,Category,Type
 901,2114944.43,Construction in Progress,1. Asset
 901,21648027.52,Infrastructure Net,1. Asset
 901,482672.1,Furniture and Equipment,1. Asset
-901,-24438182.51,Ending GFAAG and GLTD Fund Balances,2. Liability
+901,-24438182.51,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,0,Buildings Net,1. Asset
-951,-58510.67,Ending GFAAG and GLTD Fund Balances,1. Asset
-951,24274393.82,Ending GFAAG and GLTD Fund Balances,1. Asset
+951,-58510.67,Ending GFAAG and GLTD Fund Balances,3. Equity
+951,24274393.82,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,6514319.77,DEFERRED OUTFLOW OF RESOURCES,1.2 Deferred Asset
 951,-1779210.95,Compensated Absences,2. Liability
 951,-331169.65,Accrued Expenses and Other Payables,2. Liability
