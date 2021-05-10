@@ -139,7 +139,7 @@ Fund,Balance,Category,Type
 440,-864021.09,Furniture and Equipment: Depreciation,1. Asset
 440,0,Furniture and Equipment: Depreciation,1. Asset
 440,0,Furniture and Equipment: Depreciation,1. Asset
-440,-4710464.58,Furniture and Equipment: Depreciation,1. Asset
+440,-3145277.14,Furniture and Equipment: Depreciation,1. Asset
 410,-122778.1,Furniture and Equipment: Depreciation,1. Asset
 410,0,Furniture and Equipment: Depreciation,1. Asset
 440,-128342.13,Furniture and Equipment: Depreciation,1. Asset
@@ -156,7 +156,7 @@ Fund,Balance,Category,Type
 901,21648027.52,Infrastructure: Cost,1. Asset
 440,5055026.38,Infrastructure: Cost,1. Asset
 440,5955321.86,Infrastructure: Cost,1. Asset
-440,-42621.54,Infrastructure: Depreciation,1. Asset
+440,-1607808.98,Infrastructure: Depreciation,1. Asset
 440,-2116261.532,Infrastructure: Depreciation,1. Asset
 440,-5954886.37,Infrastructure: Depreciation,1. Asset
 450,-80870.59,Infrastructure: Depreciation,1. Asset
@@ -217,7 +217,7 @@ Fund,Balance,Category,Type
 001,0,Prepaids and Other,1. Asset
 001,0,Prepaids and Other,1. Asset
 001,0,Prepaids and Other,1. Asset
-001,39748.24,Prepaids and Other,1. Asset
+001,20123.83,Prepaids and Other,1. Asset
 001,0,Prepaids and Other,1. Asset
 118,195101.42,Prepaids and Other,1. Asset
 119,829.6,Prepaids and Other,1. Asset
@@ -250,7 +250,7 @@ Fund,Balance,Category,Type
 440,16267.46,Restricted Cash,1. Asset
 450,110000,Restricted Cash,1. Asset
 490,536181.92,Restricted Cash,1. Asset
-001,583661.57,Unrestricted Cash,1. Asset
+001,585541.57,Unrestricted Cash,1. Asset
 001,-1144.66,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
@@ -308,13 +308,13 @@ Fund,Balance,Category,Type
 320,147936.74,Unrestricted Cash,1. Asset
 410,0,Unrestricted Cash,1. Asset
 410,0,Unrestricted Cash,1. Asset
-440,-138614.14,Unrestricted Cash,1. Asset
+440,253187.63,Unrestricted Cash,1. Asset
 440,0,Unrestricted Cash,1. Asset
 440,0,Unrestricted Cash,1. Asset
 440,0,Unrestricted Cash,1. Asset
 440,0,Unrestricted Cash,1. Asset
 440,0,Unrestricted Cash,1. Asset
-450,1940930.97,Unrestricted Cash,1. Asset
+450,2022257.02,Unrestricted Cash,1. Asset
 450,0,Unrestricted Cash,1. Asset
 480,0,Unrestricted Cash,1. Asset
 490,773406.86,Unrestricted Cash,1. Asset
@@ -338,11 +338,11 @@ Fund,Balance,Category,Type
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,3443310.98,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
-001,2477527.26,Interfund Receivables,1.1 Interfund Receivable
+001,2478532.3,Interfund Receivables,1.1 Interfund Receivable
 001,417629.62,Interfund Receivables,1.1 Interfund Receivable
 001,2541281.98,Interfund Receivables,1.1 Interfund Receivable
 001,1173085.4,Interfund Receivables,1.1 Interfund Receivable
-001,1859339.81,Interfund Receivables,1.1 Interfund Receivable
+001,1859516.21,Interfund Receivables,1.1 Interfund Receivable
 118,447876.94,Interfund Receivables,1.1 Interfund Receivable
 118,0.28,Interfund Receivables,1.1 Interfund Receivable
 118,25055.8,Interfund Receivables,1.1 Interfund Receivable
@@ -387,7 +387,7 @@ Fund,Balance,Category,Type
 178,0,Interfund Receivables,1.1 Interfund Receivable
 178,0,Interfund Receivables,1.1 Interfund Receivable
 179,0,Interfund Receivables,1.1 Interfund Receivable
-180,499112.32,Interfund Receivables,1.1 Interfund Receivable
+180,270496.32,Interfund Receivables,1.1 Interfund Receivable
 180,72006,Interfund Receivables,1.1 Interfund Receivable
 180,0,Interfund Receivables,1.1 Interfund Receivable
 220,0,Interfund Receivables,1.1 Interfund Receivable
@@ -438,8 +438,8 @@ Fund,Balance,Category,Type
 490,0,Interfund Receivables,1.1 Interfund Receivable
 490,0,Interfund Receivables,1.1 Interfund Receivable
 490,0,Interfund Receivables,1.1 Interfund Receivable
-440,1170801.32,Deferred Outflow of Resources,1.2 Deferred Asset
-951,6514319.77,Deferred Outflow of Resources,1.2 Deferred Asset
+440,170801.32,Deferred Outflow of Resources,1.2 Deferred Asset
+951,1252542.02,Deferred Outflow of Resources,1.2 Deferred Asset
 001,-264024.86,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
@@ -485,11 +485,11 @@ Fund,Balance,Category,Type
 320,-221287.3,Accounts Payable,2. Liability
 410,0,Accounts Payable,2. Liability
 410,0,Accounts Payable,2. Liability
-440,-460077.88,Accounts Payable,2. Liability
+440,-851879.65,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
 440,-176582.59,Accounts Payable,2. Liability
-450,-143809.44,Accounts Payable,2. Liability
+450,-225135.49,Accounts Payable,2. Liability
 450,0,Accounts Payable,2. Liability
 450,-38513.74,Accounts Payable,2. Liability
 480,0,Accounts Payable,2. Liability
@@ -522,7 +522,7 @@ Fund,Balance,Category,Type
 001,-32416.44,Accrued Expenses and Other Payables,2. Liability
 001,-1854.71,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,567.5,Accrued Expenses and Other Payables,2. Liability
+001,0,Accrued Expenses and Other Payables,2. Liability
 171,0,Accrued Expenses and Other Payables,2. Liability
 171,0,Accrued Expenses and Other Payables,2. Liability
 172,0,Accrued Expenses and Other Payables,2. Liability
@@ -532,7 +532,7 @@ Fund,Balance,Category,Type
 176,-229.05,Accrued Expenses and Other Payables,2. Liability
 179,0,Accrued Expenses and Other Payables,2. Liability
 180,-740,Accrued Expenses and Other Payables,2. Liability
-230,-31065.82,Accrued Expenses and Other Payables,2. Liability
+230,0,Accrued Expenses and Other Payables,2. Liability
 410,0,Accrued Expenses and Other Payables,2. Liability
 410,0,Accrued Expenses and Other Payables,2. Liability
 410,0,Accrued Expenses and Other Payables,2. Liability
@@ -553,7 +553,7 @@ Fund,Balance,Category,Type
 440,-71916.74,Compensated Absences,2. Liability
 450,-28310.88,Compensated Absences,2. Liability
 951,-1779210.95,Compensated Absences,2. Liability
-951,-2340491,Contingencies,2. Liability
+951,-1296683,Contingencies,2. Liability
 001,0,Current Debt,2. Liability
 440,0,Current Debt,2. Liability
 440,-96564,Current Debt,2. Liability
@@ -606,7 +606,7 @@ Fund,Balance,Category,Type
 169,0,Deferred Revenue,2. Liability
 177,0,Deferred Revenue,2. Liability
 179,0,Deferred Revenue,2. Liability
-320,-1005.04,Deferred Revenue,2. Liability
+320,0,Deferred Revenue,2. Liability
 001,0,Deposits,2. Liability
 001,0,Deposits,2. Liability
 001,0,Deposits,2. Liability
@@ -619,12 +619,12 @@ Fund,Balance,Category,Type
 440,-1199.1,Deposits,2. Liability
 440,519855.52,Deposits,2. Liability
 450,-0.89,Deposits,2. Liability
-490,-12616.04,Deposits,2. Liability
+490,-33794.68,Deposits,2. Liability
 001,0,Intergovernmental Payables,2. Liability
 001,0,Intergovernmental Payables,2. Liability
 001,-0.48,Intergovernmental Payables,2. Liability
 001,0,Intergovernmental Payables,2. Liability
-001,-2946497.29,Intergovernmental Payables,2. Liability
+001,-2781156.96,Intergovernmental Payables,2. Liability
 169,0,Intergovernmental Payables,2. Liability
 169,0,Intergovernmental Payables,2. Liability
 172,0,Intergovernmental Payables,2. Liability
@@ -636,7 +636,7 @@ Fund,Balance,Category,Type
 440,-0.25,Intergovernmental Payables,2. Liability
 440,-342249.19,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
-490,-176.8,Intergovernmental Payables,2. Liability
+490,0,Intergovernmental Payables,2. Liability
 490,0,Intergovernmental Payables,2. Liability
 490,0,Intergovernmental Payables,2. Liability
 440,-41941.67,OPEB,2. Liability
@@ -651,7 +651,7 @@ Fund,Balance,Category,Type
 640,0,Other Long Term Debt,2. Liability
 951,-207334.17,Other Long Term Debt,2. Liability
 440,-1219291.63,Pension,2. Liability
-951,-9076098.54,Pension,2. Liability
+951,-8941472.61,Pension,2. Liability
 001,0,Interfund Payables,2.1 Interfund Payable
 001,-447876.94,Interfund Payables,2.1 Interfund Payable
 001,-249763.02,Interfund Payables,2.1 Interfund Payable
@@ -666,7 +666,7 @@ Fund,Balance,Category,Type
 001,0,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
-001,-499112.32,Interfund Payables,2.1 Interfund Payable
+001,-270496.32,Interfund Payables,2.1 Interfund Payable
 001,-6724167.36,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
 001,-891486.25,Interfund Payables,2.1 Interfund Payable
@@ -737,7 +737,7 @@ Fund,Balance,Category,Type
 310,0,Interfund Payables,2.1 Interfund Payable
 310,0,Interfund Payables,2.1 Interfund Payable
 310,0,Interfund Payables,2.1 Interfund Payable
-320,-2477527.26,Interfund Payables,2.1 Interfund Payable
+320,-2478532.3,Interfund Payables,2.1 Interfund Payable
 320,-34516.78,Interfund Payables,2.1 Interfund Payable
 320,0,Interfund Payables,2.1 Interfund Payable
 320,0,Interfund Payables,2.1 Interfund Payable
@@ -765,17 +765,17 @@ Fund,Balance,Category,Type
 450,0,Interfund Payables,2.1 Interfund Payable
 450,0,Interfund Payables,2.1 Interfund Payable
 450,-65254.45,Interfund Payables,2.1 Interfund Payable
-490,-1859339.81,Interfund Payables,2.1 Interfund Payable
+490,-1859516.21,Interfund Payables,2.1 Interfund Payable
 490,-25055.92,Interfund Payables,2.1 Interfund Payable
 490,-13875.42,Interfund Payables,2.1 Interfund Payable
 490,-536181.92,Interfund Payables,2.1 Interfund Payable
 490,0,Interfund Payables,2.1 Interfund Payable
 440,-331074.92,Deferred Inflow of Resources,2.2 Deferred Liability
-951,-5021431.52,Deferred Inflow of Resources,2.2 Deferred Liability
+951,-2427885.75,Deferred Inflow of Resources,2.2 Deferred Liability
 001,-48709,Beginning Fund Balances,3. Equity
 001,0,Beginning Fund Balances,3. Equity
 001,580834.89,Beginning Fund Balances,3. Equity
-001,3787374.65,Beginning Fund Balances,3. Equity
+001,2754677.25,Beginning Fund Balances,3. Equity
 001,0,Beginning Fund Balances,3. Equity
 001,-839770.89,Beginning Fund Balances,3. Equity
 118,-68058.15,Beginning Fund Balances,3. Equity
@@ -801,7 +801,7 @@ Fund,Balance,Category,Type
 220,0,Beginning Fund Balances,3. Equity
 220,0,Beginning Fund Balances,3. Equity
 230,-316613.02,Beginning Fund Balances,3. Equity
-230,934559.61,Beginning Fund Balances,3. Equity
+230,903493.79,Beginning Fund Balances,3. Equity
 230,-7644074.28,Beginning Fund Balances,3. Equity
 310,0,Beginning Fund Balances,3. Equity
 310,0,Beginning Fund Balances,3. Equity
@@ -841,13 +841,13 @@ Fund,Balance,Category,Type
 450,-1501883.5,Beginning Fund Balances,3. Equity
 480,0,Beginning Fund Balances,3. Equity
 490,-147672.4,Beginning Fund Balances,3. Equity
-490,315990.12,Beginning Fund Balances,3. Equity
+490,315989.72,Beginning Fund Balances,3. Equity
 490,-14308.64,Beginning Fund Balances,3. Equity
 490,0,Beginning Fund Balances,3. Equity
 951,-112059.4,Beginning Fund Balances,3. Equity
 901,-24438182.51,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,-58510.67,Ending GFAAG and GLTD Fund Balances,3. Equity
-951,24274393.82,Ending GFAAG and GLTD Fund Balances,3. Equity
+951,25764191.87,Ending GFAAG and GLTD Fund Balances,3. Equity
 001,-15835747.61,Beginning Fund Balances,3.1 Equity Budget
 001,15835747.61,Beginning Fund Balances,3.1 Equity Budget
 001,48702.7,Beginning Fund Balances,3.1 Equity Budget
@@ -1058,7 +1058,7 @@ Fund,Balance,Category,Type
 001,0,Fines and Forfeitures,4. Revenue
 001,-2418.4,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
-001,-1611429.78,Fines and Forfeitures,4. Revenue
+001,-584233.85,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
 001,-100,Fines and Forfeitures,4. Revenue
 001,-1230477.91,Franchise Fees,4. Revenue
@@ -1245,7 +1245,7 @@ Fund,Balance,Category,Type
 490,0,Other,4. Revenue
 490,0,Other,4. Revenue
 490,-83235.95,Other,4. Revenue
-490,-34375.44,Other,4. Revenue
+490,-13196.8,Other,4. Revenue
 001,-354340.89,Permits and fees,4. Revenue
 001,0,Permits and fees,4. Revenue
 001,-26582.43,Permits and fees,4. Revenue
@@ -1257,10 +1257,10 @@ Fund,Balance,Category,Type
 001,-60740.55,Permits and fees,4. Revenue
 001,-2400,Permits and fees,4. Revenue
 001,0,Permits and fees,4. Revenue
-001,-7881383.99,Property taxes,4. Revenue
+001,-8109999.99,Property taxes,4. Revenue
 176,0,Property taxes,4. Revenue
 176,0,Property taxes,4. Revenue
-180,-610013.67,Property taxes,4. Revenue
+180,-381397.67,Property taxes,4. Revenue
 180,-173890,Property taxes,4. Revenue
 001,0,Transfers In,6. Transfers
 001,0,Transfers In,6. Transfers
@@ -1464,10 +1464,10 @@ Fund,Balance,Category,Type
 001,360.99,General Government,5. Expense
 001,0,General Government,5. Expense
 001,67993.75,General Government,5. Expense
-001,140170.71,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
-001,2537.68,General Government,5. Expense
+001,0,General Government,5. Expense
+001,0,General Government,5. Expense
 001,84650.15,General Government,5. Expense
 001,266480.74,General Government,5. Expense
 001,428798.15,General Government,5. Expense
