@@ -11,15 +11,15 @@ Fund,Balance,Category,Type
 001,0,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
-001,700,Unrestricted Cash,1. Asset
-001,0,Unrestricted Cash,1. Asset
-001,0,Unrestricted Cash,1. Asset
-001,200,Unrestricted Cash,1. Asset
+001,25.94,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
-001,979.48,Unrestricted Cash,1. Asset
-001,500,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
+001,0,Unrestricted Cash,1. Asset
 001,0,Unrestricted Cash,1. Asset
 001,0,Accounts Receivable: Gross,1. Asset
 001,0,Accounts Receivable: Gross,1. Asset
@@ -43,8 +43,8 @@ Fund,Balance,Category,Type
 001,0,Accounts Receivable: Gross,1. Asset
 001,0,Accounts Receivable: Gross,1. Asset
 001,0,Accounts Receivable: Gross,1. Asset
-001,3775129.13,Interfund Receivables,1.1 Interfund Receivable
-001,762436,Interfund Receivables,1.1 Interfund Receivable
+001,3775870.57,Interfund Receivables,1.1 Interfund Receivable
+001,761144.82,Interfund Receivables,1.1 Interfund Receivable
 001,-23.73,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
@@ -52,18 +52,18 @@ Fund,Balance,Category,Type
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
-001,2063569.21,Interfund Receivables,1.1 Interfund Receivable
+001,2064214.891,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,72924.24,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
-001,3443310.98,Interfund Receivables,1.1 Interfund Receivable
+001,0,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,2478532.3,Interfund Receivables,1.1 Interfund Receivable
 001,417629.62,Interfund Receivables,1.1 Interfund Receivable
-001,2475322.32,Interfund Receivables,1.1 Interfund Receivable
-001,1187446.08,Interfund Receivables,1.1 Interfund Receivable
+001,2470358.355,Interfund Receivables,1.1 Interfund Receivable
+001,1185924.004,Interfund Receivables,1.1 Interfund Receivable
 001,1830076.78,Interfund Receivables,1.1 Interfund Receivable
 001,0,Intergovernmental Receivables,1. Asset
 001,0,Intergovernmental Receivables,1. Asset
@@ -118,7 +118,7 @@ Fund,Balance,Category,Type
 001,0,Furniture and Equipment: Depreciation,1. Asset
 001,0,Infrastructure: Cost,1. Asset
 001,0,Furniture and Equipment: Cost,1. Asset
-001,-754504.1,Accounts Payable,2. Liability
+001,-684095.68,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
@@ -134,10 +134,10 @@ Fund,Balance,Category,Type
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
-001,0,Current Debt,2. Liability
+001,0,Debt Associated with Capital Assets,2. Liability
 001,0,Interfund Payables,2.1 Interfund Payable
-001,-1835239.15,Interfund Payables,2.1 Interfund Payable
-001,-641393.64,Interfund Payables,2.1 Interfund Payable
+001,-1835645.4,Interfund Payables,2.1 Interfund Payable
+001,-642788.29,Interfund Payables,2.1 Interfund Payable
 001,-410528.82,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
@@ -150,11 +150,11 @@ Fund,Balance,Category,Type
 001,0,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
 001,-270496.32,Interfund Payables,2.1 Interfund Payable
-001,-6724167.36,Interfund Payables,2.1 Interfund Payable
+001,-0.11,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
 001,-891486.25,Interfund Payables,2.1 Interfund Payable
 001,-1647571.63,Interfund Payables,2.1 Interfund Payable
-001,-3615318.22,Interfund Payables,2.1 Interfund Payable
+001,-3668023.03,Interfund Payables,2.1 Interfund Payable
 001,-12723.12,Interfund Payables,2.1 Interfund Payable
 001,-781779.06,Interfund Payables,2.1 Interfund Payable
 001,0,Intergovernmental Payables,2. Liability
@@ -164,14 +164,14 @@ Fund,Balance,Category,Type
 001,-2781156.96,Intergovernmental Payables,2. Liability
 001,0,Compensated Absences,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,-260591.6,Accrued Expenses and Other Payables,2. Liability
+001,-289011.23,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,-12960.76,Accrued Expenses and Other Payables,2. Liability
-001,-46009.57,Accrued Expenses and Other Payables,2. Liability
+001,-18673.62,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,-3663,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
@@ -179,8 +179,8 @@ Fund,Balance,Category,Type
 001,-111439.97,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
 001,0,Accrued Expenses and Other Payables,2. Liability
-001,283.42,Accrued Expenses and Other Payables,2. Liability
-001,79151.82,Accrued Expenses and Other Payables,2. Liability
+001,-3832,Accrued Expenses and Other Payables,2. Liability
+001,-1451.3,Accrued Expenses and Other Payables,2. Liability
 001,-80,Accrued Expenses and Other Payables,2. Liability
 001,415.22,Accrued Expenses and Other Payables,2. Liability
 001,1110.42,Accrued Expenses and Other Payables,2. Liability
@@ -211,11 +211,11 @@ Fund,Balance,Category,Type
 001,0,Beginning Fund Balances,3.2 Equity Encumbrance
 001,0,Beginning Fund Balances,3. Equity
 001,580834.89,Beginning Fund Balances,3. Equity
-001,2514909.8,Beginning Fund Balances,3. Equity
+001,-720028.79,Beginning Fund Balances,3. Equity
 001,0,Beginning Fund Balances,3. Equity
 001,48702.7,Beginning Fund Balances,3.1 Equity Budget
 001,-839770.89,Beginning Fund Balances,3. Equity
-001,-8109999.99,Property taxes,4. Revenue
+001,-7984161.39,Property taxes,4. Revenue
 001,0,"Local Option, Use, and Fuel Taxes",4. Revenue
 001,0,"Local Option, Use, and Fuel Taxes",4. Revenue
 001,0,"Local Option, Use, and Fuel Taxes",4. Revenue
@@ -231,7 +231,7 @@ Fund,Balance,Category,Type
 001,0,Utility taxes,4. Revenue
 001,0,Utility taxes,4. Revenue
 001,-1879.09,Utility taxes,4. Revenue
-001,0,Utility taxes,4. Revenue
+001,0,Communication services tax,4. Revenue
 001,-75596.28,Utility taxes,4. Revenue
 001,-269642.41,Local Business Taxes,4. Revenue
 001,-3931,Local Business Taxes,4. Revenue
@@ -322,7 +322,7 @@ Fund,Balance,Category,Type
 001,0,Fines and Forfeitures,4. Revenue
 001,-2418.4,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
-001,-584233.85,Fines and Forfeitures,4. Revenue
+001,-346005.88,Fines and Forfeitures,4. Revenue
 001,0,Fines and Forfeitures,4. Revenue
 001,-100,Fines and Forfeitures,4. Revenue
 001,0,Interest,4. Revenue
@@ -371,7 +371,7 @@ Fund,Balance,Category,Type
 001,0,Transfers In,6. Transfers
 001,0,Transfers In,6. Transfers
 001,0,Transfers In,6. Transfers
-001,-654956.84,Transfers In,6. Transfers
+001,-978659.69,Transfers In,6. Transfers
 001,0,Transfers In,6. Transfers
 001,0,Transfers In,6. Transfers
 001,0,Transfers In,6. Transfers
@@ -390,8 +390,8 @@ Fund,Balance,Category,Type
 001,35750,General Government,5. Expense
 001,0,General Government,5. Expense
 001,2734.56,General Government,5. Expense
-001,11462.51,General Government,5. Expense
-001,40769.55,General Government,5. Expense
+001,4716.179002,General Government,5. Expense
+001,45534.74201,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,15650.06,General Government,5. Expense
@@ -399,8 +399,8 @@ Fund,Balance,Category,Type
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
-001,21224.51,General Government,5. Expense
-001,21880.52,General Government,5. Expense
+001,21300.09,General Government,5. Expense
+001,21886.93,General Government,5. Expense
 001,27170.96,General Government,5. Expense
 001,0,General Government,5. Expense
 001,500,General Government,5. Expense
@@ -408,48 +408,48 @@ Fund,Balance,Category,Type
 001,5075.84,General Government,5. Expense
 001,0,General Government,5. Expense
 001,2000,General Government,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,198498.16,General Government,5. Expense
+001,102680.4,General Government,5. Expense
 001,0,General Government,5. Expense
-001,198113.6,General Government,5. Expense
-001,102360.7,General Government,5. Expense
 001,0,General Government,5. Expense
-001,0,General Government,5. Expense
-001,21722.16,General Government,5. Expense
-001,25043.2,General Government,5. Expense
-001,27665.74,General Government,5. Expense
+001,21776.04,General Government,5. Expense
+001,23460.72504,General Government,5. Expense
+001,30579.86166,General Government,5. Expense
 001,0,General Government,5. Expense
 001,804.16,General Government,5. Expense
 001,392.84,General Government,5. Expense
-001,11882.2,General Government,5. Expense
-001,53890.96,General Government,5. Expense
+001,11924.52,General Government,5. Expense
+001,53906.74,General Government,5. Expense
 001,38572.75,General Government,5. Expense
 001,0,General Government,5. Expense
 001,1661.52,General Government,5. Expense
 001,2591.73,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
-001,0,General Government,5. Expense
-001,0,General Government,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,0,Capital Acquisitions,5. Expense
 001,69300.05,General Government,5. Expense
-001,57393.86,General Government,5. Expense
+001,57955.76,General Government,5. Expense
 001,18.68,General Government,5. Expense
-001,9369.35,General Government,5. Expense
-001,8610.27,General Government,5. Expense
-001,14223.79,General Government,5. Expense
+001,9412.34,General Government,5. Expense
+001,6194.912408,General Government,5. Expense
+001,14466.47036,General Government,5. Expense
 001,13197.69,General Government,5. Expense
 001,0,General Government,5. Expense
 001,74940.67,General Government,5. Expense
 001,150,General Government,5. Expense
 001,258.29,General Government,5. Expense
 001,11580.74,General Government,5. Expense
-001,3181.02,General Government,5. Expense
-001,24352.49,General Government,5. Expense
+001,3192.35,General Government,5. Expense
+001,24359.62,General Government,5. Expense
 001,24938.84,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,1391.31,General Government,5. Expense
 001,37.95,General Government,5. Expense
 001,0,General Government,5. Expense
-001,2250,General Government,5. Expense
+001,2250,Capital Acquisitions,5. Expense
 001,1950,General Government,5. Expense
 001,1497,General Government,5. Expense
 001,0,General Government,5. Expense
@@ -460,23 +460,23 @@ Fund,Balance,Category,Type
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
-001,0,General Government,5. Expense
+001,0,Principal Payments,5. Expense
 001,0,General Government,5. Expense
 001,76500.07,General Government,5. Expense
-001,106202.36,General Government,5. Expense
+001,107026.12,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
-001,13630.02,General Government,5. Expense
-001,38675.26,General Government,5. Expense
-001,22548.52,General Government,5. Expense
+001,13693.03,General Government,5. Expense
+001,35427.01978,General Government,5. Expense
+001,24050.60008,General Government,5. Expense
 001,7702.59,General Government,5. Expense
 001,0,General Government,5. Expense
 001,523.23,General Government,5. Expense
 001,8390.21,General Government,5. Expense
-001,12232.6,General Government,5. Expense
-001,25318.36,General Government,5. Expense
+001,12276.16,General Government,5. Expense
+001,25325.77,General Government,5. Expense
 001,22209.09,General Government,5. Expense
-001,4787.6,General Government,5. Expense
+001,4792.92,General Government,5. Expense
 001,0,General Government,5. Expense
 001,39330,General Government,5. Expense
 001,0,General Government,5. Expense
@@ -485,21 +485,21 @@ Fund,Balance,Category,Type
 001,15020.4,General Government,5. Expense
 001,425.54,General Government,5. Expense
 001,1337,General Government,5. Expense
-001,961.78,General Government,5. Expense
+001,961.78,Capital Acquisitions,5. Expense
 001,47095.08,General Government,5. Expense
-001,288002.51,General Government,5. Expense
+001,289108.99,General Government,5. Expense
 001,0,General Government,5. Expense
-001,25037.99,General Government,5. Expense
-001,28126.46,General Government,5. Expense
-001,28877.17,General Government,5. Expense
+001,25122.64,General Government,5. Expense
+001,22379.57189,General Government,5. Expense
+001,32451.0715,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,37741.5,General Government,5. Expense
 001,222877.56,General Government,5. Expense
 001,1362.3,General Government,5. Expense
 001,58658.13,General Government,5. Expense
-001,18789.24,General Government,5. Expense
-001,27250.09,General Government,5. Expense
+001,18855.86,General Government,5. Expense
+001,27258.07,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,4170.11,General Government,5. Expense
@@ -519,8 +519,8 @@ Fund,Balance,Category,Type
 001,0,General Government,5. Expense
 001,259571.42,General Government,5. Expense
 001,42165.83,General Government,5. Expense
-001,43008.7,General Government,5. Expense
-001,46040.07,General Government,5. Expense
+001,43161.86,General Government,5. Expense
+001,46053.55,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,2168.94,General Government,5. Expense
@@ -529,151 +529,151 @@ Fund,Balance,Category,Type
 001,4354,General Government,5. Expense
 001,375,General Government,5. Expense
 001,360.99,General Government,5. Expense
-001,0,General Government,5. Expense
+001,0,Principal Payments,5. Expense
 001,67993.75,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
-001,304656.57,Public Safety,5. Expense
+001,305447.73,Public Safety,5. Expense
 001,12257.85,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,25018.6,Public Safety,5. Expense
-001,82210.26,Public Safety,5. Expense
-001,30694.7,Public Safety,5. Expense
+001,25079.11,Public Safety,5. Expense
+001,76380.10193,Public Safety,5. Expense
+001,34941.94102,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,17203.48,Public Safety,5. Expense
-001,52939.13,Public Safety,5. Expense
+001,17264.74,Public Safety,5. Expense
+001,52954.63,Public Safety,5. Expense
 001,12088.72,Public Safety,5. Expense
-001,56401.93,Public Safety,5. Expense
+001,56464.62,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,1650,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,2463905.56,Public Safety,5. Expense
+001,2477330.68,Public Safety,5. Expense
 001,60080.74,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,188867.41,Public Safety,5. Expense
-001,569980.42,Public Safety,5. Expense
-001,224027.11,Public Safety,5. Expense
+001,189894.42,Public Safety,5. Expense
+001,529918.8245,Public Safety,5. Expense
+001,252227.4597,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,99406.3,Public Safety,5. Expense
-001,586127.2,Public Safety,5. Expense
+001,99760.3,Public Safety,5. Expense
+001,586298.83,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,297312.83,Public Safety,5. Expense
+001,297643.32,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,368,Public Safety,5. Expense
 001,16603.08,Public Safety,5. Expense
 001,755,Public Safety,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,50904.17,Capital Acquisitions,5. Expense
 001,0,Public Safety,5. Expense
-001,50904.17,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
-001,53011.46,Public Safety,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,53011.46,Principal Payments,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,6706.13,Public Safety,5. Expense
-001,241968.65,Public Safety,5. Expense
+001,242757.69,Public Safety,5. Expense
 001,1251.05,Public Safety,5. Expense
-001,18110.8,Public Safety,5. Expense
-001,17214.33,Public Safety,5. Expense
-001,32754.59,Public Safety,5. Expense
+001,18171.16,Public Safety,5. Expense
+001,11300.88163,Public Safety,5. Expense
+001,35344.37115,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,7855.31,Public Safety,5. Expense
-001,11814.96,Public Safety,5. Expense
-001,51369.88,Public Safety,5. Expense
+001,11857.04,Public Safety,5. Expense
+001,51384.93,Public Safety,5. Expense
 001,16090.6,Public Safety,5. Expense
-001,23932.7,Public Safety,5. Expense
+001,23959.3,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,2571.43,Public Safety,5. Expense
 001,983.5,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,2613.82,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,0,Principal Payments,5. Expense
 001,84650.15,General Government,5. Expense
 001,160940.16,Public Safety,5. Expense
-001,46339.58,Public Safety,5. Expense
-001,13964.29,Public Safety,5. Expense
-001,3850.16,Public Safety,5. Expense
+001,47124.14,Public Safety,5. Expense
+001,14024.31,Public Safety,5. Expense
+001,1351.512112,Public Safety,5. Expense
 001,15108.61,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,1.93268E-12,Public Safety,5. Expense
-001,33920.1,Public Safety,5. Expense
+001,1.93E-12,Public Safety,5. Expense
+001,33958.14,Public Safety,5. Expense
 001,35954.96,Public Safety,5. Expense
-001,9574.14,Public Safety,5. Expense
+001,9584.78,Public Safety,5. Expense
 001,450,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,0,Principal Payments,5. Expense
 001,0,Public Safety,5. Expense
 001,266480.74,General Government,5. Expense
 001,428798.15,General Government,5. Expense
-001,3602.45,General Government,5. Expense
+001,3615.28,General Government,5. Expense
 001,0,General Government,5. Expense
 001,13264.57,General Government,5. Expense
 001,0,General Government,5. Expense
 001,113711.59,General Government,5. Expense
-001,70502.86,General Government,5. Expense
+001,71872.28,General Government,5. Expense
 001,63231.78,General Government,5. Expense
 001,0,General Government,5. Expense
-001,17082.24,General Government,5. Expense
-001,22688.81,General Government,5. Expense
-001,26290.47,General Government,5. Expense
+001,17187,General Government,5. Expense
+001,17691.53456,General Government,5. Expense
+001,28932.0415,General Government,5. Expense
 001,0,General Government,5. Expense
 001,2539.22,General Government,5. Expense
 001,14592.22,General Government,5. Expense
-001,12666.33,General Government,5. Expense
-001,37807.98,General Government,5. Expense
+001,12711.44,General Government,5. Expense
+001,37819.05,General Government,5. Expense
 001,10710.72,General Government,5. Expense
-001,9574.14,General Government,5. Expense
+001,9584.78,General Government,5. Expense
 001,1601.28,General Government,5. Expense
 001,1951.77,General Government,5. Expense
 001,0,General Government,5. Expense
 001,4155.5,General Government,5. Expense
-001,4780.56,General Government,5. Expense
+001,4780.56,Principal Payments,5. Expense
 001,108000.06,General Government,5. Expense
-001,71042.61,General Government,5. Expense
+001,71946.25,General Government,5. Expense
 001,0,General Government,5. Expense
-001,15026.65,General Government,5. Expense
-001,12892.44,General Government,5. Expense
-001,19349.69,General Government,5. Expense
+001,15095.78,General Government,5. Expense
+001,9477.63952,General Government,5. Expense
+001,19867.64972,General Government,5. Expense
 001,57,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,864.54,General Government,5. Expense
-001,6435.92,General Government,5. Expense
-001,39659.03,General Government,5. Expense
+001,6458.84,General Government,5. Expense
+001,39670.65,General Government,5. Expense
 001,6808.8,General Government,5. Expense
-001,33505.78,General Government,5. Expense
+001,33543.02,General Government,5. Expense
 001,73.66,General Government,5. Expense
 001,1595.46,General Government,5. Expense
 001,0,General Government,5. Expense
-001,4355.57,General Government,5. Expense
-001,124030.38,Public Safety,5. Expense
+001,4355.57,Principal Payments,5. Expense
+001,124527.42,Public Safety,5. Expense
 001,102359.31,Public Safety,5. Expense
 001,10251.17,Public Safety,5. Expense
-001,17759.34,Public Safety,5. Expense
-001,36754.94,Public Safety,5. Expense
-001,17253.28,Public Safety,5. Expense
+001,17797.36,Public Safety,5. Expense
+001,33423.40948,Public Safety,5. Expense
+001,20878.98059,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,2359.3,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,9982.54,Public Safety,5. Expense
 001,9225.26,Public Safety,5. Expense
-001,40141.14,Public Safety,5. Expense
-001,35015.62,Public Safety,5. Expense
+001,40284.09,Public Safety,5. Expense
+001,35025.87,Public Safety,5. Expense
 001,36921.73,Public Safety,5. Expense
-001,4787.6,Public Safety,5. Expense
+001,4792.92,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
@@ -683,22 +683,22 @@ Fund,Balance,Category,Type
 001,65804.93,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
-001,535.2,Public Safety,5. Expense
-001,185130.15,Public Safety,5. Expense
-001,0,Public Safety,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,535.2,Capital Acquisitions,5. Expense
+001,185130.15,Capital Acquisitions,5. Expense
+001,0,Principal Payments,5. Expense
 001,70701.94,General Government,5. Expense
-001,123718.17,General Government,5. Expense
+001,124572.31,General Government,5. Expense
 001,154.55,General Government,5. Expense
-001,11011.52,General Government,5. Expense
-001,13723.07,General Government,5. Expense
-001,30202.58,General Government,5. Expense
+001,11076.87,General Government,5. Expense
+001,7809.621632,General Government,5. Expense
+001,33931.8613,General Government,5. Expense
 001,0,General Government,5. Expense
 001,5361.36,General Government,5. Expense
-001,8165.17,General Government,5. Expense
-001,30381.56,General Government,5. Expense
+001,8194.24,General Government,5. Expense
+001,30390.46,General Government,5. Expense
 001,15351.92,General Government,5. Expense
-001,4787.6,General Government,5. Expense
+001,4792.92,General Government,5. Expense
 001,57,General Government,5. Expense
 001,878.15,General Government,5. Expense
 001,0,General Government,5. Expense
@@ -707,44 +707,50 @@ Fund,Balance,Category,Type
 001,2684.04,General Government,5. Expense
 001,4158.15,General Government,5. Expense
 001,200455.3,General Government,5. Expense
-001,161997.69,General Government,5. Expense
+001,162998.11,General Government,5. Expense
 001,2014.97,General Government,5. Expense
-001,12015.84,General Government,5. Expense
-001,20267.65,General Government,5. Expense
-001,21063.99,General Government,5. Expense
+001,12092.37,General Government,5. Expense
+001,16103.23685,General Government,5. Expense
+001,25342.42087,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,231.32,General Government,5. Expense
 001,0,General Government,5. Expense
-001,12870.89,General Government,5. Expense
-001,41187.35,General Government,5. Expense
-001,27135.35,General Government,5. Expense
+001,12916.72,General Government,5. Expense
+001,41199.41,General Government,5. Expense
+001,27165.51,General Government,5. Expense
 001,100217.18,General Government,5. Expense
 001,0,General Government,5. Expense
 001,0,General Government,5. Expense
 001,19760.72,General Government,5. Expense
 001,0,General Government,5. Expense
-001,0,General Government,5. Expense
-001,0,General Government,5. Expense
-001,190674.53,Transportation,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,0,Principal Payments,5. Expense
+001,191928.57,Transportation,5. Expense
 001,5628.64,Transportation,5. Expense
-001,14604.17,Transportation,5. Expense
-001,17478.34,Transportation,5. Expense
-001,20951.16,Transportation,5. Expense
+001,14700.1,Transportation,5. Expense
+001,13313.92685,Transportation,5. Expense
+001,23918.40079,Transportation,5. Expense
 001,0,Transportation,5. Expense
 001,186184.72,Transportation,5. Expense
 001,875.14,Transportation,5. Expense
 001,19974,Transportation,5. Expense
-001,25655.59,Transportation,5. Expense
-001,262547.57,Transportation,5. Expense
-001,70734.08,Transportation,5. Expense
+001,25746.96,Transportation,5. Expense
+001,262624.45,Transportation,5. Expense
+001,70812.7,Transportation,5. Expense
 001,1679.69,Transportation,5. Expense
 001,4752.69,Transportation,5. Expense
 001,742.14,Transportation,5. Expense
 001,0,Transportation,5. Expense
 001,6606.76,Transportation,5. Expense
 001,6970.36,Transportation,5. Expense
-001,48161.94,Transportation,5. Expense
+001,48161.94,Capital Acquisitions,5. Expense
+001,0,Principal Payments,5. Expense
+001,0,Transportation,5. Expense
+001,528.91,Transportation,5. Expense
+001,0,Transportation,5. Expense
+001,40.45,Transportation,5. Expense
+001,-2498.647888,Transportation,5. Expense
 001,0,Transportation,5. Expense
 001,0,Transportation,5. Expense
 001,0,Transportation,5. Expense
@@ -757,28 +763,22 @@ Fund,Balance,Category,Type
 001,0,Transportation,5. Expense
 001,0,Transportation,5. Expense
 001,0,Transportation,5. Expense
-001,0,Transportation,5. Expense
-001,0,Transportation,5. Expense
-001,0,Transportation,5. Expense
-001,0,Transportation,5. Expense
-001,0,Transportation,5. Expense
-001,0,Transportation,5. Expense
-001,0,Transportation,5. Expense
-001,127976.55,General Government,5. Expense
+001,0,Capital Acquisitions,5. Expense
+001,127976.55,Capital Acquisitions,5. Expense
 001,70304,Culture and Recreation,5. Expense
-001,196001.61,Culture and Recreation,5. Expense
+001,197007.77,Culture and Recreation,5. Expense
 001,9942.6,Culture and Recreation,5. Expense
 001,0,Culture and Recreation,5. Expense
-001,20022.85,Culture and Recreation,5. Expense
-001,23007.17,Culture and Recreation,5. Expense
-001,41775.91,Culture and Recreation,5. Expense
+001,20099.83,Culture and Recreation,5. Expense
+001,15594.51663,Culture and Recreation,5. Expense
+001,47421.64166,Culture and Recreation,5. Expense
 001,0,Culture and Recreation,5. Expense
 001,0,Culture and Recreation,5. Expense
 001,8170.53,Culture and Recreation,5. Expense
 001,5175.83,Culture and Recreation,5. Expense
-001,34828.38,Culture and Recreation,5. Expense
-001,26276.04,Culture and Recreation,5. Expense
-001,33505.78,Culture and Recreation,5. Expense
+001,34952.41,Culture and Recreation,5. Expense
+001,26283.73,Culture and Recreation,5. Expense
+001,33543.02,Culture and Recreation,5. Expense
 001,250,Culture and Recreation,5. Expense
 001,20023.6,Culture and Recreation,5. Expense
 001,4322.49,Culture and Recreation,5. Expense
@@ -791,26 +791,26 @@ Fund,Balance,Category,Type
 001,3836.85,Culture and Recreation,5. Expense
 001,5850,Culture and Recreation,5. Expense
 001,0,Culture and Recreation,5. Expense
-001,4346.5,Culture and Recreation,5. Expense
+001,4346.5,Capital Acquisitions,5. Expense
 001,0,Culture and Recreation,5. Expense
 001,0,Culture and Recreation,5. Expense
 001,0,Transfers out,6. Transfers
 001,0,Transfers out,6. Transfers
 001,0,Transfers out,6. Transfers
-001,0,Culture and Recreation,5. Expense
+001,0,Bad Debts and Other,5. Expense
 001,0,Culture and Recreation,5. Expense
 001,0,Culture and Recreation,5. Expense
 118,0,Unrestricted Cash,1. Asset
-118,1835239.15,Interfund Receivables,1.1 Interfund Receivable
+118,1835645.4,Interfund Receivables,1.1 Interfund Receivable
 118,0.28,Interfund Receivables,1.1 Interfund Receivable
-118,28431.66,Interfund Receivables,1.1 Interfund Receivable
-118,1883670.58,Interfund Receivables,1.1 Interfund Receivable
-118,102069.9,Interfund Receivables,1.1 Interfund Receivable
+118,28432.65,Interfund Receivables,1.1 Interfund Receivable
+118,1883989.57,Interfund Receivables,1.1 Interfund Receivable
+118,102085.11,Interfund Receivables,1.1 Interfund Receivable
 118,25055.92,Interfund Receivables,1.1 Interfund Receivable
 118,480,Prepaids and Other,1. Asset
 118,-6842,Accounts Payable,2. Liability
 118,0,Accounts Payable,2. Liability
-118,-3775129.13,Interfund Payables,2.1 Interfund Payable
+118,-3775870.57,Interfund Payables,2.1 Interfund Payable
 118,0,Interfund Payables,2.1 Interfund Payable
 118,-0.04,Interfund Payables,2.1 Interfund Payable
 118,0,Interfund Payables,2.1 Interfund Payable
@@ -828,7 +828,7 @@ Fund,Balance,Category,Type
 118,0,General Government,5. Expense
 118,0,General Government,5. Expense
 118,0,General Government,5. Expense
-118,1.59162E-12,General Government,5. Expense
+118,1.59E-12,General Government,5. Expense
 118,0,General Government,5. Expense
 118,0,General Government,5. Expense
 118,0,General Government,5. Expense
@@ -840,15 +840,15 @@ Fund,Balance,Category,Type
 118,0,General Government,5. Expense
 118,0,General Government,5. Expense
 119,0,Unrestricted Cash,1. Asset
-119,641393.78,Interfund Receivables,1.1 Interfund Receivable
+119,642788.43,Interfund Receivables,1.1 Interfund Receivable
 119,0.04,Interfund Receivables,1.1 Interfund Receivable
-119,14646.47,Interfund Receivables,1.1 Interfund Receivable
-119,120497.89,Interfund Receivables,1.1 Interfund Receivable
-119,19634.22,Interfund Receivables,1.1 Interfund Receivable
+119,14649.7,Interfund Receivables,1.1 Interfund Receivable
+119,120679.44,Interfund Receivables,1.1 Interfund Receivable
+119,19654.73,Interfund Receivables,1.1 Interfund Receivable
 119,13875.42,Interfund Receivables,1.1 Interfund Receivable
 119,829.6,Prepaids and Other,1. Asset
-119,-68821.09,Accounts Payable,2. Liability
-119,-762436.42,Interfund Payables,2.1 Interfund Payable
+119,-69389.31,Accounts Payable,2. Liability
+119,-761145.24,Interfund Payables,2.1 Interfund Payable
 119,-0.04,Interfund Payables,2.1 Interfund Payable
 119,0,Interfund Payables,2.1 Interfund Payable
 119,0,Interfund Payables,2.1 Interfund Payable
@@ -861,22 +861,22 @@ Fund,Balance,Category,Type
 119,0,Beginning Fund Balances,3.1 Equity Budget
 119,-130448.49,Beginning Fund Balances,3. Equity
 119,0,Transfers In,6. Transfers
-119,1.09139E-11,General Government,5. Expense
+119,1.09E-11,General Government,5. Expense
+119,527.84,General Government,5. Expense
+119,40.38,General Government,5. Expense
+119,-3.41E+03,General Government,5. Expense
+119,5.24E+02,General Government,5. Expense
 119,0,General Government,5. Expense
 119,0,General Government,5. Expense
-119,-7.38964E-13,General Government,5. Expense
-119,-1.13687E-12,General Government,5. Expense
-119,0,General Government,5. Expense
-119,0,General Government,5. Expense
-119,0,General Government,5. Expense
-119,0,General Government,5. Expense
-119,0,General Government,5. Expense
+119,2.96E-12,General Government,5. Expense
 119,0,General Government,5. Expense
 119,0,General Government,5. Expense
 119,0,General Government,5. Expense
 119,0,General Government,5. Expense
 119,0,General Government,5. Expense
 119,0,General Government,5. Expense
+119,0,Capital Acquisitions,5. Expense
+119,0,Principal Payments,5. Expense
 119,0,General Government,5. Expense
 165,264733.97,Unrestricted Cash,1. Asset
 165,0,Unrestricted Cash,1. Asset
@@ -913,7 +913,7 @@ Fund,Balance,Category,Type
 165,4406,Public Safety,5. Expense
 165,0,Public Safety,5. Expense
 165,0,Public Safety,5. Expense
-165,0,Public Safety,5. Expense
+165,0,Principal Payments,5. Expense
 165,0,Public Safety,5. Expense
 167,0,Unrestricted Cash,1. Asset
 167,0,Interfund Receivables,1.1 Interfund Receivable
@@ -1052,7 +1052,7 @@ Fund,Balance,Category,Type
 176,-53314.2,Accounts Payable,2. Liability
 176,0,Accounts Payable,2. Liability
 176,0,Accounts Payable,2. Liability
-176,-2022485.18,Interfund Payables,2.1 Interfund Payable
+176,-2023130.861,Interfund Payables,2.1 Interfund Payable
 176,0,Interfund Payables,2.1 Interfund Payable
 176,-72006,Interfund Payables,2.1 Interfund Payable
 176,-532893.66,Interfund Payables,2.1 Interfund Payable
@@ -1076,11 +1076,11 @@ Fund,Balance,Category,Type
 176,0,Other,4. Revenue
 176,0,Transfers In,6. Transfers
 176,0,Transportation,5. Expense
-176,562.31,Transportation,5. Expense
+176,1207.990711,Transportation,5. Expense
 176,801859.14,Transportation,5. Expense
 176,195023.08,Transportation,5. Expense
-176,0,Transportation,5. Expense
-176,0,Transportation,5. Expense
+176,0,Capital Acquisitions,5. Expense
+176,0,Capital Acquisitions,5. Expense
 176,0,Transportation,5. Expense
 177,0,Unrestricted Cash,1. Asset
 177,0,Interfund Receivables,1.1 Interfund Receivable
@@ -1148,8 +1148,8 @@ Fund,Balance,Category,Type
 180,-2000,Accounts Payable,2. Liability
 180,0,Accounts Payable,2. Liability
 180,-72924.24,Interfund Payables,2.1 Interfund Payable
-180,-28431.55,Interfund Payables,2.1 Interfund Payable
-180,-14646.33,Interfund Payables,2.1 Interfund Payable
+180,-28432.54,Interfund Payables,2.1 Interfund Payable
+180,-14649.56,Interfund Payables,2.1 Interfund Payable
 180,0,Interfund Payables,2.1 Interfund Payable
 180,-5000,Interfund Payables,2.1 Interfund Payable
 180,0,Accrued Expenses and Other Payables,2. Liability
@@ -1176,8 +1176,8 @@ Fund,Balance,Category,Type
 180,17500,General Government,5. Expense
 180,175,General Government,5. Expense
 180,0,General Government,5. Expense
-180,907.24,General Government,5. Expense
-180,3375.86,General Government,5. Expense
+180,910.47,General Government,5. Expense
+180,3376.85,General Government,5. Expense
 180,0,General Government,5. Expense
 180,0,General Government,5. Expense
 180,0,General Government,5. Expense
@@ -1218,17 +1218,17 @@ Fund,Balance,Category,Type
 230,4009292.24,Restricted Cash,1. Asset
 230,0,Accounts Receivable: Gross,1. Asset
 230,108372.06,Accounts Receivable: Gross,1. Asset
-230,6724167.25,Interfund Receivables,1.1 Interfund Receivable
 230,0,Interfund Receivables,1.1 Interfund Receivable
 230,0,Interfund Receivables,1.1 Interfund Receivable
-230,246488.11,Interfund Receivables,1.1 Interfund Receivable
-230,111294.2,Intergovernmental Receivables,1. Asset
+230,0,Interfund Receivables,1.1 Interfund Receivable
+230,238480.84,Interfund Receivables,1.1 Interfund Receivable
+230,342328.48,Intergovernmental Receivables,1. Asset
 230,0,Prepaids and Other,1. Asset
 230,0,Accounts Payable,2. Liability
 230,0,Accounts Payable,2. Liability
-230,-3443310.98,Interfund Payables,2.1 Interfund Payable
 230,0,Interfund Payables,2.1 Interfund Payable
-230,-8007.27,Interfund Payables,2.1 Interfund Payable
+230,0,Interfund Payables,2.1 Interfund Payable
+230,9.09E-13,Interfund Payables,2.1 Interfund Payable
 230,0,Accrued Expenses and Other Payables,2. Liability
 230,0,Debt Associated with Capital Assets,2. Liability
 230,0,Debt Associated with Capital Assets,2. Liability
@@ -1237,25 +1237,25 @@ Fund,Balance,Category,Type
 230,0,Beginning Fund Balances,3.2 Equity Encumbrance
 230,0,Beginning Fund Balances,3.2 Equity Encumbrance
 230,-316613.02,Beginning Fund Balances,3. Equity
-230,903493.79,Beginning Fund Balances,3. Equity
+230,3936122.62,Beginning Fund Balances,3. Equity
 230,297202.69,Beginning Fund Balances,3.1 Equity Budget
 230,-7644074.28,Beginning Fund Balances,3. Equity
 230,-1463589.95,Utility taxes,4. Revenue
-230,-399445.79,Utility taxes,4. Revenue
+230,-399445.79,Communication services tax,4. Revenue
 230,-620432.07,Intergovernmental,4. Revenue
-230,-814150.19,Intergovernmental,4. Revenue
+230,-1045184.47,Intergovernmental,4. Revenue
 230,-32.52,Interest,4. Revenue
 230,0,Transfers In,6. Transfers
 230,0,Debt Proceeds,4. Revenue
 230,0,Debt Proceeds,4. Revenue
 230,0,Transfers In,6. Transfers
 230,0,Transfers In,6. Transfers
-230,527000,General Government,5. Expense
-230,243389.94,General Government,5. Expense
-230,159956.84,General Government,5. Expense
-230,279822.89,General Government,5. Expense
+230,527000,Principal Payments,5. Expense
+230,244487.52,Principal Payments,5. Expense
+230,84481.43,Interest and Other Debt Costs,5. Expense
+230,278725.31,Interest and Other Debt Costs,5. Expense
 230,0,General Government,5. Expense
-230,654956.84,Transfers out,6. Transfers
+230,978659.69,Transfers out,6. Transfers
 230,6901.83,General Government,5. Expense
 230,1105.44,General Government,5. Expense
 230,0,Culture and Recreation,5. Expense
@@ -1342,10 +1342,10 @@ Fund,Balance,Category,Type
 320,13383.95,Transportation,5. Expense
 320,0,Transportation,5. Expense
 320,43686.27,Transportation,5. Expense
-320,0,Transportation,5. Expense
-320,0,Transportation,5. Expense
-320,0,Transportation,5. Expense
-320,0,Transportation,5. Expense
+320,0,Capital Acquisitions,5. Expense
+320,0,Capital Acquisitions,5. Expense
+320,0,Capital Acquisitions,5. Expense
+320,0,Capital Acquisitions,5. Expense
 320,0,Transportation,5. Expense
 410,0,Unrestricted Cash,1. Asset
 410,0,Unrestricted Cash,1. Asset
@@ -1415,11 +1415,11 @@ Fund,Balance,Category,Type
 440,16267.46,Restricted Cash,1. Asset
 440,0,Accounts Receivable: Gross,1. Asset
 440,24418.06,Accounts Receivable: Gross,1. Asset
-440,9420328.96,Accounts Receivable: Gross,1. Asset
+440,9238643.26,Accounts Receivable: Gross,1. Asset
 440,0.01,Accounts Receivable: Gross,1. Asset
-440,-5602236.98,Accounts Receivable: Allowance,1. Asset
+440,-6802236.98,Accounts Receivable: Allowance,1. Asset
 440,0,Accounts Receivable: Gross,1. Asset
-440,3615318.45,Interfund Receivables,1.1 Interfund Receivable
+440,3668023.26,Interfund Receivables,1.1 Interfund Receivable
 440,0,Interfund Receivables,1.1 Interfund Receivable
 440,0,Interfund Receivables,1.1 Interfund Receivable
 440,0,Interfund Receivables,1.1 Interfund Receivable
@@ -1429,7 +1429,7 @@ Fund,Balance,Category,Type
 440,0,Interfund Receivables,1.1 Interfund Receivable
 440,0,Interfund Receivables,1.1 Interfund Receivable
 440,5000,Interfund Receivables,1.1 Interfund Receivable
-440,8007.27,Interfund Receivables,1.1 Interfund Receivable
+440,-3.41E-13,Interfund Receivables,1.1 Interfund Receivable
 440,0,Interfund Receivables,1.1 Interfund Receivable
 440,0,Interfund Receivables,1.1 Interfund Receivable
 440,1231436.79,Interfund Receivables,1.1 Interfund Receivable
@@ -1473,8 +1473,8 @@ Fund,Balance,Category,Type
 440,-35805.26,Furniture and Equipment: Depreciation,1. Asset
 440,-62171,Furniture and Equipment: Depreciation,1. Asset
 440,0,Furniture and Equipment: Cost,1. Asset
-440,3145227.56,Furniture and Equipment: Cost,1. Asset
-440,1486945.36,Furniture and Equipment: Cost,1. Asset
+440,4745227.56,Furniture and Equipment: Cost,1. Asset
+440,1480995.36,Furniture and Equipment: Cost,1. Asset
 440,95799.11,Furniture and Equipment: Cost,1. Asset
 440,165572.28,Furniture and Equipment: Cost,1. Asset
 440,0,Furniture and Equipment: Cost,1. Asset
@@ -1499,19 +1499,19 @@ Fund,Balance,Category,Type
 440,-851879.65,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
-440,0,Current Debt,2. Liability
-440,-96564,Current Debt,2. Liability
-440,-123728,Current Debt,2. Liability
-440,0,Current Debt,2. Liability
-440,-333090,Current Debt,2. Liability
-440,-9160,Current Debt,2. Liability
-440,-23839,Current Debt,2. Liability
-440,-10561,Current Debt,2. Liability
-440,-41991,Current Debt,2. Liability
+440,0,Debt Associated with Capital Assets,2. Liability
+440,-96564,Debt Associated with Capital Assets,2. Liability
+440,-123728,Debt Associated with Capital Assets,2. Liability
+440,0,Debt Associated with Capital Assets,2. Liability
+440,-333090,Debt Associated with Capital Assets,2. Liability
+440,-9160,Debt Associated with Capital Assets,2. Liability
+440,-23839,Debt Associated with Capital Assets,2. Liability
+440,-10561,Debt Associated with Capital Assets,2. Liability
+440,-41991,Debt Associated with Capital Assets,2. Liability
 440,-176582.59,Accounts Payable,2. Liability
-440,-2475322.11,Interfund Payables,2.1 Interfund Payable
-440,-1883670.58,Interfund Payables,2.1 Interfund Payable
-440,-120497.89,Interfund Payables,2.1 Interfund Payable
+440,-2470358.145,Interfund Payables,2.1 Interfund Payable
+440,-1883989.57,Interfund Payables,2.1 Interfund Payable
+440,-120679.44,Interfund Payables,2.1 Interfund Payable
 440,0,Interfund Payables,2.1 Interfund Payable
 440,0,Interfund Payables,2.1 Interfund Payable
 440,0,Interfund Payables,2.1 Interfund Payable
@@ -1519,7 +1519,7 @@ Fund,Balance,Category,Type
 440,0,Interfund Payables,2.1 Interfund Payable
 440,0,Interfund Payables,2.1 Interfund Payable
 440,0,Interfund Payables,2.1 Interfund Payable
-440,-246488.11,Interfund Payables,2.1 Interfund Payable
+440,-238480.84,Interfund Payables,2.1 Interfund Payable
 440,-645405.9,Interfund Payables,2.1 Interfund Payable
 440,-42542.01,Interfund Payables,2.1 Interfund Payable
 440,-575671.06,Interfund Payables,2.1 Interfund Payable
@@ -1528,24 +1528,24 @@ Fund,Balance,Category,Type
 440,0,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
-440,-0.25,Intergovernmental Payables,2. Liability
+440,-1600000.25,Intergovernmental Payables,2. Liability
 440,-342249.19,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
 440,-71916.74,Compensated Absences,2. Liability
 440,-2476.62,Accrued Expenses and Other Payables,2. Liability
-440,-8085.52,Accrued Expenses and Other Payables,2. Liability
+440,-10198.35,Accrued Expenses and Other Payables,2. Liability
 440,0,Accrued Expenses and Other Payables,2. Liability
 440,0,Accrued Expenses and Other Payables,2. Liability
 440,0,Accrued Expenses and Other Payables,2. Liability
 440,-41941.67,OPEB,2. Liability
-440,-3170334.92,Deposits,2. Liability
+440,-3253693.89,Deposits,2. Liability
 440,-2664.63,Deposits,2. Liability
 440,-1199.1,Deposits,2. Liability
-440,519855.52,Deposits,2. Liability
+440,-222025,Deposits,2. Liability
 440,0,Debt Associated with Capital Assets,2. Liability
 440,0,Other Long Term Debt,2. Liability
 440,0,Debt Associated with Capital Assets,2. Liability
-440,-1070000,Accrued Expenses and Other Payables,2. Liability
+440,-1070000,Contingencies,2. Liability
 440,0,Debt Associated with Capital Assets,2. Liability
 440,0,Other Long Term Debt,2. Liability
 440,-254508.5,Debt Associated with Capital Assets,2. Liability
@@ -1581,9 +1581,9 @@ Fund,Balance,Category,Type
 440,-977008.2,Beginning Fund Balances,3. Equity
 440,330718.86,Beginning Fund Balances,3. Equity
 440,-383319.38,Beginning Fund Balances,3. Equity
-440,4966075.84,Beginning Fund Balances,3. Equity
+440,4778766.74,Beginning Fund Balances,3. Equity
 440,60,Beginning Fund Balances,3.1 Equity Budget
-440,-3599945.31,Beginning Fund Balances,3. Equity
+440,-3008354.02,Beginning Fund Balances,3. Equity
 440,4638647.02,Beginning Fund Balances,3. Equity
 440,-331074.92,Deferred Inflow of Resources,2.2 Deferred Liability
 440,-65901.12,Intergovernmental,4. Revenue
@@ -1592,7 +1592,7 @@ Fund,Balance,Category,Type
 440,-5594908.76,Charges for Services,4. Revenue
 440,0,Charges for Services,4. Revenue
 440,-610.64,Charges for Services,4. Revenue
-440,-42314.74,Charges for Services,4. Revenue
+440,-95019.55,Charges for Services,4. Revenue
 440,-12433.93,Charges for Services,4. Revenue
 440,-1123.1,Charges for Services,4. Revenue
 440,-75,Charges for Services,4. Revenue
@@ -1609,11 +1609,11 @@ Fund,Balance,Category,Type
 440,0,Interest,4. Revenue
 440,-23.84,Interest,4. Revenue
 440,-5548.92,Other,4. Revenue
-440,-718914.23,Other,4. Revenue
-440,-17395.67,Other,4. Revenue
+440,-537228.53,Charges for Services,4. Revenue
+440,-17395.67,Charges for Services,4. Revenue
 440,0,Other,4. Revenue
-440,-295,Other,4. Revenue
-440,-1933.86,Other,4. Revenue
+440,-295,Charges for Services,4. Revenue
+440,-1933.86,Charges for Services,4. Revenue
 440,0,Transfers In,6. Transfers
 440,0,Transfers In,6. Transfers
 440,0,Transfers In,6. Transfers
@@ -1625,18 +1625,18 @@ Fund,Balance,Category,Type
 440,71305.78,Utilities,5. Expense
 440,9980.16,Utilities,5. Expense
 440,10397.26,Utilities,5. Expense
-440,20682.52,Utilities,5. Expense
-440,17439.16,Utilities,5. Expense
+440,16518.10685,Utilities,5. Expense
+440,22798.24237,Utilities,5. Expense
 440,0,Utilities,5. Expense
 440,6104.5,Utilities,5. Expense
-440,495869.98,Utilities,5. Expense
+440,446797.98,Utilities,5. Expense
 440,176.69,Utilities,5. Expense
 440,84661.54,Utilities,5. Expense
 440,2413902.12,Utilities,5. Expense
 440,18210.34,Utilities,5. Expense
-440,14358.65,Utilities,5. Expense
-440,26770.67,Utilities,5. Expense
-440,18587.2,Utilities,5. Expense
+440,14409.78,Utilities,5. Expense
+440,26778.5,Utilities,5. Expense
+440,18607.86,Utilities,5. Expense
 440,5519.95,Utilities,5. Expense
 440,0,Utilities,5. Expense
 440,0,Utilities,5. Expense
@@ -1644,35 +1644,35 @@ Fund,Balance,Category,Type
 440,2521.6,Utilities,5. Expense
 440,0,Utilities,5. Expense
 440,12.6,Utilities,5. Expense
-440,0,Utilities,5. Expense
-440,115400.53,Utilities,5. Expense
-440,0,Utilities,5. Expense
-440,0,Utilities,5. Expense
-440,0,Utilities,5. Expense
-440,-4805.94,Utilities,5. Expense
+440,0,Capital Acquisitions,5. Expense
+440,115400.53,Capital Acquisitions,5. Expense
 440,0,Utilities,5. Expense
 440,0,Utilities,5. Expense
+440,0,Utilities,5. Expense
+440,1144.06,Capital Acquisitions,5. Expense
+440,0,Interest and Other Debt Costs,5. Expense
+440,0,Bad Debts and Other,5. Expense
 440,0,General Government,5. Expense
-440,235519.42,General Government,5. Expense
+440,236309.86,General Government,5. Expense
 440,0,General Government,5. Expense
 440,1932.6,General Government,5. Expense
-440,17456.93,General Government,5. Expense
-440,133970.08,General Government,5. Expense
-440,31613.18,General Government,5. Expense
+440,17517.4,General Government,5. Expense
+440,128223.1919,General Government,5. Expense
+440,34541.40079,General Government,5. Expense
 440,40241.5,General Government,5. Expense
 440,306236.1,General Government,5. Expense
 440,74717.89,General Government,5. Expense
 440,24098.26,General Government,5. Expense
 440,0,General Government,5. Expense
-440,15561.36,General Government,5. Expense
-440,982443.92,General Government,5. Expense
+440,15616.77,General Government,5. Expense
+440,982731.59,General Government,5. Expense
 440,12654.09,General Government,5. Expense
 440,35008.86,General Government,5. Expense
 440,1601.25,General Government,5. Expense
 440,0,General Government,5. Expense
 440,0,General Government,5. Expense
-440,531900.49,General Government,5. Expense
-440,3935623.64,General Government,5. Expense
+440,531900.49,Interest and Other Debt Costs,5. Expense
+440,5135623.64,Bad Debts and Other,5. Expense
 440,488693.81,General Government,5. Expense
 440,1000000,General Government,5. Expense
 440,5068.5,General Government,5. Expense
@@ -1682,38 +1682,38 @@ Fund,Balance,Category,Type
 440,0,Transportation,5. Expense
 440,61594.78,Transportation,5. Expense
 440,0,Utilities,5. Expense
-440,108307.01,Transportation,5. Expense
+440,109056.2,Transportation,5. Expense
 440,135.14,Transportation,5. Expense
-440,7784.01,Transportation,5. Expense
-440,11758.22,Transportation,5. Expense
-440,34145.82,Transportation,5. Expense
+440,7841.33,Transportation,5. Expense
+440,5928.041594,Transportation,5. Expense
+440,37253.56087,Transportation,5. Expense
 440,326.06,Transportation,5. Expense
 440,0,Transportation,5. Expense
-440,14358.65,Transportation,5. Expense
-440,26770.67,Transportation,5. Expense
-440,48040.8,Transportation,5. Expense
+440,14409.78,Transportation,5. Expense
+440,26778.5,Transportation,5. Expense
+440,48094.2,Transportation,5. Expense
 440,0,Transportation,5. Expense
 440,8648.64,Transportation,5. Expense
 440,0,Transportation,5. Expense
 440,11.99,Transportation,5. Expense
+440,0,Capital Acquisitions,5. Expense
 440,0,Transportation,5. Expense
-440,0,Transportation,5. Expense
-440,-3871.15,Transportation,5. Expense
+440,623.81,Interest and Other Debt Costs,5. Expense
 440,3660.25,Utilities,5. Expense
 440,0,Transportation,5. Expense
 440,0,Transportation,5. Expense
 440,0,Transportation,5. Expense
-440,7902.52,Transportation,5. Expense
-440,8367.39,Transportation,5. Expense
-440,-74213.15,Transportation,5. Expense
+440,6236.754741,Transportation,5. Expense
+440,10957.17115,Transportation,5. Expense
+440,342249.19,Transportation,5. Expense
 440,53769.99,Transportation,5. Expense
 440,168431.01,Transportation,5. Expense
 440,306.78,Transportation,5. Expense
 440,1418526.15,Transportation,5. Expense
 440,2969.06,Transportation,5. Expense
-440,6705.82,Transportation,5. Expense
-440,26770.67,Transportation,5. Expense
-440,45128.73,Transportation,5. Expense
+440,6729.7,Transportation,5. Expense
+440,26778.5,Transportation,5. Expense
+440,45178.89,Transportation,5. Expense
 440,11880.9,Transportation,5. Expense
 440,3325.13,Transportation,5. Expense
 440,11.97,Transportation,5. Expense
@@ -1721,22 +1721,22 @@ Fund,Balance,Category,Type
 440,97.95,Transportation,5. Expense
 440,309.07,Transportation,5. Expense
 440,708.58,Transportation,5. Expense
-440,0,Transportation,5. Expense
-440,67446.07,Transportation,5. Expense
-440,10965,Transportation,5. Expense
-440,0,Transportation,5. Expense
-440,23767.02,Transportation,5. Expense
-440,691410.8218,Transportation,5. Expense
-440,104980.74,Utilities,5. Expense
+440,0,Capital Acquisitions,5. Expense
+440,67446.07,Capital Acquisitions,5. Expense
+440,10965,Capital Acquisitions,5. Expense
+440,0,Interest and Other Debt Costs,5. Expense
+440,23767.02,Interest and Other Debt Costs,5. Expense
+440,691410.8218,Depreciation,5. Expense
+440,105403.78,Utilities,5. Expense
 440,45000.01,Utilities,5. Expense
-440,10216.79,Utilities,5. Expense
-440,2418.82,Utilities,5. Expense
+440,10249.16,Utilities,5. Expense
+440,753.0547411,Utilities,5. Expense
 440,7755.19,Utilities,5. Expense
-440,-49072,Utilities,5. Expense
 440,0,Utilities,5. Expense
-440,26770.67,Utilities,5. Expense
 440,0,Utilities,5. Expense
-440,125183.69,Utilities,5. Expense
+440,26778.5,Utilities,5. Expense
+440,0,Capital Acquisitions,5. Expense
+440,125183.69,Capital Acquisitions,5. Expense
 440,0,Utilities,5. Expense
 440,0,Utilities,5. Expense
 440,0,Utilities,5. Expense
@@ -1772,14 +1772,14 @@ Fund,Balance,Category,Type
 450,-225135.49,Accounts Payable,2. Liability
 450,0,Accounts Payable,2. Liability
 450,-38513.74,Accounts Payable,2. Liability
-450,-1187446.08,Interfund Payables,2.1 Interfund Payable
-450,-102069.9,Interfund Payables,2.1 Interfund Payable
-450,-19634.22,Interfund Payables,2.1 Interfund Payable
+450,-1185924.004,Interfund Payables,2.1 Interfund Payable
+450,-102085.11,Interfund Payables,2.1 Interfund Payable
+450,-19654.73,Interfund Payables,2.1 Interfund Payable
 450,0,Interfund Payables,2.1 Interfund Payable
 450,0,Interfund Payables,2.1 Interfund Payable
 450,-65254.45,Interfund Payables,2.1 Interfund Payable
 450,-28310.88,Compensated Absences,2. Liability
-450,-881.11,Accrued Expenses and Other Payables,2. Liability
+450,-1114.41,Accrued Expenses and Other Payables,2. Liability
 450,0,Accrued Expenses and Other Payables,2. Liability
 450,0,Accrued Expenses and Other Payables,2. Liability
 450,-3995.68,OPEB,2. Liability
@@ -1805,31 +1805,31 @@ Fund,Balance,Category,Type
 450,0,Other,4. Revenue
 450,0,Transfers In,6. Transfers
 450,0,Debt Proceeds,4. Revenue
-450,2763.6,Transportation,5. Expense
-450,63676.47,Transportation,5. Expense
+450,2763.6,Interest and Other Debt Costs,5. Expense
+450,63893.19,Transportation,5. Expense
 450,0,Transportation,5. Expense
-450,5606.58,Transportation,5. Expense
-450,5973.89,Transportation,5. Expense
-450,10094.89,Transportation,5. Expense
+450,5623.16,Transportation,5. Expense
+450,4308.124741,Transportation,5. Expense
+450,10222.61972,Transportation,5. Expense
 450,380,Transportation,5. Expense
 450,0,Transportation,5. Expense
 450,474518.13,Transportation,5. Expense
-450,5877.93,Transportation,5. Expense
+450,5898.44,Transportation,5. Expense
 450,0,Transportation,5. Expense
 450,68938.08,Transportation,5. Expense
 450,0,Transportation,5. Expense
-450,51958.06,Transportation,5. Expense
-450,14360.68,Transportation,5. Expense
+450,51973.27,Transportation,5. Expense
+450,14376.64,Transportation,5. Expense
 450,616.99,Transportation,5. Expense
 450,0,Transportation,5. Expense
 450,0,Transportation,5. Expense
 450,0,Transportation,5. Expense
-450,0,Transportation,5. Expense
-450,2627.31,Transportation,5. Expense
-450,0,Transportation,5. Expense
+450,0,Capital Acquisitions,5. Expense
+450,2627.31,Capital Acquisitions,5. Expense
+450,0,Interest and Other Debt Costs,5. Expense
 450,0,Transportation,5. Expense
 450,0,Transfers out,6. Transfers
-450,0,Transportation,5. Expense
+450,0,Depreciation,5. Expense
 450,0,Transportation,5. Expense
 450,0,Transportation,5. Expense
 450,332.75,Transportation,5. Expense
@@ -1873,7 +1873,7 @@ Fund,Balance,Category,Type
 490,0,Intergovernmental Payables,2. Liability
 490,0,Intergovernmental Payables,2. Liability
 490,0,Accrued Expenses and Other Payables,2. Liability
-490,0,Accrued Expenses and Other Payables,2. Liability
+490,-166.03,Accrued Expenses and Other Payables,2. Liability
 490,-33794.68,Deposits,2. Liability
 490,0,Debt Associated with Capital Assets,2. Liability
 490,0,Debt Associated with Capital Assets,2. Liability
@@ -1894,7 +1894,7 @@ Fund,Balance,Category,Type
 490,0,"Local Option, Use, and Fuel Taxes",4. Revenue
 490,0,"Local Option, Use, and Fuel Taxes",4. Revenue
 490,0,Utility taxes,4. Revenue
-490,0,Utility taxes,4. Revenue
+490,0,Communication services tax,4. Revenue
 490,0,Charges for Services,4. Revenue
 490,0,Charges for Services,4. Revenue
 490,0,Charges for Services,4. Revenue
@@ -1914,11 +1914,11 @@ Fund,Balance,Category,Type
 490,0,Transfers In,6. Transfers
 490,0,Transfers In,6. Transfers
 490,0,Debt Proceeds,4. Revenue
+490,-1.14E-13,General Government,5. Expense
 490,0,General Government,5. Expense
-490,0,General Government,5. Expense
-490,6123.7,General Government,5. Expense
+490,6277.93,General Government,5. Expense
 490,33.05,General Government,5. Expense
-490,465.95,General Government,5. Expense
+490,477.75,General Government,5. Expense
 490,0,General Government,5. Expense
 490,-8.92,General Government,5. Expense
 490,0,General Government,5. Expense
@@ -1971,7 +1971,7 @@ Fund,Balance,Category,Type
 901,-24438182.51,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,0,Buildings: Cost,1. Asset
 951,-58510.67,Ending GFAAG and GLTD Fund Balances,3. Equity
-951,24714920.61,Ending GFAAG and GLTD Fund Balances,3. Equity
+951,24764047.46,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,1252542.02,Deferred Outflow of Resources,1.2 Deferred Asset
 951,-1779210.95,Compensated Absences,2. Liability
 951,-331169.65,OPEB,2. Liability
@@ -1981,7 +1981,7 @@ Fund,Balance,Category,Type
 951,-545000,Debt Associated with Capital Assets,2. Liability
 951,-3689000,Debt Associated with Capital Assets,2. Liability
 951,0,Debt Associated with Capital Assets,2. Liability
-951,-2805656.07,Debt Associated with Capital Assets,2. Liability
+951,-2854782.92,Debt Associated with Capital Assets,2. Liability
 951,-4565863.26,Debt Associated with Capital Assets,2. Liability
 951,-245223.42,Debt Associated with Capital Assets,2. Liability
 951,-6201.68,Debt Associated with Capital Assets,2. Liability
