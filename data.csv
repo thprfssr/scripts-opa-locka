@@ -118,7 +118,7 @@ Fund,Balance,Category,Type
 001,0,Furniture and Equipment: Depreciation,1. Asset
 001,0,Infrastructure: Cost,1. Asset
 001,0,Furniture and Equipment: Cost,1. Asset
-001,-684095.68,Accounts Payable,2. Liability
+001,-608836.83,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
@@ -211,7 +211,7 @@ Fund,Balance,Category,Type
 001,0,Beginning Fund Balances,3.2 Equity Encumbrance
 001,0,Beginning Fund Balances,3. Equity
 001,580834.89,Beginning Fund Balances,3. Equity
-001,-720028.79,Beginning Fund Balances,3. Equity
+001,-795287.64,Beginning Fund Balances,3. Equity
 001,0,Beginning Fund Balances,3. Equity
 001,48702.7,Beginning Fund Balances,3.1 Equity Budget
 001,-839770.89,Beginning Fund Balances,3. Equity
@@ -1047,7 +1047,7 @@ Fund,Balance,Category,Type
 176,0,Interfund Receivables,1.1 Interfund Receivable
 176,0,Interfund Receivables,1.1 Interfund Receivable
 176,0,Intergovernmental Receivables,1. Asset
-176,1995719.91,Intergovernmental Receivables,1. Asset
+176,2070719.91,Intergovernmental Receivables,1. Asset
 176,974.15,Intergovernmental Receivables,1. Asset
 176,-53314.2,Accounts Payable,2. Liability
 176,0,Accounts Payable,2. Liability
@@ -1063,7 +1063,7 @@ Fund,Balance,Category,Type
 176,210387.78,Beginning Fund Balances,3.1 Equity Budget
 176,0,Beginning Fund Balances,3.2 Equity Encumbrance
 176,0,Beginning Fund Balances,3.2 Equity Encumbrance
-176,352348,Beginning Fund Balances,3. Equity
+176,277348,Beginning Fund Balances,3. Equity
 176,0,Beginning Fund Balances,3.1 Equity Budget
 176,-1393847.25,Beginning Fund Balances,3. Equity
 176,0,Property taxes,4. Revenue
@@ -1495,7 +1495,7 @@ Fund,Balance,Category,Type
 440,10380723.68,Infrastructure: Cost,1. Asset
 440,5055026.38,Infrastructure: Cost,1. Asset
 440,135938.24,Furniture and Equipment: Cost,1. Asset
-440,170801.32,Deferred Outflow of Resources,1.2 Deferred Asset
+440,415806.32,Deferred Outflow of Resources,1.2 Deferred Asset
 440,-851879.65,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
 440,0,Accounts Payable,2. Liability
@@ -1528,7 +1528,7 @@ Fund,Balance,Category,Type
 440,0,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
-440,-1600000.25,Intergovernmental Payables,2. Liability
+440,-1600000.25,Other Long Term Debt,2. Liability
 440,-342249.19,Intergovernmental Payables,2. Liability
 440,0,Intergovernmental Payables,2. Liability
 440,-71916.74,Compensated Absences,2. Liability
@@ -1657,7 +1657,7 @@ Fund,Balance,Category,Type
 440,0,General Government,5. Expense
 440,1932.6,General Government,5. Expense
 440,17517.4,General Government,5. Expense
-440,128223.1919,General Government,5. Expense
+440,-116546.8081,General Government,5. Expense
 440,34541.40079,General Government,5. Expense
 440,40241.5,General Government,5. Expense
 440,306236.1,General Government,5. Expense
@@ -1699,7 +1699,7 @@ Fund,Balance,Category,Type
 440,0,Capital Acquisitions,5. Expense
 440,0,Transportation,5. Expense
 440,623.81,Interest and Other Debt Costs,5. Expense
-440,3660.25,Utilities,5. Expense
+440,3425.25,Utilities,5. Expense
 440,0,Transportation,5. Expense
 440,0,Transportation,5. Expense
 440,0,Transportation,5. Expense
@@ -1971,8 +1971,8 @@ Fund,Balance,Category,Type
 901,-24438182.51,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,0,Buildings: Cost,1. Asset
 951,-58510.67,Ending GFAAG and GLTD Fund Balances,3. Equity
-951,24764047.46,Ending GFAAG and GLTD Fund Balances,3. Equity
-951,1252542.02,Deferred Outflow of Resources,1.2 Deferred Asset
+951,22967344.46,Ending GFAAG and GLTD Fund Balances,3. Equity
+951,3049245.02,Deferred Outflow of Resources,1.2 Deferred Asset
 951,-1779210.95,Compensated Absences,2. Liability
 951,-331169.65,OPEB,2. Liability
 951,-252875,Contingencies,2. Liability
