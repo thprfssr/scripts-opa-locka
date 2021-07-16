@@ -58,7 +58,7 @@ Fund,Balance,Category,Type
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,72924.24,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
-001,0,Interfund Receivables,1.1 Interfund Receivable
+001,3443310.98,Interfund Receivables,1.1 Interfund Receivable
 001,0,Interfund Receivables,1.1 Interfund Receivable
 001,2478532.3,Interfund Receivables,1.1 Interfund Receivable
 001,417629.62,Interfund Receivables,1.1 Interfund Receivable
@@ -118,7 +118,7 @@ Fund,Balance,Category,Type
 001,0,Furniture and Equipment: Depreciation,1. Asset
 001,0,Infrastructure: Cost,1. Asset
 001,0,Furniture and Equipment: Cost,1. Asset
-001,-608836.83,Accounts Payable,2. Liability
+001,-2411508.83,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
 001,0,Accounts Payable,2. Liability
@@ -150,7 +150,7 @@ Fund,Balance,Category,Type
 001,0,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
 001,-270496.32,Interfund Payables,2.1 Interfund Payable
-001,-0.11,Interfund Payables,2.1 Interfund Payable
+001,-4410213.27,Interfund Payables,2.1 Interfund Payable
 001,0,Interfund Payables,2.1 Interfund Payable
 001,-891486.25,Interfund Payables,2.1 Interfund Payable
 001,-1647571.63,Interfund Payables,2.1 Interfund Payable
@@ -211,10 +211,10 @@ Fund,Balance,Category,Type
 001,0,Beginning Fund Balances,3.2 Equity Encumbrance
 001,0,Beginning Fund Balances,3. Equity
 001,580834.89,Beginning Fund Balances,3. Equity
-001,-795287.64,Beginning Fund Balances,3. Equity
+001,3051198.61,Beginning Fund Balances,3. Equity
 001,0,Beginning Fund Balances,3. Equity
 001,48702.7,Beginning Fund Balances,3.1 Equity Budget
-001,-839770.89,Beginning Fund Balances,3. Equity
+001,-1916682.96,Beginning Fund Balances,3. Equity
 001,-7984161.39,Property taxes,4. Revenue
 001,0,"Local Option, Use, and Fuel Taxes",4. Revenue
 001,0,"Local Option, Use, and Fuel Taxes",4. Revenue
@@ -571,7 +571,7 @@ Fund,Balance,Category,Type
 001,16603.08,Public Safety,5. Expense
 001,755,Public Safety,5. Expense
 001,0,Capital Acquisitions,5. Expense
-001,50904.17,Capital Acquisitions,5. Expense
+001,50904.17,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Capital Acquisitions,5. Expense
 001,53011.46,Principal Payments,5. Expense
@@ -613,7 +613,7 @@ Fund,Balance,Category,Type
 001,9584.78,Public Safety,5. Expense
 001,450,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
-001,0,Capital Acquisitions,5. Expense
+001,0,Public Safety,5. Expense
 001,0,Principal Payments,5. Expense
 001,0,Public Safety,5. Expense
 001,266480.74,General Government,5. Expense
@@ -640,7 +640,7 @@ Fund,Balance,Category,Type
 001,1951.77,General Government,5. Expense
 001,0,General Government,5. Expense
 001,4155.5,General Government,5. Expense
-001,4780.56,Principal Payments,5. Expense
+001,4780.56,Capital Acquisitions,5. Expense
 001,108000.06,General Government,5. Expense
 001,71946.25,General Government,5. Expense
 001,0,General Government,5. Expense
@@ -658,7 +658,7 @@ Fund,Balance,Category,Type
 001,73.66,General Government,5. Expense
 001,1595.46,General Government,5. Expense
 001,0,General Government,5. Expense
-001,4355.57,Principal Payments,5. Expense
+001,4355.57,Capital Acquisitions,5. Expense
 001,124527.42,Public Safety,5. Expense
 001,102359.31,Public Safety,5. Expense
 001,10251.17,Public Safety,5. Expense
@@ -684,7 +684,7 @@ Fund,Balance,Category,Type
 001,0,Public Safety,5. Expense
 001,0,Public Safety,5. Expense
 001,0,Capital Acquisitions,5. Expense
-001,535.2,Capital Acquisitions,5. Expense
+001,535.2,Public Safety,5. Expense
 001,185130.15,Capital Acquisitions,5. Expense
 001,0,Principal Payments,5. Expense
 001,70701.94,General Government,5. Expense
@@ -724,7 +724,7 @@ Fund,Balance,Category,Type
 001,0,General Government,5. Expense
 001,19760.72,General Government,5. Expense
 001,0,General Government,5. Expense
-001,0,Capital Acquisitions,5. Expense
+001,0,Transportation,5. Expense
 001,0,Principal Payments,5. Expense
 001,191928.57,Transportation,5. Expense
 001,5628.64,Transportation,5. Expense
@@ -744,7 +744,7 @@ Fund,Balance,Category,Type
 001,0,Transportation,5. Expense
 001,6606.76,Transportation,5. Expense
 001,6970.36,Transportation,5. Expense
-001,48161.94,Capital Acquisitions,5. Expense
+001,48161.94,Transportation,5. Expense
 001,0,Principal Payments,5. Expense
 001,0,Transportation,5. Expense
 001,528.91,Transportation,5. Expense
@@ -763,8 +763,8 @@ Fund,Balance,Category,Type
 001,0,Transportation,5. Expense
 001,0,Transportation,5. Expense
 001,0,Transportation,5. Expense
-001,0,Capital Acquisitions,5. Expense
-001,127976.55,Capital Acquisitions,5. Expense
+001,0,Transportation,5. Expense
+001,127976.55,General Government,5. Expense
 001,70304,Culture and Recreation,5. Expense
 001,197007.77,Culture and Recreation,5. Expense
 001,9942.6,Culture and Recreation,5. Expense
@@ -889,7 +889,7 @@ Fund,Balance,Category,Type
 165,0,Interfund Receivables,1.1 Interfund Receivable
 165,0,Intergovernmental Receivables,1. Asset
 165,0,Prepaids and Other,1. Asset
-165,0,Accounts Payable,2. Liability
+165,-4406,Accounts Payable,2. Liability
 165,0,Accounts Payable,2. Liability
 165,23.73,Interfund Payables,2.1 Interfund Payable
 165,0,Interfund Payables,2.1 Interfund Payable
@@ -900,7 +900,7 @@ Fund,Balance,Category,Type
 165,11704.54,Beginning Fund Balances,3.1 Equity Budget
 165,1500,Beginning Fund Balances,3.2 Equity Encumbrance
 165,-1500,Beginning Fund Balances,3.2 Equity Encumbrance
-165,-153923.45,Beginning Fund Balances,3. Equity
+165,-149517.45,Beginning Fund Balances,3. Equity
 165,0,Beginning Fund Balances,3.1 Equity Budget
 165,-513914.53,Beginning Fund Balances,3. Equity
 165,-2394.54,Intergovernmental,4. Revenue
@@ -1145,7 +1145,7 @@ Fund,Balance,Category,Type
 180,270496.32,Interfund Receivables,1.1 Interfund Receivable
 180,72006,Interfund Receivables,1.1 Interfund Receivable
 180,0,Interfund Receivables,1.1 Interfund Receivable
-180,-2000,Accounts Payable,2. Liability
+180,-70204,Accounts Payable,2. Liability
 180,0,Accounts Payable,2. Liability
 180,-72924.24,Interfund Payables,2.1 Interfund Payable
 180,-28432.54,Interfund Payables,2.1 Interfund Payable
@@ -1157,7 +1157,7 @@ Fund,Balance,Category,Type
 180,527613,Beginning Fund Balances,3.1 Equity Budget
 180,175,Beginning Fund Balances,3.2 Equity Encumbrance
 180,-175,Beginning Fund Balances,3.2 Equity Encumbrance
-180,-129851.33,Beginning Fund Balances,3. Equity
+180,-61647.33,Beginning Fund Balances,3. Equity
 180,0,Beginning Fund Balances,3.1 Equity Budget
 180,-229624.61,Beginning Fund Balances,3. Equity
 180,-381397.67,Property taxes,4. Revenue
@@ -1218,7 +1218,7 @@ Fund,Balance,Category,Type
 230,4009292.24,Restricted Cash,1. Asset
 230,0,Accounts Receivable: Gross,1. Asset
 230,108372.06,Accounts Receivable: Gross,1. Asset
-230,0,Interfund Receivables,1.1 Interfund Receivable
+230,4410213.16,Interfund Receivables,1.1 Interfund Receivable
 230,0,Interfund Receivables,1.1 Interfund Receivable
 230,0,Interfund Receivables,1.1 Interfund Receivable
 230,238480.84,Interfund Receivables,1.1 Interfund Receivable
@@ -1226,7 +1226,7 @@ Fund,Balance,Category,Type
 230,0,Prepaids and Other,1. Asset
 230,0,Accounts Payable,2. Liability
 230,0,Accounts Payable,2. Liability
-230,0,Interfund Payables,2.1 Interfund Payable
+230,-3443310.98,Interfund Payables,2.1 Interfund Payable
 230,0,Interfund Payables,2.1 Interfund Payable
 230,9.09E-13,Interfund Payables,2.1 Interfund Payable
 230,0,Accrued Expenses and Other Payables,2. Liability
@@ -1237,7 +1237,7 @@ Fund,Balance,Category,Type
 230,0,Beginning Fund Balances,3.2 Equity Encumbrance
 230,0,Beginning Fund Balances,3.2 Equity Encumbrance
 230,-316613.02,Beginning Fund Balances,3. Equity
-230,3936122.62,Beginning Fund Balances,3. Equity
+230,2893745.03,Beginning Fund Balances,3. Equity
 230,297202.69,Beginning Fund Balances,3.1 Equity Budget
 230,-7644074.28,Beginning Fund Balances,3. Equity
 230,-1463589.95,Utility taxes,4. Revenue
@@ -1252,7 +1252,7 @@ Fund,Balance,Category,Type
 230,0,Transfers In,6. Transfers
 230,527000,Principal Payments,5. Expense
 230,244487.52,Principal Payments,5. Expense
-230,84481.43,Interest and Other Debt Costs,5. Expense
+230,159956.84,Interest and Other Debt Costs,5. Expense
 230,278725.31,Interest and Other Debt Costs,5. Expense
 230,0,General Government,5. Expense
 230,978659.69,Transfers out,6. Transfers
@@ -1299,7 +1299,7 @@ Fund,Balance,Category,Type
 320,100000,Intergovernmental Receivables,1. Asset
 320,0,Intergovernmental Receivables,1. Asset
 320,0,Infrastructure: Cost,1. Asset
-320,0,Accounts Payable,2. Liability
+320,-18827,Accounts Payable,2. Liability
 320,0,Accounts Payable,2. Liability
 320,-221287.3,Accounts Payable,2. Liability
 320,-2478532.3,Interfund Payables,2.1 Interfund Payable
@@ -1312,7 +1312,7 @@ Fund,Balance,Category,Type
 320,57807.56,Beginning Fund Balances,3.2 Equity Encumbrance
 320,-57807.56,Beginning Fund Balances,3.2 Equity Encumbrance
 320,-138018.56,Beginning Fund Balances,3. Equity
-320,-645037.32,Beginning Fund Balances,3. Equity
+320,-626210.32,Beginning Fund Balances,3. Equity
 320,-1.04,Beginning Fund Balances,3.1 Equity Budget
 320,867619.14,Beginning Fund Balances,3. Equity
 320,-236982.89,"Local Option, Use, and Fuel Taxes",4. Revenue
@@ -1417,7 +1417,7 @@ Fund,Balance,Category,Type
 440,24418.06,Accounts Receivable: Gross,1. Asset
 440,9238643.26,Accounts Receivable: Gross,1. Asset
 440,0.01,Accounts Receivable: Gross,1. Asset
-440,-6802236.98,Accounts Receivable: Allowance,1. Asset
+440,-6127521.82,Accounts Receivable: Allowance,1. Asset
 440,0,Accounts Receivable: Gross,1. Asset
 440,3668023.26,Interfund Receivables,1.1 Interfund Receivable
 440,0,Interfund Receivables,1.1 Interfund Receivable
@@ -1581,9 +1581,9 @@ Fund,Balance,Category,Type
 440,-977008.2,Beginning Fund Balances,3. Equity
 440,330718.86,Beginning Fund Balances,3. Equity
 440,-383319.38,Beginning Fund Balances,3. Equity
-440,4778766.74,Beginning Fund Balances,3. Equity
+440,5370358.03,Beginning Fund Balances,3. Equity
 440,60,Beginning Fund Balances,3.1 Equity Budget
-440,-3008354.02,Beginning Fund Balances,3. Equity
+440,-3599945.31,Beginning Fund Balances,3. Equity
 440,4638647.02,Beginning Fund Balances,3. Equity
 440,-331074.92,Deferred Inflow of Resources,2.2 Deferred Liability
 440,-65901.12,Intergovernmental,4. Revenue
@@ -1672,7 +1672,7 @@ Fund,Balance,Category,Type
 440,0,General Government,5. Expense
 440,0,General Government,5. Expense
 440,531900.49,Interest and Other Debt Costs,5. Expense
-440,5135623.64,Bad Debts and Other,5. Expense
+440,4460908.48,Bad Debts and Other,5. Expense
 440,488693.81,General Government,5. Expense
 440,1000000,General Government,5. Expense
 440,5068.5,General Government,5. Expense
@@ -1722,7 +1722,7 @@ Fund,Balance,Category,Type
 440,309.07,Transportation,5. Expense
 440,708.58,Transportation,5. Expense
 440,0,Capital Acquisitions,5. Expense
-440,67446.07,Capital Acquisitions,5. Expense
+440,67446.07,Utilities,5. Expense
 440,10965,Capital Acquisitions,5. Expense
 440,0,Interest and Other Debt Costs,5. Expense
 440,23767.02,Interest and Other Debt Costs,5. Expense
@@ -1752,7 +1752,7 @@ Fund,Balance,Category,Type
 450,1047068.93,Accounts Receivable: Gross,1. Asset
 450,9958.48,Accounts Receivable: Gross,1. Asset
 450,0,Accounts Receivable: Gross,1. Asset
-450,-17263.64,Accounts Receivable: Allowance,1. Asset
+450,-709242.44,Accounts Receivable: Allowance,1. Asset
 450,12723.12,Interfund Receivables,1.1 Interfund Receivable
 450,117551,Interfund Receivables,1.1 Interfund Receivable
 450,0,Interfund Receivables,1.1 Interfund Receivable
@@ -1829,6 +1829,7 @@ Fund,Balance,Category,Type
 450,0,Interest and Other Debt Costs,5. Expense
 450,0,Transportation,5. Expense
 450,0,Transfers out,6. Transfers
+450,691978.8,Bad Debts and Other,5. Expense
 450,0,Depreciation,5. Expense
 450,0,Transportation,5. Expense
 450,0,Transportation,5. Expense
@@ -1913,7 +1914,7 @@ Fund,Balance,Category,Type
 490,0,Transfers In,6. Transfers
 490,0,Transfers In,6. Transfers
 490,0,Transfers In,6. Transfers
-490,0,Debt Proceeds,4. Revenue
+490,0.00E+00,Debt Proceeds,4. Revenue
 490,-1.14E-13,General Government,5. Expense
 490,0,General Government,5. Expense
 490,6277.93,General Government,5. Expense
@@ -1946,7 +1947,7 @@ Fund,Balance,Category,Type
 901,657338.86,Furniture and Equipment: Cost,1. Asset
 901,306319.92,Furniture and Equipment: Cost,1. Asset
 901,-0.08,Furniture and Equipment: Cost,1. Asset
-901,145557.78,Furniture and Equipment: Cost,1. Asset
+901,330687.93,Furniture and Equipment: Cost,1. Asset
 901,15744.93,Furniture and Equipment: Cost,1. Asset
 901,2925.48,Furniture and Equipment: Cost,1. Asset
 901,94186.13,Furniture and Equipment: Cost,1. Asset
@@ -1964,11 +1965,11 @@ Fund,Balance,Category,Type
 901,65494.38,Furniture and Equipment: Cost,1. Asset
 901,50694.55,Furniture and Equipment: Cost,1. Asset
 901,70749.54,Furniture and Equipment: Cost,1. Asset
-901,-4749810.08,Furniture and Equipment: Depreciation,1. Asset
+901,-4754438.33,Furniture and Equipment: Depreciation,1. Asset
 901,2114944.43,Construction in Progress,1. Asset
 901,21648027.52,Infrastructure: Cost,1. Asset
 901,482672.1,Furniture and Equipment: Cost,1. Asset
-901,-24438182.51,Ending GFAAG and GLTD Fund Balances,3. Equity
+901,-24618684.41,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,0,Buildings: Cost,1. Asset
 951,-58510.67,Ending GFAAG and GLTD Fund Balances,3. Equity
 951,22967344.46,Ending GFAAG and GLTD Fund Balances,3. Equity
